@@ -163,6 +163,9 @@ steghide extract -sf file -p password
 ## steghide with dictionary
 {% embed url="https://raw.githubusercontent.com/felipesi/steghide-crack/master/steghide-crack.sh" %}
 
+## stegseek
+stegseek cute-alien.jpg /usr/share/wordlists/rockyou.txt
+
 ## stegsolve
 {% embed url="https://github.com/zardus/ctf-tools/tree/master/stegsolve" %}
 
