@@ -11,17 +11,22 @@ nmap -sn 192.168.0.1/24
 ## Local IP (eth0)
 ```
 export ip=$(ifconfig eth0 | grep 'inet ' | awk -F'[: ]+' '{ print $3 }')
+echo $ip
 ```
 
 ## VPN IP (tun0)
 ```
 export vpn=$(ifconfig tun0 | grep 'inet ' | awk -F'[: ]+' '{ print $3 }')
+echo $vpn
 ```
 
 ## Target
 ```
 export target=192.168.17.60
+echo $target
+
 export folder='target'
+echo $folder
 ```
 
 ## NMAP
