@@ -1,11 +1,16 @@
 # Web
 
+## View source
+
+## robots.txt
+
+
 ## Web path discovery
 
 
 ### Gobuster
 ```
-gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt -t 100 -o $target_name.dir.txt
+gobuster dir -u http://$target -w /usr/share/dirb/wordlists/common.txt -t 100 -o $target_name.dir.txt
 gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt -x .php,.txt,.html -t 100 -o $target_name.file.txt
 
 ```
