@@ -18,10 +18,12 @@ dirb $target
   cd dirsearch
   pip3 install -r requirements.txt
   python3 dirsearch.py -u <URL> -e <EXTENSIONS>
+  
+  python3 dirsearch.py -u $target -e php,html,txt port80
 ```
 
 
-enum4linux <machien_ip>
+enum4linux $ip
 
 
 hydra -l <username> -P /usr/share/wordlists
@@ -31,7 +33,6 @@ hydra -t 4 -l jan -P <rockyou.txt directory> ssh://<MACHINE IP>
   
   
   
-  sudo -l
 
 
   ## rockyou
