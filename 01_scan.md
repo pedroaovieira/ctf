@@ -1,19 +1,25 @@
 # Perform Host Discovery
 
 ## Hosts on network
-```
+• ```
 netdiscover
 ```
+• ```
+nmap -sn 192.168.0.1/24
+```
+
 
 ## Local IP (eth0)
 ```
 export local=$(ifconfig eth0 | grep 'inet ' | awk -F'[: ]+' '{ print $3 }')
 ```
 
-## Local IP (tun0)
+## VPN IP (tun0)
 ```
 export vpn=$(ifconfig tun0 | grep 'inet ' | awk -F'[: ]+' '{ print $3 }')
 ```
+
+NMAP
 
 
 
