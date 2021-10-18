@@ -48,9 +48,11 @@ enum4linux $ip
 
 hydra -l <username> -P /usr/share/wordlists
 
+hydra -l <username> -P locks.txt 10.10.130.81 ssh
+  
 hydra -t 4 -l jan -P <rockyou.txt directory> ssh://<MACHINE IP>
 
-  
+hydra -f -I -vV -t 64 -l lin -P ./locks.txt $TARGET ssh
   
   
 
