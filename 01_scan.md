@@ -39,7 +39,11 @@ ports=$(nmap -p- --min-rate=1000 -T4 $target | grep ^[0-9] | cut -d '/' -f 1 | t
 nmap -p$ports -sC -sV -Pn $target -oA nmap/$folder
 ```
 
-
+## nmapAutomator
+```
+git clone https://github.com/21y4d/nmapAutomator
+./nmapAutomator.sh $target Basic
+```
 
 
 
