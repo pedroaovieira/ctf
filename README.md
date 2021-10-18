@@ -9,3 +9,7 @@ https://github.com/JoaoPauloF/OSCP/blob/master/OSCPnotes.md
 https://github.com/adon90/pentest_compilation
 
 https://cd6629.gitbook.io/ctfwriteups/cheatsheets/oscp-cheatsheet-unfinished
+
+
+Look at
+thm c4ptur3-th3-fl4g
