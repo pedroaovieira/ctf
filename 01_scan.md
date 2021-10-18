@@ -1,11 +1,11 @@
 # Perform Host Discovery
 
 ## Hosts on network
-• ```
-netdiscover
 ```
-• ```
-nmap -sn 192.168.0.1/24
+• netdiscover
+```
+```
+• nmap -sn 192.168.0.1/24
 ```
 
 
