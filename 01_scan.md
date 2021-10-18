@@ -2,12 +2,11 @@
 
 ## Hosts on network
 ```
-• netdiscover
+netdiscover
 ```
 ```
-• nmap -sn 192.168.0.1/24
+nmap -sn 192.168.0.1/24
 ```
-
 
 ## Local IP (eth0)
 ```
