@@ -1,7 +1,7 @@
 ## Spawning a Shell
 
 
-## Spawning a TTY Shell https://netsec.ws/?p=337
+## Spawning a TTY Shell
 ```
 python -c 'import pty; pty.spawn("/bin/sh")'
 python3 -c 'import pty;pty.spawn("/bin/bash")'
@@ -12,7 +12,7 @@ CTRL+Z; stty raw -echo; fg
 ```
 
 ## Shell Spawning
-
+https://netsec.ws/?p=337
 ```
 python -c 'import pty; pty.spawn("/bin/sh")'
 
