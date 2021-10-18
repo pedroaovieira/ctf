@@ -44,8 +44,14 @@ python3 dirsearch.py -e php,html,js -u https://target -w /path/to/wordlist
 
 ```
 
-## recursive
+## dirsearch recursive
 python3 dirsearch.py -e php,html,js -u https://target -r
+
+
+## ffuf
+ffuf -c -w letters -u http://10.10.21.10 -H "User-Agent: FUZZ"
+
+
 
 
 enum4linux $ip
