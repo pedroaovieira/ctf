@@ -27,6 +27,9 @@ echo $target
 
 export folder='target'
 echo $folder
+
+mkdir $folder
+cd $folder
 ```
 
 ## NMAP
