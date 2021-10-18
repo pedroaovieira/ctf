@@ -1,26 +1,41 @@
-# Perform Host Discovery
+# Web
 
-## Hosts on network
+## Web path discovery
+
+
+### Gobuster
+```
+gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt -t 100 -o $target_name.dir.txt
+gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt -x .php,.txt,.html -t 100 -o $target_name.file.txt
 
 ```
-gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt
 
+
+### dirb
 ```
-
-
-
 dirb $target
+```
 
-  
-  dirsearch
+###  dirsearch
+
 ```
-  git clone https://github.com/maurosoria/dirsearch.git
-  cd dirsearch
-  pip3 install -r requirements.txt
-  python3 dirsearch.py -u <URL> -e <EXTENSIONS>
+git clone https://github.com/maurosoria/dirsearch.git
+cd dirsearch
+pip3 install -r requirements.txt
+python3 dirsearch.py -u <URL> -e <EXTENSIONS>
+
+Usage: dirsearch.py [-u|--url] target [-e|--extensions] extensions [options]
+
+python3 dirsearch.py -u $target -e php,html,txt port80
+
+python3 dirsearch.py -e php,html,js -u https://target
+
+python3 dirsearch.py -e php,html,js -u https://target -w /path/to/wordlist
   
-  python3 dirsearch.py -u $target -e php,html,txt port80
 ```
+
+## recursive
+python3 dirsearch.py -e php,html,js -u https://target -r
 
 
 enum4linux $ip
