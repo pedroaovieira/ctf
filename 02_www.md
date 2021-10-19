@@ -11,7 +11,8 @@ Try to open  ../../../../../etc/passwd
 http://target/item?id=../../../../../etc/passwd
 
 ## Common extensions
-- /usr/share/dirb/wordlists/extensions_common.txt 
+- /usr/share/dirb/wordlists/extensions_common.txt
+- /usr/share/wordlists/wfuzz/general/mutations_common.txt
 - html
 - phtml
 - txt
@@ -35,10 +36,7 @@ http://target/item?id=../../../../../etc/passwd
 - /usr/share/dirb/wordlists/bigxt
 - /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
 - /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-
-
-
-- wget https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/big.txt
+- /usr/share/wordlists/wfuzz/general/megabeast.txt
 
 
 /usr/share/wordlists/rockyou.txt
