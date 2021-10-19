@@ -10,6 +10,19 @@ Open robots.txt
 Try to open  ../../../../../etc/passwd
 http://target/item?id=../../../../../etc/passwd
 
+## Common extensions
+- html
+- phtml
+- txt
+- asp
+- aspx
+- js
+
+## Common start pages
+- index
+- default
+- home
+
 ## Web path discovery
 
 
@@ -40,7 +53,9 @@ python3 dirsearch.py -u $target -e php,html,txt port80
 
 python3 dirsearch.py -e php,html,js -u https://target
 
-python3 dirsearch.py -e php,html,js -u https://target -w /path/to/wordlist
+python3 dirsearch.py -e php,html,txt,js -u https://target -w /path/to/wordlist
+
+
 
 ```
 
