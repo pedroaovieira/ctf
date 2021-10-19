@@ -11,6 +11,7 @@ Try to open  ../../../../../etc/passwd
 http://target/item?id=../../../../../etc/passwd
 
 ## Common extensions
+- /usr/share/dirb/wordlists/extensions_common.txt 
 - html
 - phtml
 - txt
@@ -19,17 +20,34 @@ http://target/item?id=../../../../../etc/passwd
 - js
 
 ## Common start pages
+- /usr/share/dirb/wordlists/indexes.txt
 - index
 - default
 - home
 
 ## Web path discovery
 
+### Common word lists
+- cewl -w wordlist.txt -d 2 -m 5 $target
+
+- /usr/share/wordlists/
+- /usr/share/dirb/wordlists/common.txt
+- /usr/share/dirb/wordlists/bigxt
+- /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+
+
+
+- wget https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/big.txt
+
+
+/usr/share/wordlists/rockyou.txt
 
 ### Gobuster
 ```
 gobuster dir -u http://$target -w /usr/share/dirb/wordlists/common.txt -t 100 -o $target_name.dir.txt
 gobuster dir -u $target -w /usr/share/dirb/wordlists/common.txt -x .php,.txt,.html -t 100 -o $target_name.file.txt
+gobuster dir -u http://10.10.10.157/centreon/api -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 100 -t 40 -x .php,.txt,.html
 
 ```
 
