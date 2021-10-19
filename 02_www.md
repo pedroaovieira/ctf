@@ -80,6 +80,7 @@ python3 dirsearch.py -e php,html,js -u https://target -r
 
 
 ## ffuf
+ffuf -ic -w /usr/share/wordlists/dirb/common.txt -e '.html' -u "http://10.10.242.137:80/FUZZ" | tee "recon/ffuf_10.10.242.137_80.txt"
 ffuf -c -w letters -u http://10.10.21.10 -H "User-Agent: FUZZ"
 
 
