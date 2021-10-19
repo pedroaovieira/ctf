@@ -31,7 +31,9 @@ Device mydevice added to ignite
 $ lxc start ignite
 
 $ lxc exec ignite /bin/sh
+
 \# id
+
 uid=0(root) gid=0(root)
 
 \# cd /mnt/root/root/
