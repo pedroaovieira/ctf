@@ -1,9 +1,14 @@
 
-
+```
 git clone  https://github.com/saghul/lxd-alpine-builder.git
+
 cd lxd-alpine-builder
+
 ./build-alpine
+
 python3 -m http.server
+```
+
 
 $ wget http://10.8.50.72:8000/alpine-v3.12-x86_64-20200902_1515.tar.gz
 
