@@ -1,0 +1,14 @@
+
+## ssh_key
+```
+chmod 600 ssh_key
+ssh -i ssh_key username@$target
+```
+# Create some private key
+ssh-keygen -t rsa -b 4096
+  
+
+/usr/sbin/ssh2john id_rsa > id_rsa.hash
+python /usr/share/john/ssh2john.py id_rsa > id_rsa.hash
+
+/usr/sbin/john --wordlist=/usr/share/wordlists/rockyou.txt id_rsa.hash
