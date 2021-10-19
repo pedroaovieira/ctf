@@ -19,6 +19,7 @@ python3 -m http.server
 $ wget http://10.8.50.72:8000/alpine-v3.12-x86_64-20200902_1515.tar.gz
 
 $ lxc image list
+
 +-------+-------------+--------+-------------+------+------+-------------+
 | ALIAS | FINGERPRINT | PUBLIC | DESCRIPTION | ARCH | SIZE | UPLOAD DATE |
 +-------+-------------+--------+-------------+------+------+-------------+
@@ -27,6 +28,7 @@ $ lxc image import ./alpine-v3.12-x86_64-20200902_1515.tar.gz --alias myimage
 Image imported with fingerprint: 65dd1e31f4cc984602e9be582bf80196cd05d44531b18ad8208ce062f09105ab
 
 $ lxc image list
+
 +---------+--------------+--------+-------------------------------+--------+--------+-----------------------------+
 |  ALIAS  | FINGERPRINT  | PUBLIC |          DESCRIPTION          |  ARCH  |  SIZE  |         UPLOAD DATE         |
 +---------+--------------+--------+-------------------------------+--------+--------+-----------------------------+
