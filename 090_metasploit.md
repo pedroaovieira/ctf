@@ -1,4 +1,4 @@
-# Metasploit https://netsec.ws/?p=331
+# Metasploit [link](https://netsec.ws/?p=331)
 
 ```
 msfinit
