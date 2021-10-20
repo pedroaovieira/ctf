@@ -156,16 +156,19 @@ msfconsole
 - info
 - show (options / payloads)
 - set
-- 
+- setg (set globally)
+- unset
 - back
 - ls
 - history
 - clear
+- check
+- exploit
+- exploit -Z (exploit and background the session)
+- background
+- sessions
+- sessions -i
  
-
-## Modules
-
-
 ## List payloads
 ```
 msfvenom -l
