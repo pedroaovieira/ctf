@@ -1,4 +1,4 @@
-# Perform Host Discovery
+# Host Discovery
 
 ## Hosts on network
 ```
