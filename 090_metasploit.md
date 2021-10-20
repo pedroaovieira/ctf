@@ -9,6 +9,46 @@
 - Payload
     - An exploit will take advantage of a vulnerability. However, if we want the exploit to have the result we want (gaining access to the target system, read confidential information, etc.), we need to use a payload. Payloads are the code that will run on the target system.
 
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 1 /usr/share/metasploit-framework/modules/auxiliary
+/usr/share/metasploit-framework/modules/auxiliary
+├── admin
+├── analyze
+├── bnat
+├── client
+├── cloud
+├── crawler
+├── docx
+├── dos
+├── example.py
+├── example.rb
+├── fileformat
+├── fuzzers
+├── gather
+├── parser
+├── pdf
+├── scanner
+├── server
+├── sniffer
+├── spoof
+├── sqli
+├── voip
+└── vsploit
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
 msfinit
