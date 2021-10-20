@@ -1,10 +1,10 @@
 # Metasploit [link](https://netsec.ws/?p=331)
 
 - Exploit
-  A piece of code that uses a vulnerability present on the target system.
+-- A piece of code that uses a vulnerability present on the target system.
 
 - Vulnerability
-  A design, coding, or logic flaw affecting the target system. The exploitation of a vulnerability can result in disclosing confidential information or allowing the attacker to execute code on the target system.
+-- A design, coding, or logic flaw affecting the target system. The exploitation of a vulnerability can result in disclosing confidential information or allowing the attacker to execute code on the target system.
 
 - Payload
   An exploit will take advantage of a vulnerability. However, if we want the exploit to have the result we want (gaining access to the target system, read confidential information, etc.), we need to use a payload. Payloads are the code that will run on the target system.
