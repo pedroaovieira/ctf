@@ -9,6 +9,9 @@
 - Payload
     - An exploit will take advantage of a vulnerability. However, if we want the exploit to have the result we want (gaining access to the target system, read confidential information, etc.), we need to use a payload. Payloads are the code that will run on the target system.
 
+
+
+**Auxiliary**: Any supporting module, such as scanners, crawlers and fuzzers, can be found here.
 ```
 ┌──(kali㉿kali)-[~]
 └─$ tree -L 1 /usr/share/metasploit-framework/modules/auxiliary
@@ -37,15 +40,105 @@
 └── vsploit
 ```
 
+**Encoders**: Encoders will allow you to encode the exploit and payload in the hope that a signature-based antivirus solution may miss them.
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 1 /usr/share/metasploit-framework/modules/encoders 
+/usr/share/metasploit-framework/modules/encoders
+├── cmd
+├── generic
+├── mipsbe
+├── mipsle
+├── php
+├── ppc
+├── ruby
+├── sparc
+├── x64
+└── x86
+```
+
+**Evasion**: While encoders will encode the payload, they should not be considered a direct attempt to evade antivirus software. 
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 2 /usr/share/metasploit-framework/modules/evasion
+/usr/share/metasploit-framework/modules/evasion
+└── windows
+    ├── applocker_evasion_install_util.rb
+    ├── applocker_evasion_msbuild.rb
+    ├── applocker_evasion_presentationhost.rb
+    ├── applocker_evasion_regasm_regsvcs.rb
+    ├── applocker_evasion_workflow_compiler.rb
+    ├── process_herpaderping.rb
+    ├── syscall_inject.rb
+    ├── windows_defender_exe.rb
+    └── windows_defender_js_hta.rb
+```
 
 
+**Exploits**: Exploits, neatly organized by target system.
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 1 /usr/share/metasploit-framework/modules/exploits
+/usr/share/metasploit-framework/modules/exploits
+├── aix
+├── android
+├── apple_ios
+├── bsd
+├── bsdi
+├── dialup
+├── example_linux_priv_esc.rb
+├── example.py
+├── example.rb
+├── example_webapp.rb
+├── firefox
+├── freebsd
+├── hpux
+├── irix
+├── linux
+├── mainframe
+├── multi
+├── netware
+├── openbsd
+├── osx
+├── qnx
+├── solaris
+├── unix
+└── windows
+```
+
+**Payloads**: Payloads are codes that will run on the target system.
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 1 /usr/share/metasploit-framework/modules/payloads
+/usr/share/metasploit-framework/modules/payloads
+├── singles
+├── stagers
+└── stages
+```
+
+- **Singles**: Self-contained payloads (add user, launch notepad.exe, etc.) that do not need to download an additional component to run.
+- **Stagers**: Responsible for setting up a connection channel between Metasploit and the target system. Useful when working with staged payloads. “Staged payloads” will first upload a stager on the target system then download the rest of the payload (stage). This provides some advantages as the initial size of the payload will be relatively small compared to the full payload sent at once.
+- **Stages**: Downloaded by the stager. This will allow you to use larger sized payloads.
 
 
-
-
-
-
-
+**Post**: Post modules will be useful on the final stage of the penetration testing process listed above, post-exploitation.
+```
+┌──(kali㉿kali)-[~]
+└─$ tree -L 1 /usr/share/metasploit-framework/modules/post    
+/usr/share/metasploit-framework/modules/post
+├── aix
+├── android
+├── apple_ios
+├── bsd
+├── firefox
+├── hardware
+├── linux
+├── multi
+├── networking
+├── osx
+├── solaris
+└── windows
+```
 
 
 
