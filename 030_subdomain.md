@@ -12,14 +12,12 @@ Google : -site:www.tryhackme.com  site:*.tryhackme.com
 
 ## DNS BruteForce
 
-### dnsrecon
-[link](https://www.kali.org/tools/dnsrecon/)
+### dnsrecon [link](https://www.kali.org/tools/dnsrecon/)
 ```
 dnsrecon -t brt -d acmeitsupport.thm
 ```
 
-### sublist3r
-[link](https://www.kali.org/tools/sublist3r/)
+### sublist3r [link](https://www.kali.org/tools/sublist3r/)
 ```
 ./sublist3r.py -d acmeitsupport.thm
 ```
