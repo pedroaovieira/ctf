@@ -140,14 +140,30 @@
 └── windows
 ```
 
-
-
+## MSFCONSOLE
 
 ```
 msfinit
 
 msfconsole
 ```
+
+### commands
+- search
+    - search type:auxiliary telnet
+- use
+    - use auxiliary/admin/smb/ms17_010_command
+- info
+- show (options / payloads)
+- set
+- 
+- back
+- ls
+- history
+- clear
+ 
+
+## Modules
 
 
 ## List payloads
