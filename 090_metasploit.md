@@ -166,6 +166,7 @@ Run Nmap using the db_nmap so that all results are saved to the database.
 db_nmap -sV -p- 10.10.12.229
 hosts
 services
+vulns
 ```
 
 ### command to set hosts in RHOSTS
@@ -326,3 +327,7 @@ set LPORT <LPORT value>
 set ExitOnSession false
 exploit -j -z
 ```
+
+
+## Post Suggester
+run post/multi/recon/local_exploit_suggester
