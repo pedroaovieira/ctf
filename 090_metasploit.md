@@ -144,16 +144,33 @@
 
 ```
 systemctl start postgresql
-
 msfdb init
-
-msfinit
-
 msfconsole
-
 db_status
-
 workspace
+```
+
+### workspace
+- List
+    workspace
+- Add
+    workspace -a teste
+- Delete
+    workspace -d teste
+-Help
+    workspace -h
+
+## db_nmap
+Run Nmap using the db_nmap so that all results are saved to the database. 
+```
+db_nmap -sV -p- 10.10.12.229
+hosts
+services
+```
+
+### command to set hosts in RHOSTS
+```
+hosts -R
 ```
 
 ### commands
