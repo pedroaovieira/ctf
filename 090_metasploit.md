@@ -168,7 +168,33 @@ msfconsole
 - background
 - sessions
 - sessions -i
- 
+
+## Port scanning
+- search portscan
+
+```
+use auxiliary/scanner/portscan/tcp
+show options
+```
+
+- CONCURRENCY: Number of targets to be scanned simultaneously.
+- PORTS: Port range to be scanned. Please note that 1-1000 here will not be the same as using Nmap with the default configuration. Nmap will scan the 1000 most used ports, while Metasploit will scan port numbers from 1 to 10000.
+- RHOSTS: Target or target network to be scanned.
+- THREADS: Number of threads that will be used simultaneously. More threads will result in faster scans.
+
+## UDP service Identification
+```
+use auxiliary/scanner/discovery/udp_sweep
+```
+
+## SMB Scans
+```
+use auxiliary/scanner/smb/smb_enumshares
+use auxiliary/scanner/smb/smb_version
+
+use auxiliary/scanner/netbios/nbname 
+```
+
 ## List payloads
 ```
 msfvenom -l
