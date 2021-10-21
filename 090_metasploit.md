@@ -227,6 +227,11 @@ set PASS_FILE wordlist.txt
 exploit
 ```
 
+
+NTLM Hash
+- hashdump
+
+
 ## List payloads
 ```
 msfvenom -l
