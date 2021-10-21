@@ -234,8 +234,14 @@ NTLM Hash
 
 ## List payloads
 ```
-msfvenom -l
+msfvenom -l payloads
 ```
+
+### Output formats
+```
+msfvenom --list formats
+```
+
 
 ## Binaries
 
