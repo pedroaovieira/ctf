@@ -143,9 +143,17 @@
 ## MSFCONSOLE
 
 ```
+systemctl start postgresql
+
+msfdb init
+
 msfinit
 
 msfconsole
+
+db_status
+
+workspace
 ```
 
 ### commands
