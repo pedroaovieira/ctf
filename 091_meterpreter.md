@@ -27,9 +27,9 @@ File system commands
     edit: will allow you to edit a file
     cat: Will show the contents of a file to the screen
     rm: Will delete the specified file
-    search: Will search for files
-    upload: Will upload a file or directory
-    download: Will download a file or directory
+    **search**: Will search for files
+    **upload**: Will upload a file or directory
+    **download**: Will download a file or directory
 
 Networking commands
 
@@ -43,15 +43,15 @@ System commands
 
     clearev: Clears the event logs
     execute: Executes a command
-    getpid: Shows the current process identifier
-    getuid: Shows the user that Meterpreter is running as
+    **getpid**: Shows the current process identifier
+    **getuid**: Shows the user that Meterpreter is running as
     kill: Terminates a process
     pkill: Terminates processes by name
-    ps: Lists running processes
+    **ps**: Lists running processes
     reboot: Reboots the remote computer
-    shell: Drops into a system command shell
+    **shell**: Drops into a system command shell
     shutdown: Shuts down the remote computer
-    sysinfo: Gets information about the remote system, such as OS
+    **sysinfo**: Gets information about the remote system, such as OS
 
 Others Commands (these will be listed under different menu categories in the help menu)
 
@@ -66,5 +66,5 @@ Others Commands (these will be listed under different menu categories in the hel
     webcam_list: Lists webcams
     webcam_snap: Takes a snapshot from the specified webcam
     webcam_stream: Plays a video stream from the specified webcam
-    getsystem: Attempts to elevate your privilege to that of local system
+    **getsystem**: Attempts to elevate your privilege to that of local system
     hashdump: Dumps the contents of the SAM database
