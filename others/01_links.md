@@ -3,6 +3,8 @@
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
+[hacktricks](https://book.hacktricks.xyz)
+
 [pentestbook](https://pentestbook.six2dez.com/)
 
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
