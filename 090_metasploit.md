@@ -195,6 +195,13 @@ use auxiliary/scanner/smb/smb_version
 use auxiliary/scanner/netbios/nbname 
 ```
 
+```
+use auxiliary/scanner/smb/smb_login
+set SMBUser penny
+set PASS_FILE wordlist.txt
+exploit
+```
+
 ## List payloads
 ```
 msfvenom -l
