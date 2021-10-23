@@ -9,4 +9,6 @@
 
 [aldeid](https://www.aldeid.com)
 
+[cd6629](https://cd6629.gitbook.io/ctfwriteups/)
+
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
