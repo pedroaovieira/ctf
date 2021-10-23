@@ -7,4 +7,6 @@
 
 [pentestbook](https://pentestbook.six2dez.com/)
 
+[aldeid](https://www.aldeid.com)
+
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
