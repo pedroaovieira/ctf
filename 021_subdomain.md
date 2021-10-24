@@ -33,4 +33,6 @@ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.
 the -fs switch, which tells ffuf to ignore any results that are of the specified size
 
 ### wfuzz
+```
 wfuzz -c -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt -u "http://team.thm" -H "Host: FUZZ.team.thm" --hw 977
+```
