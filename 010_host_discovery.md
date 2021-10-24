@@ -22,10 +22,10 @@ echo $vpn
 
 ## Target
 ```
-echo "10.10.246.106 team.thm" | sudo tee -a /etc/hosts
-
 export target=192.168.17.60
 echo $target
+
+echo $target "team.thm" | sudo tee -a /etc/hosts
 
 export folder='target'
 echo $folder
