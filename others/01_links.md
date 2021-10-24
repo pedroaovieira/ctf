@@ -11,4 +11,6 @@
 
 [cd6629](https://cd6629.gitbook.io/ctfwriteups/)
 
+[writeups](https://writeups.thelivestep.pt/)
+
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
