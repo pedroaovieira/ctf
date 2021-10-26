@@ -1,4 +1,4 @@
-linux fundamentals
+# linux fundamentals
 
 - man
 - ls
@@ -18,4 +18,3 @@ linux fundamentals
 - vi
 - file
 - strings
-- 
