@@ -1,4 +1,6 @@
 
+[highon.coffee](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+
 [adon90](https://github.com/adon90/pentest_compilation)
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
