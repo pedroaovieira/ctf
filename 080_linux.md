@@ -78,4 +78,72 @@
 
 - **echo "1" > /proc/sys/net/ipv4/ip_forward** - Enables IP forwarding, turns Linux box into a router - handy for routing traffic through a box.
 
-- **echo "8.8.8.8" > /etc/resolv.conf** - Use Google DNS. 
+- **echo "8.8.8.8" > /etc/resolv.conf** - Use Google DNS.
+
+
+## Linux Decompression Commands
+
+- **unzip archive.zip - Extracts zip file on Linux.
+
+- **zipgrep *.txt archive.zip** - Search inside a .zip archive.
+
+- **tar xf archive.tar** - Extract tar file Linux.
+
+- **tar xvzf archive.tar.gz** - Extract a tar.gz file Linux.
+
+- **tar xjf archive.tar.bz2** - Extract a tar.bz2 file Linux.
+
+- **tar ztvf file.tar.gz | grep blah** - Search inside a tar.gz file.
+
+- **gzip -d archive.gz** - Extract a gzip file Linux.
+
+- **zcat archive.gz** - Read a gz file Linux without decompressing.
+
+- **zless archive.gz** - Same function as the less command for .gz archives.
+
+- **zgrep 'blah' /var/log/maillog*.gz** - Search inside .gz archives on Linux, search inside of compressed log files.
+
+- **vim file.txt.gz** - Use vim to read .txt.gz files (my personal favorite).
+
+- **upx -9 -o output.exe input.exe** - UPX compress .exe file Linux. 
+
+
+## Linux Compression Commands
+
+- **zip -r file.zip /dir/*** - Creates a .zip file on Linux.
+
+- **tar cf archive.tar files** - Creates a tar file on Linux.
+
+- **tar czf archive.tar.gz files** - Creates a tar.gz file on Linux.
+
+- **tar cjf archive.tar.bz2 files** - Creates a tar.bz2 file on Linux.
+
+- **gzip file** - Creates a file.gz file on Linux. 
+
+## Linux File Commands
+
+- **df -h blah
+	
+
+Display size of file / dir Linux.
+
+- **diff file1 file2** - Compare / Show differences between two files on Linux.
+
+- **md5sum file** - Generate MD5SUM Linux.
+
+- **md5sum -c blah.iso.md5** - Check file against MD5SUM on Linux, assuming both file and .md5 are in the same dir.
+
+- **file blah** - Find out the type of file on Linux, also displays if file is 32 or 64 bit.
+
+- **dos2unix** - Convert Windows line endings to Unix / Linux.
+
+- **base64 < input-file > output-file** - Base64 encodes input file and outputs a Base64 encoded file called output-file.
+
+- **base64 -d < input-file > output-file** - Base64 decodes input file and outputs a Base64 decoded file called output-file.
+
+- **touch -r ref-file new-file** - Creates a new file using the timestamp data from the reference file, drop the -r to simply create a file.
+
+- **rm -rf** - Remove files and directories without prompting for confirmation. 
+
+
+
