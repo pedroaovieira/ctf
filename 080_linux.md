@@ -3,29 +3,21 @@
 
 ## System Information Commands
 
-- whoami
-    - Shows currently logged in user on Linux.
+- **whoami** - Shows currently logged in user on Linux.
 
-- id
-	- Shows currently logged in user and groups for the user.
+- **id** - Shows currently logged in user and groups for the user.
 
-- last
-	- Shows last logged in users.
+- **last** - Shows last logged in users.
 
-- mount
-	- Show mounted drives.
+- **mount** - Show mounted drives.
 
-- df -h
-	- Shows disk usage in human readable output.
+- **df -h** - Shows disk usage in human readable output.
 
-echo "user:passwd" | chpasswd
-	- Reset password in one line.
+- **echo "user:passwd" | chpasswd** - Reset password in one line.
 
-- getent passwd
-	- List users on Linux.
+- **getent passwd** - List users on Linux.
 
-- strings /usr/local/bin/blah
-	- Shows contents of none text files, e.g. whats in a binary.
+- **strings /usr/local/bin/blah** - Shows contents of none text files, e.g. whats in a binary.
 
 - uname -ar
 	- Shows running kernel version.
