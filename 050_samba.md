@@ -8,3 +8,10 @@ smbget -R smb://<ip>/anonymous
 
   
 enum4linux -a $target
+
+  
+smbmount //server/share /mnt/win -o user=username,password=password1
+
+smbclient -U user \\\\server\\share
+
+mount -t cifs -o username=user,password=password //x.x.x.x/share /mnt/share
