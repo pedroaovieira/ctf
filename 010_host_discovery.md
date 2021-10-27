@@ -61,6 +61,8 @@ git clone https://github.com/21y4d/nmapAutomator
 to query WHOIS servers
 ```
 whois DOMAIN_NAME
+
+whois tryhackme.com
 ```
 
 ## nslookup
@@ -68,11 +70,19 @@ to query DNS servers
 
 ### Query type
 **A** 	IPv4 Addresses
+
 **AAAA** 	IPv6 Addresses
+
 **CNAME** 	Canonical Name
+
 **MX** 	Mail Servers
+
 **SOA** 	Start of Authority
+
 **TXT** 	TXT Records
+
+[dnsdumpster](https://dnsdumpster.com/)
+
 
 ```
 nslookup OPTIONS DOMAIN_NAME SERVER
@@ -85,4 +95,6 @@ nslookup -type=A tryhackme.com 1.1.1.1
 ## dig
 to query DNS servers
 
-
+```
+dig tryhackme.com A
+```
