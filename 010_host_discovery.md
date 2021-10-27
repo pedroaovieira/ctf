@@ -181,3 +181,18 @@ sudo nmap -sS 10.10.154.20
 ```
 sudo nmap -sU 10.10.154.20
 ```
+
+
+TCP Null Scan 	sudo nmap -sN 10.10.1.234
+TCP FIN Scan 	sudo nmap -sF 10.10.1.234
+TCP Xmas Scan 	sudo nmap -sX 10.10.1.234
+TCP Maimon Scan 	sudo nmap -sM 10.10.1.234
+TCP ACK Scan 	sudo nmap -sA 10.10.1.234
+TCP Window Scan 	sudo nmap -sW 10.10.1.234
+Custom TCP Scan 	sudo nmap --scanflags URGACKPSHRSTSYNFIN 10.10.1.234
+Spoofed Source IP 	sudo nmap -S SPOOFED_IP 10.10.1.234
+Spoofed MAC Address 	--spoof-mac SPOOFED_MAC
+Decoy Scan 	nmap -D DECOY_IP,ME 10.10.1.234
+Idle (Zombie) Scan 	sudo nmap -sI ZOMBIE_IP 10.10.1.234
+Fragment IP data into 8 bytes 	-f
+Fragment IP data into 16 bytes 	-ff
