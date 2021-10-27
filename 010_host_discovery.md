@@ -90,11 +90,42 @@ nslookup OPTIONS DOMAIN_NAME SERVER
 nslookup -type=A tryhackme.com 1.1.1.1
 ```
 
-
-
 ## dig
 to query DNS servers
 
 ```
 dig tryhackme.com A
+```
+
+
+## ping
+```
+ping -c 10 10.10.160.200 on Linux or macOS
+ping 	ping -n 10 10.10.160.200 on MS Windows
+```
+
+## traceroute
+```
+traceroute 10.10.160.200 on Linux or macOS
+```
+
+## tracert
+```
+tracert 10.10.160.200 on MS Windows
+```
+
+## telnet
+```
+telnet 10.10.160.200 PORT_NUMBER
+```
+
+## netcat
+### etcat as client
+```
+nc 10.10.160.200 PORT_NUMBER
+```
+
+### etcat as server
+```
+nc -lvnp PORT_NUMBER
 ```
