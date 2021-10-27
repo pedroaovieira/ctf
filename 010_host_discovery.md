@@ -166,3 +166,18 @@ sudo nmap -PA22,80,443 -sn MACHINE_IP/30
 ```
 sudo nmap -PU53,161,162 -sn MACHINE_IP/30
 ```
+
+### TCP Connect Scan
+```
+nmap -sT 10.10.154.20
+```
+
+### TCP SYN Scan
+```
+sudo nmap -sS 10.10.154.20
+```
+
+### UDP Scan
+```
+sudo nmap -sU 10.10.154.20
+```
