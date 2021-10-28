@@ -43,13 +43,13 @@ unshadow passwd.txt shadow.txt > passwords.txt
 
 
 
-
+```  
 
 find / -type f -perm -04000 -ls 2>/dev/null
 
 
 find / -perm /4000 -type f -exec ls -lda {} \; 2>/dev/null
-
+```
 
 https://gtfobins.github.io/
 https://lolbas-project.github.io/
