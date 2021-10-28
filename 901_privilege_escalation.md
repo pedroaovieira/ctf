@@ -1,9 +1,44 @@
+# Linux Privesc
 
+```
+hostname
 
+uname -a
 
+/proc/version
 
+/etc/issue
+
+ps axjf
+
+ps aux
+
+env
 
 sudo -l
+
+id
+
+/etc/passwd
+
+history
+
+ifconfig
+
+ip route
+
+netstat -ano
+
+netstat -tulpn
+
+
+
+```
+
+
+
+
+
 
 find / -perm /4000 -type f -exec ls -lda {} \; 2>/dev/null
 
