@@ -114,3 +114,28 @@ sudo nmap -sI ZOMBIE_IP 10.10.1.234
 ```
 -ff
 ```
+
+## --reason
+```
+explains how Nmap made its conclusion
+```
+
+## -v
+```
+verbose
+```
+
+## -vv
+```
+very verbose
+```
+
+## -d
+```
+debugging
+```
+
+## -dd
+```
+more details for debugging
+```
