@@ -41,25 +41,56 @@ unshadow passwd.txt shadow.txt > passwords.txt
 
 
 
-
+## Find
 
 ```  
 find / -type f -perm -04000 -ls 2>/dev/null
 
 
 find / -perm /4000 -type f -exec ls -lda {} \; 2>/dev/null
+
+
+find / -writable 2>/dev/null | cut -d "/" -f 2,3 | grep -v proc | sort -u
+
+find / -writable 2>/dev/null
+
 ```
+
+## Capabilities
 
 ```
 getcap -r / 2>/dev/null
 
 ```
 
+## Cron
+
 ```
 /etc/crontab
 
 cat /etc/crontab
 ```
+
+## PATH
+```
+echo $PATH
+
+export PATH=/tmp:$PATH
+```
+
+## NFS
+```
+cat /etc/exports
+
+showmount -e $target
+
+mount -o rw 10.10.1.128:/home/backup tmp21
+
+
+
+
+```
+
 
 https://gtfobins.github.io/
 https://lolbas-project.github.io/
