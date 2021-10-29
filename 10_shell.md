@@ -46,11 +46,15 @@ exec "/bin/sh"
 ```
 
 ## Reverse Shell
-https://github.com/pentestmonkey/php-reverse-shell
+[pentestmonkey](https://github.com/pentestmonkey/php-reverse-shell)
 
 
 ## Web Shell
-https://github.com/Arrexel/phpbash
+[phpbash](https://github.com/Arrexel/phpbash)
 
- 
+```
+/usr/share/webshells
+```
+
+[webshells](https://github.com/danielmiessler/SecLists/tree/master/Web-Shells)
 
