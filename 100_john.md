@@ -1,9 +1,27 @@
 # John
 
 
-## Crack shadow file
+## Shadow file
 ```
-john shadow --wordlist=/usr/share/wordlists/rockyou.txt
+sudo /usr/sbin/unshadow /etc/passwd /etc/shadow > passwords.txt
+/usr/sbin/john --wordlist=/usr/share/wordlists/rockyou.txt passwords.txt
+
+or
+
+/etc/shadow
+john --wordlist=/usr/share/wordlists/rockyou.txt shadow
+```
+
+## ZIP
+
+
+## GPG
+```
+gpg2john file.asc > hash
+
+john hash
+
+
 ```
 
 ## Cracking everything with John the Ripper
