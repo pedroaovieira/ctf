@@ -5,9 +5,11 @@
 https://hashcat.net/wiki/doku.php?id=example_hashes
 
 ### WEB Hash type identifier
-[md5hashing](https://md5hashing.net/hash_type_checker)
+[hash_type_checker](https://md5hashing.net/hash_type_checker)
 
-[hashes](https://hashes.com/en/tools/hash_identifier)
+[hash_identifier](https://hashes.com/en/tools/hash_identifier)
+
+[hash-analyzer](https://www.tunnelsup.com/hash-analyzer/)
 
 ## Hash type identifier
 https://pypi.org/project/hashID/
