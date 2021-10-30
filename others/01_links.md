@@ -9,6 +9,8 @@
 
 [hacktricks](https://book.hacktricks.xyz)
 
+[EzpzCheatSheet](https://github.com/H0j3n/EzpzCheatSheet)
+
 [pentestbook](https://pentestbook.six2dez.com/)
 
 [aldeid](https://www.aldeid.com)
