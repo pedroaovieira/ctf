@@ -1,3 +1,4 @@
+# Crypto
 
 
 ## Hash Examples
@@ -18,3 +19,6 @@ https://pypi.org/project/hashID/
 [hashcrack](https://hashcrack.com/)
 
 [md5hashing](https://md5hashing.net/hash/)
+
+## THM Crypto101
+[Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
