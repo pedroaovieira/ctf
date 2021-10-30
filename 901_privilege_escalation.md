@@ -1,4 +1,9 @@
+
+
 # Linux Privesc
+
+
+https://martinkubecka.github.io/posts/thm/linux-privilege-escalation/
 
 ```
 hostname
