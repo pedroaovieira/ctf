@@ -4,11 +4,14 @@
 ## Shadow file
 ```
 sudo /usr/sbin/unshadow /etc/passwd /etc/shadow > passwords.txt
+
 /usr/sbin/john --wordlist=/usr/share/wordlists/rockyou.txt passwords.txt
+```
 
-or
 
+```
 /etc/shadow
+
 john --wordlist=/usr/share/wordlists/rockyou.txt shadow
 ```
 
