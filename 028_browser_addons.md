@@ -1,6 +1,6 @@
 # Browser Addons
 
-## Proxy [link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+## FoxyProxy [link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
 - FoxyProxy lets you quickly change the proxy server you are using to access the target website.
 
 ## User Agent [link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
@@ -27,7 +27,7 @@
 ## JSON [link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)
 - View JSON documents in the browser.
 
-## Ntecraft [link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)
+## Netcraft [link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)
 - Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web
 
 
