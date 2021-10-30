@@ -20,3 +20,6 @@
 [writeups](https://writeups.thelivestep.pt/)
 
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
+
+
+https://cd6629.gitbook.io/ctfwriteups/cheatsheets/oscp-cheatsheet-unfinished
