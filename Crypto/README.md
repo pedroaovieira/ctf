@@ -1,22 +1,72 @@
 # Crypto
 =================
 
-   * [Crypto](#table-of-contents)
-   * [Recon](#recon)
+ * [Transform]
+   * [Replace]
+   * [Reverse]
+   * [Case-transform]
+   * [Numeral-System]
+   * [Bitwise-Operation]
+
+ * [Alphabets]
+
+
+ * [Ciphers]
+
+
+ * [Polybius square ciphers]
+
+ * [Encoding]
+
+
+ * [Modern cryptography]
 
 
 
-      * [Port 21 - FTP](#port-21---ftp)
-      * [Port 21 - FTP](#port-21---ftp)
-      * [Port 22 - SSH](#port-22---ssh)
 
-# Recon
+
+
+
+ * [Caesar](#Caesar)
+ * [Hex](#Hex)
+ * [Base64](#Base64)
+ Enigma
+ Viginere
+ Bacon
+ Substitution
+ Brainfuck
+ RSA
+
+
+
+
+
+
+## Caesar - ROT13
+
+`alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"`
+
+`echo 'fooman@example.com' | rot13`
+
 
 ```
-# Enumerate subnet
-nmap -sn 10.11.1.1/24
+cat file.txt | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'
 ```
 
-# FTP
+```
+echo 'hello world' | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'
+```
 
-aaa55555
+## Hex
+
+[Hex Decoder](https://cryptii.com/pipes/hex-decoder)
+
+
+## Base64
+
+```
+echo text | base64 -d
+```
+
+## Enigma
+

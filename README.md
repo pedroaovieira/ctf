@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
- * [Check-list.md](./check-list.md)
+ * [Check-list](./check-list.md)
  * [Crypto](./Crypto/README.md)
  * [Forensics](./Forensics/README.md)
  * [OSINT](./OSINT/README.md)
