@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
- * [Check-list](./check-list.md)
+ * [Steps](./steps.md)
+ * [Network Discovery]()
+ * [
  * [Crypto](./Crypto/README.md)
  * [Forensics](./Forensics/README.md)
  * [OSINT](./OSINT/README.md)
@@ -10,7 +12,7 @@
  * [Reversing](./Reversing/README.md)
  * [Stego](./Stego/README.md)
  * [Web](./Web/README.md)
- * [bookmarks.md](./bookmarks.md)
+ * [Bookmarks](./bookmarks.md)
 
 
 
