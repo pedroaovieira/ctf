@@ -1,16 +1,11 @@
 # Crypto
 
-
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-
-- [Transform](##)
-  * [Replace](##)
-  * [Reverse](##)
-  * [Case-transform](##)
-  * [Numeral-System]
-  * [Bitwise-Operation]
+- [Transform](#Transform)
+    - [Replace](#Replace)
+    - [Reverse](#Reverse)
+    - [Case transform](#Case-transform)
+    - [Numeral-System]
+    * [Bitwise-Operation]
 
  * [Alphabets]
 
