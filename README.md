@@ -2,10 +2,14 @@
 
 ## Table of Contents
 
-* [Steps](./steps.md)
+https://github.com/pvieira/pentest-notes
+
+https://github.com/pvieira/ctf-tools
+
+* [Quick Steps](./steps.md)
 * [Network Discovery]()
 * [Host Scan]()
-* web
+* [Web](./Web/README.md)
   * subdomain
   * lfi
   * xss
@@ -15,7 +19,10 @@
 * [Pwn](./Pwn/README.md)
 * [Reversing](./Reversing/README.md)
 * [Stego](./Stego/README.md)
-* [Web](./Web/README.md)
+
+
+* wifi
+* bluetooth
 * [Bookmarks](./bookmarks.md)
 
 
