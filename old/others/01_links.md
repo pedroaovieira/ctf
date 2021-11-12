@@ -23,3 +23,9 @@
 
 
 https://cd6629.gitbook.io/ctfwriteups/cheatsheets/oscp-cheatsheet-unfinished
+
+https://github.com/Shiva108/CTF-notes/tree/master/penbook
+
+https://int0x33.medium.com/day-73-oscp-notes-from-ippsec-oscp-style-videos-b6522a8d875a
+
+https://github.com/Shiva108/CTF-notes
