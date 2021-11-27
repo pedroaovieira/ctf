@@ -36,6 +36,13 @@ rlwrap nc -lvnp <port>
 CTRL+Z; stty raw -echo; fg
 ```
 
+## Metasloit session may require
+
+`SHELL=/bin/bash script -q /dev/null`
+
+
+
+
 ## Shell Spawning
 https://netsec.ws/?p=337
 ```
