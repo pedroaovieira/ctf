@@ -22,4 +22,6 @@
 [Other](https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/certifications/oscp/guides)
 
 
+CPENT <https://github.com/ivan-sincek/penetration-testing-cheat-sheet>
+
 https://cd6629.gitbook.io/ctfwriteups/cheatsheets/oscp-cheatsheet-unfinished
