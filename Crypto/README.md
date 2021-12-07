@@ -254,7 +254,6 @@
 ### Snow
 
 - stegsnow - <http://www.darkside.com.au/snow/>
-
   - `stegsnow -C -p "password" -m "secret message" infile.txt outfile.txt`
   - `snow -C -p "magic" readme2.txt`
 
