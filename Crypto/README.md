@@ -15,8 +15,8 @@
   - [Ciphers](#ciphers)
     - [Enigma machine](#enigma-machine)
     - [Caesar cipher](#caesar-cipher)
-    - [Affine cipher](#affine-cipher)
     - [ROT13](#rot13)
+    - [Affine cipher](#affine-cipher)
     - [A1Z26](#a1z26)
     - [Viginère cipher](#viginère-cipher)
     - [Bacon cipher](#bacon-cipher)
@@ -63,193 +63,199 @@
 
 ### Text to Binary
 
-[cryptii - Text to Bytes](https://cryptii.com/pipes/text-to-binary)
+- [cryptii - Text to Bytes](https://cryptii.com/pipes/text-to-binary)
 
 ### Hexadecimal to Text
 
-[cryptii - Hexadecimal to Text](https://cryptii.com/pipes/hex-to-text)
+- [cryptii - Hexadecimal to Text](https://cryptii.com/pipes/hex-to-text)
 
 ### Replace
 
-[cryptii - Replace](https://cryptii.com/)
+- [cryptii - Replace](https://cryptii.com/)
 
 ### Reverse
 
-[cryptii - Reverse](https://cryptii.com/)
+- [cryptii - Reverse](https://cryptii.com/)
 
 ### Case transform
 
-[cryptii - Case transform](https://cryptii.com/)
+- [cryptii - Case transform](https://cryptii.com/)
 
 ### Numeral system
 
-[cryptii - Numeral system](https://cryptii.com/)
+- [cryptii - Numeral system](https://cryptii.com/)
 
 ### Bitwise operation
 
-[cryptii - Bitwise operation](https://cryptii.com/)
+- [cryptii - Bitwise operation](https://cryptii.com/)
+
+---
 
 ## Alphabets
 
 ### Morse Code
 
-[cryptii - Morse Code](https://cryptii.com/)
+- [cryptii - Morse Code](https://cryptii.com/)
 
 ### Spelling alphabet
 
-[cryptii - Spelling alphabet](https://cryptii.com/)
+- [cryptii - Spelling alphabet](https://cryptii.com/)
+
+---
 
 ## Ciphers
 
 ### Enigma machine
 
-[cryptii - Enigma machine](https://cryptii.com/)
+--- [cryptii - Enigma machine](https://cryptii.com/)
 
 ### Caesar cipher
 
-[cryptii - Caesar cipher](https://cryptii.com/)
-
-`cat file.txt | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'`
-
-`echo 'hello world' | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'`
-
-### Affine cipher
-
-[cryptii - Affine cipher](https://cryptii.com/)
+- [cryptii - Caesar cipher](https://cryptii.com/)
+- `cat file.txt | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'`
+- `echo 'hello world' | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'`
 
 ### ROT13
 
-[cryptii - ROT13](https://cryptii.com/)
+- [cryptii - ROT13](https://cryptii.com/)
 
-`alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"`
+- `alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"`
 
-`echo 'hello world' | rot13`
+- `echo 'hello world' | rot13`
+
+### Affine cipher
+
+- [cryptii - Affine cipher](https://cryptii.com/)
 
 ### A1Z26
 
-[cryptii - A1Z26](https://cryptii.com/)
+- [cryptii - A1Z26](https://cryptii.com/)
 
 ### Viginère cipher
 
-[cryptii - Viginère cipher](https://cryptii.com/)
-
-[dcode - Viginère cipher](https://www.dcode.fr/vigenere-cipher)
-
-[guballa - Viginère cipher](https://www.guballa.de/vigenere-solver)
+- [cryptii - Viginère cipher](https://cryptii.com/)
+- [dcode - Viginère cipher](https://www.dcode.fr/vigenere-cipher)
+- [guballa - Viginère cipher](https://www.guballa.de/vigenere-solver)
 
 ### Bacon cipher
 
-[cryptii - Bacon cipher](https://cryptii.com/)
-
-[dcode - Bacon cipher](https://www.dcode.fr/bacon-cipher)
+- [cryptii - Bacon cipher](https://cryptii.com/)
+- [dcode - Bacon cipher](https://www.dcode.fr/bacon-cipher)
 
 ### Alphabetical substitution
 
-[cryptii - Alphabetical substitution](https://cryptii.com/)
+- [cryptii - Alphabetical substitution](https://cryptii.com/)
 
 ### Rail fence cipher
 
-[cryptii - Rail fence cipher](https://cryptii.com/)
+- [cryptii - Rail fence cipher](https://cryptii.com/)
+
+---
 
 ## Polybius square ciphers
 
 ### Polybius square
 
-[cryptii - Polybius square](https://cryptii.com/)
+- [cryptii - Polybius square](https://cryptii.com/)
 
 ### ADFGX cipher
 
-[cryptii - ADFGX cipher](https://cryptii.com/)
+- [cryptii - ADFGX cipher](https://cryptii.com/)
 
 ### Bifid cipher
 
-[cryptii - Bifid cipher](https://cryptii.com/)
+- [cryptii - Bifid cipher](https://cryptii.com/)
 
 ### Nihilist cipher
 
-[cryptii - Nihilist cipher](https://cryptii.com/)
+- [cryptii - Nihilist cipher](https://cryptii.com/)
 
 ### Tap code
 
-[cryptii - Tap code](https://cryptii.com/)
+- [cryptii - Tap code](https://cryptii.com/)
 
 ### Trifid cipher
 
-[cryptii - Trifid cipher](https://cryptii.com/)
+- [cryptii - Trifid cipher](https://cryptii.com/)
+
+---
 
 ## Encoding
 
 ### Base32
 
-[cryptii - Base32](https://cryptii.com/)
+- [cryptii - Base32](https://cryptii.com/)
 
 ### Base64
 
-`echo text | base64 -d`
-
-[cryptii - Base64](https://cryptii.com/)
+- `echo text | base64 -d`
+- [cryptii - Base64](https://cryptii.com/)
 
 ### Ascii85
 
-[cryptii - Ascii85](https://cryptii.com/)
+- [cryptii - Ascii85](https://cryptii.com/)
 
 ### Baudot code
 
-[cryptii - Baudot code](https://cryptii.com/)
+- [cryptii - Baudot code](https://cryptii.com/)
 
 ### Unicode code points
 
-[cryptii - Unicode code points](https://cryptii.com/)
+- [cryptii - Unicode code points](https://cryptii.com/)
 
 ### URL encoding
 
-[cryptii - URL encoding](https://cryptii.com/)
+- [cryptii - URL encoding](https://cryptii.com/)
 
 ### Punycode
 
-[cryptii - Punycode](https://cryptii.com/)
+- [cryptii - Punycode](https://cryptii.com/)
 
 ### Bootstring
 
-[cryptii - Bootstring](https://cryptii.com/)
+- [cryptii - Bootstring](https://cryptii.com/)
 
 ### Integer
 
-[cryptii - Integer](https://cryptii.com/)
+- [cryptii - Integer](https://cryptii.com/)
+
+---
 
 ## Modern cryptography
 
 ### Block Cipher
 
-[cryptii - Block Cipher](https://cryptii.com/)
+- [cryptii - Block Cipher](https://cryptii.com/)
 
 ### RC4
 
-[cryptii - RC4](https://cryptii.com/)
+- [cryptii - RC4](https://cryptii.com/)
 
 ### Hash function
 
-[cryptii - Hash function](https://cryptii.com/)
+- [cryptii - Hash function](https://cryptii.com/)
 
 ### HMAC
 
-[cryptii - HMAC](https://cryptii.com/)
+- [cryptii - HMAC](https://cryptii.com/)
+
+---
 
 ## Others
 
 ### Brainfuck
 
-[Brainfuck](https://sange.fi/esoteric/brainfuck/impl/interp/i.html)
+- [Brainfuck](https://sange.fi/esoteric/brainfuck/impl/interp/i.html)
 
 ### RSA
 
-[RSA](https://github.com/Ganapati/RsaCtfTool)
+- [RSA](https://github.com/Ganapati/RsaCtfTool)
 
 ### Substitution
 
-[guballa- Substitution](https://www.guballa.de/substitution-solver)
+- [guballa- Substitution](https://www.guballa.de/substitution-solver)
 
-[guballa git - Substitution](https://gitlab.com/guballa/SubstitutionBreaker)
+- [guballa git - Substitution](https://gitlab.com/guballa/SubstitutionBreaker)
 
 ### Snow
 
@@ -259,28 +265,28 @@
 
 ### QR Code
 
-[4qrcode - QR code](https://4qrcode.com/scan-qr-code.php)
+- [4qrcode - QR code](https://4qrcode.com/scan-qr-code.php)
 
 ### Fernet
 
-[Fernet](https://asecuritysite.com/encryption/ferdecode)
+- [Fernet](https://asecuritysite.com/encryption/ferdecode)
 
 ### SMS
 
-[dcode - SMS](https://www.dcode.fr/code-multitap-abc)
+- [dcode - SMS](https://www.dcode.fr/code-multitap-abc)
 
 ### Atbash
 
-[dcode - Atbash](https://www.dcode.fr/atbash-cipher)
+- [dcode - Atbash](https://www.dcode.fr/atbash-cipher)
 
 ### Tone Detect
 
-[Tone Detect](http://dialabc.com/sound/detect/)
+- [Tone Detect](http://dialabc.com/sound/detect/)
 
 ### Prime Number
 
-[dcode- Prime Number](https://www.dcode.fr/prime-numbers-cipher)
+- [dcode- Prime Number](https://www.dcode.fr/prime-numbers-cipher)
 
 ### Malbolge
 
-[Malbolge](https://www.tutorialspoint.com/execute_malbolge_online.php)
+- [Malbolge](https://www.tutorialspoint.com/execute_malbolge_online.php)
