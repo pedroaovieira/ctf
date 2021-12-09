@@ -55,3 +55,6 @@ https://github.com/zardus/ctf-tools/tree/master/stegsolve
 
 
 Google: “filetype ctf tools”
+
+
+<https://pequalsnp-team.github.io/cheatsheet/steganography-101>

@@ -128,21 +128,17 @@ Useful commands:
 
 
 ## file type/extension
-```
-file
-```
+
+- `file`
 
 ## strings
-```
-strings -n 15 file
-```
+
+- `strings -n 15 file`
 
 ## binwalk
-```
-binwalk file
 
-binwalk -e file
-```
+- `binwalk file`
+- `binwalk -e file`
 
 ## exiftool
 

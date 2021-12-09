@@ -50,6 +50,10 @@
   - [Others](#others)
     - [Brainfuck](#brainfuck)
     - [RSA](#rsa)
+      - [RsaCtfTool](#rsactftool)
+      - [RSA Calculator](#rsa-calculator)
+      - [rsa-encryption-decryption](#rsa-encryption-decryption)
+      - [rsatool](#rsatool)
     - [Substitution](#substitution)
     - [Snow](#snow)
     - [QR Code](#qr-code)
@@ -278,8 +282,23 @@
 
 ### RSA
 
-- [RSA](https://github.com/Ganapati/RsaCtfTool)
+- [RSA post](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/)
+
+#### RsaCtfTool
+
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
+
+#### RSA Calculator
+
+- [RSA Calculator](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
+
+#### rsa-encryption-decryption
+
 - [rsa-encryption-decryption](https://www.devglan.com/online-tools/rsa-encryption-decryption)
+
+#### rsatool
+
+- [rsatool](https://github.com/ius/rsatool)
 
 ### Substitution
 

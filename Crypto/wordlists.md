@@ -6,7 +6,8 @@ Web-Content [link](https://github.com/danielmiessler/SecLists/tree/master/Discov
 
 Sec-IT [link](https://blog.sec-it.fr/en/2021/03/02/web-wordlists/)
 
-#### Directories
+## Directories
+
 - /usr/share/wordlists/
 - /usr/share/dirb/wordlists/common.txt ()
 - /usr/share/dirb/wordlists/big.txt
@@ -14,30 +15,32 @@ Sec-IT [link](https://blog.sec-it.fr/en/2021/03/02/web-wordlists/)
 - /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 - /usr/share/wordlists/wfuzz/general/megabeast.txt
 
-#### Indexes
+## Indexes
+
 - /usr/share/dirb/wordlists/indexes.txt
 
-#### Extensions
+## Extensions
+
 - /usr/share/dirb/wordlists/extensions_common.txt
 - /usr/share/wordlists/wfuzz/general/mutations_common.txt
 
-#### Custom Worldlist
-Create a worldlist from a webpage
-```
-cewl -w wordlist.txt -d 2 -m 5 $target
-```
+## Custom Worldlist
 
-#### Passwords
+Create a worldlist from a webpage: `cewl -w wordlist.txt -d 2 -m 5 $target`
+
+## Passwords
+
 - /usr/share/wordlists/dirb/others/best110.txt
 - /usr/share/wordlists/dirb/others/best1050.txt
 
+## FastTrack
 
-#### FastTrack
 /usr/share/wordlists/fasttrack.txt
 
+## ROCKYOU
 
-#### ROCKYOU
-```
-sudo gunzip /usr/share/wordlists/rockyou.txt.gzwc -l /usr/share/wordlists/rockyou.txt
-```
-- /usr/share/wordlists/rockyou.txt
+- /usr/share/wordlists/rockyou.txt - `sudo gunzip /usr/share/wordlists/rockyou.txt.gzwc -l /usr/share/wordlists/rockyou.txt`
+
+## Many Passwords
+
+- <https://many-passwords.github.io/>
