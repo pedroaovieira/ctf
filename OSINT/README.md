@@ -1,5 +1,36 @@
 # OSINT
 
+- [OSINT](#osint)
+  - [External Resource](#external-resource)
+  - [Search Engines](#search-engines)
+  - [Website Information](#website-information)
+  - [Google Dorks](#google-dorks)
+    - [Operators](#operators)
+  - [Video Search Engines](#video-search-engines)
+  - [Reverse Search Engines](#reverse-search-engines)
+  - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
+    - [Sub-Domain Enumeration](#sub-domain-enumeration)
+  - [Geolocation Recon](#geolocation-recon)
+  - [Social Networking Recon](#social-networking-recon)
+  - [Personal Information](#personal-information)
+  - [Job Board Recon](#job-board-recon)
+  - [Deep/Dark Web Recon](#deepdark-web-recon)
+  - [Metadata Recon](#metadata-recon)
+  - [Email Tracking](#email-tracking)
+  - [Public Network Footprinting](#public-network-footprinting)
+    - [Network Range](#network-range)
+    - [Autonomous System Numbers](#autonomous-system-numbers)
+    - [WHOIS and DNS](#whois-and-dns)
+    - [DNS Zone Transfer](#dns-zone-transfer)
+    - [Reverse DNS Lookup](#reverse-dns-lookup)
+    - [Traceroute](#traceroute)
+    - [Recon-ng](#recon-ng)
+  - [Other Footprinting Tools](#other-footprinting-tools)
+  - [Wifi](#wifi)
+  - [WaybackMachine](#waybackmachine)
+
+## External Resource
+
 - <https://osintframework.com/>
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
@@ -180,7 +211,23 @@
 
 ---
 
-## WHOIS and DNS
+## Public Network Footprinting
+
+### Network Range
+
+- IANA (Internet Assigned Numbers Authority) - <https://www.iana.org/numbers>
+- ARIN  (American Registry for Internet Numbers) - <https://www.arin.net/about/welcome/region/>
+- RIPE  () - <https://www.ripe.net/>
+
+---
+
+### Autonomous System Numbers
+
+- IP address into an ASN - <https://www.ultratools.com/tools/asnInfo>
+
+---
+
+### WHOIS and DNS
 
 - **Domain Tools Whois** - <https://whois.domaintools.com/>
 - Network Tools - <https://network-tools.com/>
@@ -199,7 +246,7 @@
 
 ---
 
-## DNS Zone Transfer
+### DNS Zone Transfer
 
 - dig
   - `dig axfr @nsztm1.digi.ninja zonetransfer.me`
@@ -207,21 +254,11 @@
 
 ---
 
-## Reverse DNS Lookup
+### Reverse DNS Lookup
 
 - Network Tools - <https://www.yougetsignal.com/>
 - dnsrecon - <https://github.com/darkoperator/dnsrecon>
   - `dnsrecon -r 162.241.216.0/24`
-
----
-
-## Public Network Footprinting
-
-### Network Range
-
-- IANA (Internet Assigned Numbers Authority) - <https://www.iana.org/numbers>
-- ARIN  (American Registry for Internet Numbers) - <https://www.arin.net/about/welcome/region/>
-- RIPE  () - <https://www.ripe.net/>
 
 ---
 
@@ -273,7 +310,3 @@
 [WaybackMachine](https://archive.org/web/)
 
 ---
-
-## OSINT DOJO
-
-<https://www.osintdojo.com/resources/>

@@ -1,3 +1,8 @@
+# Tranings and Certifications
+
+## Ignite Cheatsheet
+
+-
 
 ## Defending Can Bus
 
@@ -44,14 +49,27 @@
 
 ## Penetration Testing Student (eJPT)
 
+[INE]
+(78h)
+<https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
 ## Burp Suite Certification
 
+[PortSwigger]
 
+<https://portswigger.net/web-security/certification>
 
+## Pentest+
 
-## Penetration Testing Professional
+[IT Pro TV]
+(34h)
+<localhost>
 
+## Penetration Testing Professional (eCPPTv2) 
+
+[INE] (50$ /month)
+(66h)
+<https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
 
 
