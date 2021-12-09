@@ -1,6 +1,9 @@
 # Crypto
 
 - [Crypto](#crypto)
+  - [Sites](#sites)
+  - [Cryptogram solver](#cryptogram-solver)
+  - [Cryptanalysis](#cryptanalysis)
   - [Transform](#transform)
     - [Text to Binary](#text-to-binary)
     - [Hexadecimal to Text](#hexadecimal-to-text)
@@ -56,6 +59,29 @@
     - [Tone Detect](#tone-detect)
     - [Prime Number](#prime-number)
     - [Malbolge](#malbolge)
+    - [XOR](#xor)
+
+---
+
+## Sites
+
+- <https://cryptii.com/>
+- <https://www.dcode.fr/>
+- <https://www.guballa.de/>
+- <https://asecuritysite.com/>
+- <https://gchq.github.io/CyberChef/>
+- <https://www.cryptool.org/en/>
+- <http://rumkin.com/tools/cipher/>
+
+---
+
+## Cryptogram solver
+
+- <https://quipqiup.com/>
+
+## Cryptanalysis
+
+- <https://github.com/nccgroup/featherduster>
 
 ---
 
@@ -96,6 +122,7 @@
 ### Morse Code
 
 - [cryptii - Morse Code](https://cryptii.com/)
+- [Text tools - morse code](http://www.unit-conversion.info/texttools/morse-code/)
 
 ### Spelling alphabet
 
@@ -107,7 +134,7 @@
 
 ### Enigma machine
 
---- [cryptii - Enigma machine](https://cryptii.com/)
+- [cryptii - Enigma machine](https://cryptii.com/)
 
 ### Caesar cipher
 
@@ -189,6 +216,7 @@
 ### Base64
 
 - `echo text | base64 -d`
+- [base64decode](https://www.base64decode.org/)
 - [cryptii - Base64](https://cryptii.com/)
 
 ### Ascii85
@@ -206,6 +234,7 @@
 ### URL encoding
 
 - [cryptii - URL encoding](https://cryptii.com/)
+- [URL decoder](https://www.urldecoder.org/)
 
 ### Punycode
 
@@ -250,6 +279,7 @@
 ### RSA
 
 - [RSA](https://github.com/Ganapati/RsaCtfTool)
+- [rsa-encryption-decryption](https://www.devglan.com/online-tools/rsa-encryption-decryption)
 
 ### Substitution
 
@@ -290,3 +320,18 @@
 ### Malbolge
 
 - [Malbolge](https://www.tutorialspoint.com/execute_malbolge_online.php)
+
+### XOR
+
+- [Solve Crypto Force](https://scwf.dima.ninja/)
+
+```python
+>>> data = 'CAPTURETHEFLAG'
+>>> key = 'A'
+>>> encrypted = ''.join([chr(ord(x) ^ ord(key)) for x in data])
+>>> encrypted
+'\x02\x00\x11\x15\x14\x13\x04\x15\t\x04\x07\r\x00\x06'
+>>> decrypted = ''.join([chr(ord(x) ^ ord(key)) for x in encrypted])
+>>> decrypted
+'CAPTURETHEFLAG'
+```
