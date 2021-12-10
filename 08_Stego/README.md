@@ -21,6 +21,8 @@ fcrackzip
 
 https://futureboy.us/stegano/
 
+https://github.com/DominicBreuker/stego-toolkit
+
 ---
 
 ## Transform

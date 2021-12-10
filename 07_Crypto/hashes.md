@@ -24,6 +24,8 @@
 
 [md5hashing](https://md5hashing.net/hash/)
 
+[Hashes.org](https://hashes.org)
+
 ## THM Crypto101
 
 [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)

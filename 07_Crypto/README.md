@@ -289,6 +289,8 @@
 ### RSA
 
 - [RSA post](https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/)
+- [Decode](https://crypto.stackexchange.com/questions/19444/rsa-given-q-p-and-e/19530#19530)
+
 
 #### RsaCtfTool
 

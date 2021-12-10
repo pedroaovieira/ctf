@@ -42,10 +42,15 @@
 
 - <https://sourceforge.net/projects/crunch-wordlist/>
 
+## Names
+
+- /usr/share/dirb/wordlists/others/names.txt
+
 ## Passwords
 
 - /usr/share/seclists
 - /usr/share/wordlists
+- /usr/share/dirb/wordlists/others/best15.txt
 - /usr/share/wordlists/dirb/others/best110.txt
 - /usr/share/wordlists/dirb/others/best1050.txt
 - /usr/share/wordlists/rockyou.txt
@@ -62,3 +67,7 @@
 ## Many Passwords
 
 - <https://many-passwords.github.io/>
+
+
+
+crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm

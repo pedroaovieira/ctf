@@ -38,6 +38,7 @@
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 
+
 ## Search Engines
 
 - Google - <https://www.google.com>
@@ -225,6 +226,11 @@
 ---
 
 ## Public Network Footprinting
+
+- <https://mxtoolbox.com>
+- <https://dnschecker.org/all-dns-records-of-domain.php>
+- <https://dnsspy.io/scan/>
+- <https://centralops.net/co/DomainDossier.aspx>
 
 ### Network Range
 
