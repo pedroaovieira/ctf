@@ -14,7 +14,9 @@
   - [Hacking Raspeberry Pi-Holes](#hacking-raspeberry-pi-holes)
   - [Cheatsheet](#cheatsheet)
   - [Dorks](#dorks)
-  - [Censys](#censys)
+  - [CheatSheet](#cheatsheet-1)
+  - [Censys (alternative)](#censys-alternative)
+  - [Zoomeye (alternative)](#zoomeye-alternative)
 
 ## Explore
 
@@ -93,14 +95,36 @@
 - has_screenshot: true Filter search based on a screenshot being present
 - title: Search based on text within the title
 
+- Windows RDP Password
+  - `"\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00"`
+- Misconfigured WordPress Sites
+  - `http.html:"* The wp-config.php creation script uses this file"`
+- Mongo DB servers
+  - `"MongoDB Server Information" port:27017 -authentication`
+- Jenkins
+  - `x-jenkins 200`
+- FTP servers allowing anonymous access
+  - `"220" "230 Login successful." port:21`
+- Android Root Bridge
+  - `"Android Debug Bridge" "Device" port:5555`
+- Hiring
+  - `"X-Recruiting:"`
+
 ## Dorks
 
 - `Remote desktop country:pt city:"Braga"`
 - `winrest port:5901 country:pt`
 - `smb contabilidade country:pt`
 - `smb series country:pt`
-- `winrest port:5901 country:pt`
 
-## Censys
+## CheatSheet
+
+- <https://thedarksource.com/shodan-cheat-sheet/>
+
+## Censys (alternative)
 
 [Censys] - <https://censys.io/>
+
+## Zoomeye (alternative)
+
+[Zoomeye] - <https://www.zoomeye.org>

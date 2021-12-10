@@ -6,6 +6,7 @@
   - [Website Information](#website-information)
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
+  - [Doks](#doks)
   - [Video Search Engines](#video-search-engines)
   - [Reverse Search Engines](#reverse-search-engines)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
@@ -83,6 +84,16 @@
 - **related:** This operator displays websites that are similar or related to the URL specified.
 - **info:** This operator finds information for the specified web page.
 - **location:** This operator finds information for a specific location.
+
+---
+
+## Doks
+
+- `recibo vencimento ext:pdf`
+- `indexof site:pt`
+- `inurl:admin site:pt`
+- `password`
+- `hackedby`
 
 ---
 

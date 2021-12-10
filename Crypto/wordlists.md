@@ -26,7 +26,17 @@ Sec-IT [link](https://blog.sec-it.fr/en/2021/03/02/web-wordlists/)
 
 ## Custom Worldlist
 
+### CEWL
+
 Create a worldlist from a webpage: `cewl -w wordlist.txt -d 2 -m 5 $target`
+
+### CUPP - Common User Passwords Profiler
+
+- <https://github.com/Mebus/cupp>
+
+### CRUNCH
+
+- <https://sourceforge.net/projects/crunch-wordlist/>
 
 ## Passwords
 

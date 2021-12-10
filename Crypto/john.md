@@ -13,6 +13,8 @@
 - `zip2john encrypted.zip > encrypted.hash`
 - `john --wordlist=/usr/share/wordlists/rockyou.txt encrypted.hash`
 
+- `fcrackzip -u -v -D -p passwords.txt file.zip`
+
 ## MsOffice
 
 - `python office2john.py dummy.docx > hash.txt`
