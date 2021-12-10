@@ -1,7 +1,5 @@
 # Enumeration
 
-[[CEH Labs]](../labs-v11/04-enumeration-1/README.md)
-
 ---
 
 ### NetBIOS : 137 (UDP)
@@ -158,9 +156,5 @@
 - nmap
   - `nmap -p 21 target_IP`
   - `nmap -T4 -A -p 21 target_IP`
-
----
-
-[[CEH Labs]](../labs-v11/04-enumeration-1/README.md)
 
 ---

@@ -1,4 +1,28 @@
-# Active Scan
+# Scan
+
+- [Scan](#scan)
+  - [Network Scanning / Host Discovery](#network-scanning--host-discovery)
+    - [Port and Service Scanning](#port-and-service-scanning)
+      - [Common Ports](#common-ports)
+      - [Nmap: Helpers](#nmap-helpers)
+      - [Nmap: TCP Connect Scan (3-way handshake)](#nmap-tcp-connect-scan-3-way-handshake)
+      - [Nmap: TCP Stealth Scan (TCP SYN Scan or Half-Open Scan)](#nmap-tcp-stealth-scan-tcp-syn-scan-or-half-open-scan)
+      - [Nmap: Inverse TCP](#nmap-inverse-tcp)
+      - [Nmap: XMAS](#nmap-xmas)
+      - [Nmap: Maimon Scans](#nmap-maimon-scans)
+      - [Nmap: ACK Scan - attempt to map firewall/filtering rules for target](#nmap-ack-scan---attempt-to-map-firewallfiltering-rules-for-target)
+      - [Nmap: IDLE/IPID Scan Zombie](#nmap-idleipid-scan-zombie)
+      - [Nmap: UDP Scan](#nmap-udp-scan)
+      - [Nmap: SCTP INIT](#nmap-sctp-init)
+      - [Nmap: COOKIE ECHO Scans](#nmap-cookie-echo-scans)
+      - [Nmap: IPv6 Scan](#nmap-ipv6-scan)
+      - [Nmap: Version Scan](#nmap-version-scan)
+      - [Nmap: Scan Optimizations](#nmap-scan-optimizations)
+    - [Nmap: Target OS Identification Techniques](#nmap-target-os-identification-techniques)
+      - [Nmap: IDS and Firewall Evasion](#nmap-ids-and-firewall-evasion)
+      - [Hping3](#hping3)
+      - [Metasploit](#metasploit)
+      - [Other Port and Service Scanning Tools](#other-port-and-service-scanning-tools)
 
 ---
 
@@ -46,15 +70,11 @@ done
 - Masscan - <https://github.com/robertdavidgraham/masscan>
   - `masscan -p22,80,445 192.168.1.0/24` - whole network ports 22 and 80
 - Metasploit - <https://www.metasploit.com/>
-  - [CEH Labs](../labs-v11/03-scanning-networks-1/6-perform-network-scanning-using-various-scanning-tools.md)
-  - <https://www.offensive-security.com/metasploit-unleashed/port-scanning/>
 - hping3 - <http://www.hping.org/>
   - `hping3 -A target_IP -p 80 -c 5`
 - SolarWinds Engineer's Toolset - <https://www.solarwinds.com/engineers-toolset>
 - PRTG Network Monitor - <https://www.paessler.com/prtg>
 - Fing - <https://www.fing.io>
-
-[CEH Labs](../labs-v11/03-scanning-networks-1/1-perform-host-discovery.md)
 
 ---
 
@@ -78,8 +98,6 @@ done
 - 3306:mysql
 - 8080:proxy
 - 6667:irc
-
-[CEH Labs](../labs-v11/03-scanning-networks-1/2-perform-port-and-service-discovery.md)
 
 ---
 
@@ -185,16 +203,12 @@ IDLE Scan - <https://nmap.org/book/idlescan.html>
 - Proxy Servers
   - `nmap --proxies`
 
-[CEH Labs](../labs-v11/03-scanning-networks-1/2-perform-port-and-service-discovery.md)
-
 ---
 
 #### Hping3
 
 - Hping3 - <http://www.hping.org/>
   - `hping3 -A target_IP -p 80 -c 5`
-
-[CEH Labs](../labs-v11/03-scanning-networks-1/2-perform-port-and-service-discovery.md)
 
 #### Metasploit
 
@@ -212,7 +226,6 @@ db_nmap -sS -A 10.10.10.16 -> To extract services of particular machine
 services -> to get all available services in a subnet
 ```
 
-- [CEH Labs](../labs-v11/03-scanning-networks-1/6-perform-network-scanning-using-various-scanning-tools.md)
 - <https://www.offensive-security.com/metasploit-unleashed/port-scanning/>
 
 ---
@@ -222,7 +235,5 @@ services -> to get all available services in a subnet
 - Angry IP Scanner - <https://angryip.org/> - (win/lin/mac)
 - MegaPing - <http://magnetosoft.com/products-downloads/>
 - NetScanTools Pro - <https://www.netscantools.com/nstpromain.html>
-
-[CEH Labs](../labs-v11/03-scanning-networks-1/2-perform-port-and-service-discovery.md)
 
 ---
