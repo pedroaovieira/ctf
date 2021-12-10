@@ -29,6 +29,8 @@
   - [Other Footprinting Tools](#other-footprinting-tools)
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
+  - [Tools](#tools)
+    - [Shodan](#shodan)
 
 ## External Resource
 
@@ -117,9 +119,9 @@
 
 ## Shodan, Censys, and Thingful
 
-- [Shodan]<https://help.shodan.io/the-basics/what-is-shodan>
-- [Censys]<https://about.censys.io/>
-- [Thingfull]<https://www.thingful.net/site/about>
+- [Shodan] - <https://help.shodan.io/the-basics/what-is-shodan>
+- [Censys] - <https://about.censys.io/>
+- [Thingfull] - <https://www.thingful.net/site/about>
 
 ---
 
@@ -321,3 +323,11 @@
 [WaybackMachine](https://archive.org/web/)
 
 ---
+
+## Tools
+
+---
+
+### Shodan
+
+[Sodan](shodan.md)

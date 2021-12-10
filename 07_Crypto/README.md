@@ -64,6 +64,12 @@
     - [Prime Number](#prime-number)
     - [Malbolge](#malbolge)
     - [XOR](#xor)
+  - [Tools](#tools)
+    - [Wordlists](#wordlists)
+    - [John](#john)
+    - [Hashcat](#hashcat)
+    - [Hashes](#hashes)
+    - [GPG](#gpg)
 
 ---
 
@@ -354,3 +360,39 @@
 >>> decrypted
 'CAPTURETHEFLAG'
 ```
+
+---
+
+## Tools
+
+---
+
+### Wordlists
+
+[Wordlists](wordlists.md)
+
+---
+
+### John
+
+[John The Ripper](john.md)
+
+---
+
+### Hashcat
+
+[Hashcat](hashcat.md)
+
+---
+
+### Hashes
+
+[Hashes](hashes.md)
+
+---
+
+### GPG
+
+[GnuPGP](gpg.md)
+
+---
