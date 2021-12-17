@@ -2,6 +2,7 @@
 
 - [OSINT](#osint)
   - [External Resource](#external-resource)
+  - [VMs](#vms)
   - [Search Engines](#search-engines)
   - [Website Information](#website-information)
   - [Google Dorks](#google-dorks)
@@ -38,6 +39,12 @@
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 
+## VMs
+
+- [OSINT VM] - <https://www.tracelabs.org/initiatives/osint-vm>
+- [Buscador] - <https://inteltechniques.com/buscador/>
+- [REMnux] - <https://docs.remnux.org/install-distro/get-virtual-appliance>
+- [Genymotion] - <https://www.genymotion.com/download/>
 
 ## Search Engines
 
