@@ -76,3 +76,9 @@ CCMP - Counter Mode Block Chain Message Authentication Code Protocol
 
 
 https://www.hackers-arise.com/post/osint-tracking-the-suspect-s-precise-location-using-wigle-net
+
+
+https://www.bettercap.org/
+
+https://en.kali.tools/?p=52
+
