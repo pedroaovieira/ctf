@@ -71,3 +71,8 @@ TKIP - Temporal Key Integrity Protocol
 WPA2
 
 CCMP - Counter Mode Block Chain Message Authentication Code Protocol
+
+
+
+
+https://www.hackers-arise.com/post/osint-tracking-the-suspect-s-precise-location-using-wigle-net
