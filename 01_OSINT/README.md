@@ -4,21 +4,20 @@
   - [External Resource](#external-resource)
   - [VMs](#vms)
   - [Search Engines](#search-engines)
-  - [Website Information](#website-information)
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
-  - [Doks](#doks)
+  - [Dorks](#dorks)
   - [Video Search Engines](#video-search-engines)
-  - [Reverse Search Engines](#reverse-search-engines)
-  - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
-    - [Sub-Domain Enumeration](#sub-domain-enumeration)
+  - [Image Search Engines](#image-search-engines)
   - [Geolocation Recon](#geolocation-recon)
+  - [Google Alerts](#google-alerts)
   - [Social Networking Recon](#social-networking-recon)
   - [Personal Information](#personal-information)
   - [Job Board Recon](#job-board-recon)
   - [Deep/Dark Web Recon](#deepdark-web-recon)
   - [Metadata Recon](#metadata-recon)
   - [Email Tracking](#email-tracking)
+  - [Website Information](#website-information)
   - [Public Network Footprinting](#public-network-footprinting)
     - [Network Range](#network-range)
     - [Autonomous System Numbers](#autonomous-system-numbers)
@@ -26,11 +25,13 @@
     - [DNS Zone Transfer](#dns-zone-transfer)
     - [Reverse DNS Lookup](#reverse-dns-lookup)
     - [Traceroute](#traceroute)
+    - [Sub-Domain Enumeration](#sub-domain-enumeration)
     - [Recon-ng](#recon-ng)
   - [Other Footprinting Tools](#other-footprinting-tools)
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
   - [Tools](#tools)
+  - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan](#shodan)
 
 ## External Resource
@@ -60,20 +61,6 @@
 
 ---
 
-## Website Information
-
-- robots.txt
-- sitemap.xml
-- viewsource
-- [Measure page quality](https://web.dev/measure/)
-- [seo-analyzer](https://neilpatel.com/seo-analyzer/)
-- [whatweb](https://morningstarsecurity.com/research/whatweb)
-- [wappalyzer](https://www.wappalyzer.com/)
-- [Website Informer] - <https://website.informer.com/>
-- [Web Data Extractor] - <http://www.webextractor.com/>
-
----
-
 ## Google Dorks
 
 - Google Hacking Database - <https://www.exploit-db.com/google-hacking-database>
@@ -97,7 +84,7 @@
 
 ---
 
-## Doks
+## Dorks
 
 - `recibo vencimento ext:pdf`
 - `indexof site:pt`
@@ -117,37 +104,13 @@
 
 ---
 
-## Reverse Search Engines
+## Image Search Engines
 
 - Google Images - <https://images.google.com/>
 - Yahoo Images - <https://images.search.yahoo.com/>
 - Yandex Images - <https://yandex.com/images/>
 - Image Reverse - TinEye - <https://tineye.com/>
 - Image Reverse - ezgif - <https://ezgif.com/reverse>
-
-## Shodan, Censys, and Thingful
-
-- [Shodan] - <https://help.shodan.io/the-basics/what-is-shodan>
-- [Censys] - <https://about.censys.io/>
-- [Thingfull] - <https://www.thingful.net/site/about>
-
----
-
-### Sub-Domain Enumeration
-
-- Domains - gTLD (Generic Top-Level Domain)
-- Sub-Domains
-&nbsp;&nbsp;
-- Google - <https://www.google.com>
-  - `site:itpro.tv`
-- Netcraft Tools - <https://www.netcraft.com/tools/>
-- **Netcraft Site Report** - <https://sitereport.netcraft.com/?url=https://www.eccouncil.org/>
-- **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
-- sublist3r - <https://github.com/aboul3la/Sublist3r>
-  - `python3  ./sublist3r.py -d domain.com -o domain.com.txt`
-- Pentest Tools - <https://pentest-tools.com/>
-
-**More Info** - <https://hover.blog/whats-a-domain-name-subdomain-top-level-domain/>
 
 ---
 
@@ -156,6 +119,12 @@
 - Google Maps - <https://www.google.com/maps>
 - Bing Maps - <https://www.bing.com/maps/>
 - Wikimapia - <https://wikimapia.org>
+
+---
+
+## Google Alerts
+
+- Google Alerts - <https://www.google.com/alerts>
 
 ---
 
@@ -232,6 +201,20 @@
 
 ---
 
+## Website Information
+
+- robots.txt
+- sitemap.xml
+- viewsource
+- [Measure page quality](https://web.dev/measure/)
+- [seo-analyzer](https://neilpatel.com/seo-analyzer/)
+- [whatweb](https://morningstarsecurity.com/research/whatweb)
+- [wappalyzer](https://www.wappalyzer.com/)
+- [Website Informer] - <https://website.informer.com/>
+- [Web Data Extractor] - <http://www.webextractor.com/>
+
+---
+
 ## Public Network Footprinting
 
 - <https://mxtoolbox.com>
@@ -304,6 +287,24 @@
 
 ---
 
+### Sub-Domain Enumeration
+
+- Domains - gTLD (Generic Top-Level Domain)
+- Sub-Domains
+&nbsp;&nbsp;
+- Google - <https://www.google.com>
+  - `site:itpro.tv`
+- Netcraft Tools - <https://www.netcraft.com/tools/>
+- **Netcraft Site Report** - <https://sitereport.netcraft.com/?url=https://www.eccouncil.org/>
+- **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
+- sublist3r - <https://github.com/aboul3la/Sublist3r>
+  - `python3  ./sublist3r.py -d domain.com -o domain.com.txt`
+- Pentest Tools - <https://pentest-tools.com/>
+
+**More Info** - <https://hover.blog/whats-a-domain-name-subdomain-top-level-domain/>
+
+---
+
 ### Recon-ng
 
 - **Recon-ng** - <https://github.com/lanmaster53/recon-ng>
@@ -334,6 +335,11 @@
 ## WaybackMachine
 
 [WaybackMachine](https://archive.org/web/)
+[Archive.is](http://archive.is/)
+[Cached Pages](http://www.cachedpages.com/)
+[Cached View](http://cachedview.com/)
+[OldWeb.Today](https://oldweb.today/)
+[Time Travel](http://timetravel.mementoweb.org/)
 
 ---
 
@@ -341,6 +347,12 @@
 
 ---
 
+## Shodan, Censys, and Thingful
+
+- [Shodan] - <https://help.shodan.io/the-basics/what-is-shodan>
+- [Censys] - <https://about.censys.io/>
+- [Thingfull] - <https://www.thingful.net/site/about>
+
 ### Shodan
 
-[Sodan](shodan.md)
+[Shodan](shodan.md)
