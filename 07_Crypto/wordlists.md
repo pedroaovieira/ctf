@@ -29,7 +29,7 @@
 
 ### CEWL
 
-- Create a worldlist from a webpage: 
+- Create a worldlist from a webpage:
   - `cewl -w wordlist.txt -d 2 -m 5 $target`
     - \-d represents the depth to spider the website
     - \-m represents minimum word length

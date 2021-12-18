@@ -27,12 +27,16 @@
     - [Traceroute](#traceroute)
     - [Sub-Domain Enumeration](#sub-domain-enumeration)
     - [Recon-ng](#recon-ng)
+    - [Maltego](#maltego)
   - [Other Footprinting Tools](#other-footprinting-tools)
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
   - [Tools](#tools)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan](#shodan)
+      - [Shodan Dorks](#shodan-dorks)
+  - [Website cloner](#website-cloner)
+  - [Have I been Pwned](#have-i-been-pwned)
 
 ## External Resource
 
@@ -184,7 +188,7 @@
   - `strings file`
 - exif - sudo apt install exif
   - `exif file`
-- metagoofil - <https://github.com/opsdisk/metagoofil>
+- metagoofil - <https://github.com/opsdisk/metagoofil> - <https://github.com/laramies/metagoofil>
   - `metagoofil -d certifiedhacker.com -t pdf,doc,xls,ppt,txt -e 200`
   - `metagoofil -o metagoofil_results -u 'Randomize User-Agent' -r 10 -e 45 -l 100 -n 100 -w -t 'pdf,doc,docx,xls,xlsx' -d somedomain.com`
 - exiftool - <https://exiftool.org/>
@@ -311,6 +315,12 @@
 
 ---
 
+### Maltego
+
+- [Maltego] - <https://www.maltego.com/ce-registration/>
+
+---
+
 ## Other Footprinting Tools
 
 - Foca - <https://www.elevenpaths.com/innovation-labs/technologies/foca>
@@ -356,3 +366,24 @@
 ### Shodan
 
 [Shodan](shodan.md)
+
+#### Shodan Dorks
+
+- `Remote desktop country:pt city:"Braga"`
+- `winrest port:5901 country:pt`
+- `smb contabilidade country:pt`
+- `smb series country:pt`
+
+---
+
+## Website cloner
+
+- wget
+  - `wget -mkEpnp site`
+- [HTTrack Website Copier] - <https://www.httrack.com/>
+
+---
+
+## Have I been Pwned
+
+- [haveibeenpwned] - <https://haveibeenpwned.com/>

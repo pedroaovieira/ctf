@@ -13,7 +13,6 @@
   - [Industrial Systems](#industrial-systems)
   - [Hacking Raspeberry Pi-Holes](#hacking-raspeberry-pi-holes)
   - [Cheatsheet](#cheatsheet)
-  - [Dorks](#dorks)
   - [CheatSheet](#cheatsheet-1)
   - [Censys (alternative)](#censys-alternative)
   - [Zoomeye (alternative)](#zoomeye-alternative)
@@ -109,13 +108,6 @@
   - `"Android Debug Bridge" "Device" port:5555`
 - Hiring
   - `"X-Recruiting:"`
-
-## Dorks
-
-- `Remote desktop country:pt city:"Braga"`
-- `winrest port:5901 country:pt`
-- `smb contabilidade country:pt`
-- `smb series country:pt`
 
 ## CheatSheet
 
