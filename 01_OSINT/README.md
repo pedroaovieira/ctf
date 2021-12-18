@@ -31,6 +31,7 @@
   - [Other Footprinting Tools](#other-footprinting-tools)
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
+  - [Canary Tokens](#canary-tokens)
   - [Tools](#tools)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan](#shodan)
@@ -350,6 +351,12 @@
 [Cached View](http://cachedview.com/)
 [OldWeb.Today](https://oldweb.today/)
 [Time Travel](http://timetravel.mementoweb.org/)
+
+---
+
+## Canary Tokens
+
+- [Canary Tokens] - <https://canarytokens.org/generate>
 
 ---
 
