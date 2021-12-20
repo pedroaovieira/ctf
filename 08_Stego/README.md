@@ -60,3 +60,6 @@ Google: “filetype ctf tools”
 
 
 <https://pequalsnp-team.github.io/cheatsheet/steganography-101>
+
+
+<http://jpinsoft.net/deepsound/overview.aspx>

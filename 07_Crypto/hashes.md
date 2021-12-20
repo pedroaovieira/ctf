@@ -6,11 +6,11 @@
 
 ### WEB Hash type identifier
 
-[hash_type_checker](https://md5hashing.net/hash_type_checker)
+[hash_type_checker] - <https://md5hashing.net/hash_type_checker>
 
-[hash_identifier](https://hashes.com/en/tools/hash_identifier)
+[hash_identifier] - <https://hashes.com/en/tools/hash_identifier>
 
-[hash-analyzer](https://www.tunnelsup.com/hash-analyzer/)
+[hash-analyzer] - <https://www.tunnelsup.com/hash-analyzer/>
 
 ## Hash type identifier
 
@@ -18,14 +18,16 @@
 
 ## Hashing
 
-[crackstation](https://crackstation.net/)
+[crackstation] - <https://crackstation.net/>
 
-[hashcrack](https://hashcrack.com/)
+[hashcrack] - <https://hashcrack.com/>
 
-[md5hashing](https://md5hashing.net/hash/)
+[md5hashing] - <https://md5hashing.net/hash/>
 
-[Hashes.org](https://hashes.org)
+[Hashes.org] - <https://hashes.org>
+
+[HashKiller] - <https://hashkiller.co.uk>
 
 ## THM Crypto101
 
-[Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+[Encryption - Crypto 101] - <https://tryhackme.com/room/encryptioncrypto101>

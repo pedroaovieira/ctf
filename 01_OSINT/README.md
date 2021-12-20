@@ -2,6 +2,7 @@
 
 - [OSINT](#osint)
   - [External Resource](#external-resource)
+  - [Local IP](#local-ip)
   - [VMs](#vms)
   - [Search Engines](#search-engines)
   - [Google Dorks](#google-dorks)
@@ -10,8 +11,14 @@
   - [Video Search Engines](#video-search-engines)
   - [Image Search Engines](#image-search-engines)
   - [Geolocation Recon](#geolocation-recon)
+    - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [Social Networking Recon](#social-networking-recon)
+    - [Social Media](#social-media)
+    - [Security questions](#security-questions)
+    - [Facebook](#facebook)
+    - [Twitter](#twitter)
+    - [Instagram](#instagram)
   - [Personal Information](#personal-information)
   - [Job Board Recon](#job-board-recon)
   - [Deep/Dark Web Recon](#deepdark-web-recon)
@@ -38,6 +45,11 @@
       - [Shodan Dorks](#shodan-dorks)
   - [Website cloner](#website-cloner)
   - [Have I been Pwned](#have-i-been-pwned)
+  - [Temporary Email](#temporary-email)
+  - [VPN](#vpn)
+  - [DNS Leak](#dns-leak)
+
+---
 
 ## External Resource
 
@@ -45,12 +57,22 @@
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 
+---
+
+## Local IP
+
+- `http://ipinfo.io/ip`
+
+---
+
 ## VMs
 
 - [OSINT VM] - <https://www.tracelabs.org/initiatives/osint-vm>
 - [Buscador] - <https://inteltechniques.com/buscador/>
 - [REMnux] - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 - [Genymotion] - <https://www.genymotion.com/download/>
+
+---
 
 ## Search Engines
 
@@ -125,6 +147,10 @@
 - Bing Maps - <https://www.bing.com/maps/>
 - Wikimapia - <https://wikimapia.org>
 
+### 3 word location
+
+- what3words - <https://what3words.com/>
+
 ---
 
 ## Google Alerts
@@ -145,6 +171,36 @@
 - UserRecon - <https://github.com/issamelferkh/userrecon>
   - `./userrecon.sh`
 
+### Social Media
+
+- Friends and followers
+- Media (pictures, videos, audio)
+- Posts/Comments
+- Phone numbers/ Dates / Schedules
+- Likes / Dislikes
+
+### Security questions
+
+- What was your childhood nickname?
+- What is the first school you attended?
+- What was your first pets name?
+- What street did you grow up on?
+- What's the ciry where your parents met?
+- What was the city you where born in?
+- What's the name of your oldest cousin?
+
+### Facebook
+
+- StalkFace - <https://stalkface.com/en/>
+
+### Twitter
+
+- Twint - <https://github.com/twintproject/twint>
+
+### Instagram
+
+- Instaloot - <https://github.com/althonos/InstaLooter>
+
 ---
 
 ## Personal Information
@@ -162,6 +218,7 @@
 - Smart Recruiters - <https://www.smartr.me/>
 - Linkedin - <https://www.linkedin.com/>
 - Xing - <https://www.xing.com/>
+- Glassdoor - <https://www.glassdoor.com/>
 
 ---
 
@@ -176,7 +233,8 @@
     - Tor
 &nbsp;&nbsp;
 - Tor - <https://www.torproject.org/>
-- Tails - <https://tails.boum.org/>
+  - Check if Ip is Tor - ExoneraTor - <https://metrics.torproject.org/exonerator.html>
+- **Tails** - <https://tails.boum.org/>
 - Whonix - <https://www.whonix.org/>
 &nbsp;&nbsp;
 - The Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page> is an onion site that works as a Wikipedia service of hidden websites
@@ -394,3 +452,22 @@
 ## Have I been Pwned
 
 - [haveibeenpwned] - <https://haveibeenpwned.com/>
+
+---
+
+## Temporary Email
+
+- 10 minute email - <https://10minutemail.com/>
+- 20 minute email - <https://www.20minutemail.com/>
+
+---
+
+## VPN
+
+- ProtonVPN - <https://protonvpn.com/>
+
+---
+
+## DNS Leak
+
+- DNS Leak Test - <https://dnsleaktest.com/>
