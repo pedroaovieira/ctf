@@ -312,6 +312,8 @@
   - `nslookup certifiedhacker.com`
     - interactive: set type=a
     - cname: set type=cname
+- dmtry
+  - `dmitry https://cloudarchitecture.io`
 - dig
   - `dig certifiedhacker.com`
   - `dig yahoo.com mx`
