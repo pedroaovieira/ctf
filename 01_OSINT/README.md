@@ -49,6 +49,7 @@
   - [VPN](#vpn)
   - [DNS Leak](#dns-leak)
   - [Dial Tone](#dial-tone)
+  - [Chalenges](#chalenges)
 
 ---
 
@@ -478,3 +479,11 @@
 ## Dial Tone
 
 - [Detect DTMF Tones] - <http://dialabc.com/sound/detect/>
+
+---
+
+## Chalenges
+
+- <https://investigator.cybersoc.wales/>
+- <https://ctf.cybersoc.wales/>
+
