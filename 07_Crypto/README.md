@@ -57,6 +57,7 @@
     - [Substitution](#substitution)
     - [Snow](#snow)
     - [QR Code](#qr-code)
+    - [Barcode Reader](#barcode-reader)
     - [Fernet](#fernet)
     - [SMS](#sms)
     - [Atbash](#atbash)
@@ -322,6 +323,10 @@
 ### QR Code
 
 - [4qrcode - QR code](https://4qrcode.com/scan-qr-code.php)
+
+### Barcode Reader
+
+- [Barcode Reader] - https://online-barcode-reader.inliteresearch.com/
 
 ### Fernet
 

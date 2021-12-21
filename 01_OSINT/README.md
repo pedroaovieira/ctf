@@ -48,6 +48,7 @@
   - [Temporary Email](#temporary-email)
   - [VPN](#vpn)
   - [DNS Leak](#dns-leak)
+  - [Dial Tone](#dial-tone)
 
 ---
 
@@ -471,3 +472,9 @@
 ## DNS Leak
 
 - DNS Leak Test - <https://dnsleaktest.com/>
+
+---
+
+## Dial Tone
+
+- [Detect DTMF Tones] - <http://dialabc.com/sound/detect/>
