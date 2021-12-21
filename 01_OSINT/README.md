@@ -312,8 +312,13 @@
   - `nslookup certifiedhacker.com`
     - interactive: set type=a
     - cname: set type=cname
+- dmtry
+  - `dmitry -i www.certifiedhacker.com`
 - dig
   - `dig certifiedhacker.com`
+  - `dig yahoo.com mx`
+  - `dig yahoo.com SOA`
+  - `dig yahoo.com ANY +noall +answer`
 - dnsrecon
   - `dnsrecon -d certifiedhacker.com`
 - nslookup - <http://www.kloth.net/services/nslookup.php>
