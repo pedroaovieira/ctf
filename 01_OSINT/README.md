@@ -313,7 +313,7 @@
     - interactive: set type=a
     - cname: set type=cname
 - dmtry
-  - `dmitry https://cloudarchitecture.io`
+  - `dmitry -i www.certifiedhacker.com`
 - dig
   - `dig certifiedhacker.com`
   - `dig yahoo.com mx`
