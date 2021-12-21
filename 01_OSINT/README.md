@@ -314,6 +314,9 @@
     - cname: set type=cname
 - dig
   - `dig certifiedhacker.com`
+  - `dig yahoo.com mx`
+  - `dig yahoo.com SOA`
+  - `dig yahoo.com ANY +noall +answer`
 - dnsrecon
   - `dnsrecon -d certifiedhacker.com`
 - nslookup - <http://www.kloth.net/services/nslookup.php>
