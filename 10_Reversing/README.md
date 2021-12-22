@@ -1,6 +1,17 @@
 # Reversing
 
 
+flare-vm
+
+https://www.mandiant.com/resources/flare-vm-update
+
+https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901
+
+https://github.com/mandiant/flare-vm
+
+commando vm
+
+
 
 
 ## file
@@ -132,6 +143,11 @@ jmp -r [register] - find a jump point
 !mona seh -cm aslr=false
 !mona seh -cpb "\x00\x0a\x0d"
 ```
+
+
+## SNDBOX
+
+
 
 
 

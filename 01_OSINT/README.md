@@ -21,6 +21,7 @@
     - [Instagram](#instagram)
   - [Personal Information](#personal-information)
   - [Job Board Recon](#job-board-recon)
+  - [Search Code](#search-code)
   - [Deep/Dark Web Recon](#deepdark-web-recon)
   - [Metadata Recon](#metadata-recon)
   - [Email Tracking](#email-tracking)
@@ -58,6 +59,7 @@
 - <https://osintframework.com/>
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
+- <https://osintcurio.us/>
 
 ---
 
@@ -70,7 +72,7 @@
 ## VMs
 
 - [OSINT VM] - <https://www.tracelabs.org/initiatives/osint-vm>
-- [Buscador] - <https://inteltechniques.com/buscador/>
+- [ThreatPursuit-VM] - <https://github.com/mandiant/ThreatPursuit-VM>
 - [REMnux] - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 - [Genymotion] - <https://www.genymotion.com/download/>
 
@@ -208,7 +210,8 @@
 ## Personal Information
 
 - Peek You - <https://www.peekyou.com/>
-- pipl - <https://pipl.com/>
+- Pipl - <https://pipl.com/>
+- KnowEM - <https://knowem.com/>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
 
@@ -224,6 +227,11 @@
 
 ---
 
+## Search Code
+
+- Search code - <https://searchcode.com/>
+
+---
 ## Deep/Dark Web Recon
 
 - Dark Nets
