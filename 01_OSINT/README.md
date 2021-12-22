@@ -60,6 +60,7 @@
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 - <https://osintcurio.us/>
+- <https://github.com/jivoi/awesome-osint>
 
 ---
 
@@ -250,11 +251,13 @@
 - The Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page> is an onion site that works as a Wikipedia service of hidden websites
 - FakeID - <http://fakeidskhfik46ux.onion> is an onion site for creating fake passports
 - The Paypal Cent - <http://nare7pqnmnojs2pg.onion> is an onion site that sells PayPal accounts with good balances
+- <https://iaca-darkweb-tools.com/>
 
 ## Metadata Recon
 
 - strings
   - `strings file`
+- On-line - <http://exif.regex.info/exif.cgi>
 - exif - sudo apt install exif
   - `exif file`
 - metagoofil - <https://github.com/opsdisk/metagoofil> - <https://github.com/laramies/metagoofil>
