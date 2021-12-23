@@ -2,6 +2,7 @@
 
 - [OSINT](#osint)
   - [External Resource](#external-resource)
+  - [Book](#book)
   - [Local IP](#local-ip)
   - [VMs](#vms)
   - [Search Engines](#search-engines)
@@ -20,6 +21,7 @@
     - [Twitter](#twitter)
     - [Instagram](#instagram)
   - [Personal Information](#personal-information)
+  - [Bitcoin](#bitcoin)
   - [Job Board Recon](#job-board-recon)
   - [Search Code](#search-code)
   - [Deep/Dark Web Recon](#deepdark-web-recon)
@@ -51,6 +53,8 @@
   - [DNS Leak](#dns-leak)
   - [Dial Tone](#dial-tone)
   - [Chalenges](#chalenges)
+  - [Fake persona](#fake-persona)
+  - [Scams](#scams)
 
 ---
 
@@ -61,6 +65,13 @@
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 - <https://osintcurio.us/>
 - <https://github.com/jivoi/awesome-osint>
+- <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
+
+---
+
+## Book
+
+- OSINT Handbook 2020 - [link](OSINT_Handbook_2020.pdf)
 
 ---
 
@@ -143,6 +154,8 @@
 - Yandex Images - <https://yandex.com/images/>
 - Image Reverse - TinEye - <https://tineye.com/>
 - Image Reverse - ezgif - <https://ezgif.com/reverse>
+- Pimeyes - <https://pimeyes.com/en>
+- Remove Background - <https://www.remove.bg/>
 
 ---
 
@@ -201,6 +214,7 @@
 ### Twitter
 
 - Twint - <https://github.com/twintproject/twint>
+- Botometer - <https://botometer.osome.iu.edu/>
 
 ### Instagram
 
@@ -215,6 +229,13 @@
 - KnowEM - <https://knowem.com/>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
+
+---
+
+## Bitcoin
+
+- bitcoinwhoswho - <https://www.bitcoinwhoswho.com/>
+- bitref - <bitref.com>
 
 ---
 
@@ -233,6 +254,7 @@
 - Search code - <https://searchcode.com/>
 
 ---
+
 ## Deep/Dark Web Recon
 
 - Dark Nets
@@ -252,6 +274,11 @@
 - FakeID - <http://fakeidskhfik46ux.onion> is an onion site for creating fake passports
 - The Paypal Cent - <http://nare7pqnmnojs2pg.onion> is an onion site that sells PayPal accounts with good balances
 - <https://iaca-darkweb-tools.com/>
+- deepdtoweb.com
+- onionsearchengine
+- hiddenwiki.tor.com
+
+---
 
 ## Metadata Recon
 
@@ -470,6 +497,7 @@
 ## Have I been Pwned
 
 - [haveibeenpwned] - <https://haveibeenpwned.com/>
+- [dehashed] - <https://www.dehashed.com/>
 
 ---
 
@@ -503,3 +531,12 @@
 - <https://investigator.cybersoc.wales/>
 - <https://ctf.cybersoc.wales/>
 
+## Fake persona
+
+- Fake Identity - <https://datafakegenerator.com/>
+- Fake Photo - <https://thispersondoesnotexist.com/>
+- Geolocation extensions
+
+## Scams
+
+- Scam Digger -  <https://scamdigger.com>

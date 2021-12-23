@@ -1,4 +1,32 @@
-# Reversing
+# Reverse Engineering
+
+- [OSINT](#osint)
+  - [External Resourc
+
+
+
+---
+
+## External Resource
+
+---
+
+## Book
+
+
+---
+
+## Local IP
+
+- `http://ipinfo.io/ip`
+
+---
+
+## VMs
+
+
+
+
 
 
 flare-vm
