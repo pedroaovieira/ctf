@@ -3,6 +3,7 @@
 - [OSINT](#osint)
   - [External Resource](#external-resource)
   - [Book](#book)
+  - [Chalenges](#chalenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
   - [Search Engines](#search-engines)
@@ -52,7 +53,6 @@
   - [VPN](#vpn)
   - [DNS Leak](#dns-leak)
   - [Dial Tone](#dial-tone)
-  - [Chalenges](#chalenges)
   - [Fake persona](#fake-persona)
   - [Scams](#scams)
 
@@ -72,6 +72,13 @@
 ## Book
 
 - OSINT Handbook 2020 - [link](OSINT_Handbook_2020.pdf)
+
+---
+
+## Chalenges
+
+- <https://investigator.cybersoc.wales/>
+- <https://ctf.cybersoc.wales/>
 
 ---
 
@@ -407,6 +414,7 @@
 - **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
 - sublist3r - <https://github.com/aboul3la/Sublist3r>
   - `python3  ./sublist3r.py -d domain.com -o domain.com.txt`
+- dnsdumpster - <https://dnsdumpster.com/>
 - Pentest Tools - <https://pentest-tools.com/>
 
 **More Info** - <https://hover.blog/whats-a-domain-name-subdomain-top-level-domain/>
@@ -525,11 +533,6 @@
 - [Detect DTMF Tones] - <http://dialabc.com/sound/detect/>
 
 ---
-
-## Chalenges
-
-- <https://investigator.cybersoc.wales/>
-- <https://ctf.cybersoc.wales/>
 
 ## Fake persona
 

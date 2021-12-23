@@ -3,6 +3,8 @@
 - [Reverse Engineering](#reverse-engineering)
   - [External Resource](#external-resource)
   - [Book](#book)
+  - [Chalenges](#chalenges)
+  - [VirusTotal](#virustotal)
   - [VMs](#vms)
   - [x86](#x86)
     - [Registers (32 bits)](#registers-32-bits)
@@ -12,10 +14,12 @@
     - [Pointers (64 bits)](#pointers-64-bits)
   - [Assembly](#assembly)
   - [Reversing Tools](#reversing-tools)
-    - [Tools](#tools)
+    - [File fingerprinting Tools](#file-fingerprinting-tools)
       - [file type/extension](#file-typeextension)
       - [strings](#strings)
       - [binwalk](#binwalk)
+      - [PEiD](#peid)
+      - [File Dependencies](#file-dependencies)
     - [Debugers](#debugers)
       - [OllyDBG](#ollydbg)
       - [ImmunityDebugger](#immunitydebugger)
@@ -39,7 +43,7 @@
       - [Process Explorer](#process-explorer)
     - [dnSpy](#dnspy)
   - [Online Disassembler](#online-disassembler)
-  - [PEiD](#peid)
+  - [PEiD](#peid-1)
   - [UPX](#upx)
   - [SNDBOX](#sndbox)
 - [Chapter 8 - Reverse Engineering](#chapter-8---reverse-engineering)
@@ -48,7 +52,8 @@
 
 ## External Resource
 
-<https://forum.tuts4you.com/files/categories/>
+- [ALDEID] - <https://www.aldeid.com/wiki/Category:Reverse-Engineering>
+- [Downloads] - <https://forum.tuts4you.com/files/categories/>
 
 ---
 
@@ -56,6 +61,22 @@
 
 - [Practical Malware Analysis] - <https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901>
 - [0xOPOSEC-CrackMe-Up] - [link](0xOPOSEC-CrackMe-Up-0xACB.pdf)
+
+---
+
+## Chalenges
+
+[Reverse-Engineering/Challenges] - <https://www.aldeid.com/wiki/Category:Reverse-Engineering/Challenges>
+[The FLARE On Challenge] - <http://flare-on.com/>
+[The-FLARE-On-Challenge] - <https://www.aldeid.com/wiki/The-FLARE-On-Challenge-01>
+[The-FLARE-On-Challenge-2015] - <https://www.aldeid.com/wiki/The-FLARE-On-Challenge-2015>
+
+---
+
+## VirusTotal
+
+- VirusTotal - <https://www.virustotal.com>
+- Hybrid Analysis - <https://www.hybrid-analysis.com/>
 
 ---
 
@@ -131,7 +152,7 @@
 
 ## Reversing Tools
 
-### Tools
+### File fingerprinting Tools
 
 #### file type/extension
 
@@ -143,6 +164,8 @@
 #### strings
 
 - `strings -n 15 file`
+- [Sysinternals Strings] - <https://docs.microsoft.com/en-us/sysinternals/downloads/strings
+- BinText - <http://b2b-download.mcafee.com/products/tools/foundstone/bintext303.zip>
 
 #### binwalk
 
@@ -151,11 +174,23 @@
 - Extract
   - `binwalk -e file`
 
+#### PEiD
+
+- [PEiD] - <http://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml>
+
+#### File Dependencies
+
+- Dependency Walker - <https://www.dependencywalker.com/>
+
 ---
 
 ### Debugers
 
 #### OllyDBG
+
+
+
+
 
 #### ImmunityDebugger
 
@@ -266,6 +301,14 @@ gdb> x/200x $esp
 ### Disassemblers
 
 #### IDA
+
+- [Functions]
+- [Strings] - View -> Open subviews -> Strings (Shift+F12)
+- [Signatures] - View -> Open subviews -> Signatures (Shift+F5)
+
+- [Jump] - Jump -> Jump to ...
+
+---
 
 #### GHIDRA
 
