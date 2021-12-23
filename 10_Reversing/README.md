@@ -1,100 +1,207 @@
 # Reverse Engineering
 
-- [OSINT](#osint)
-  - [External Resourc
-
-
+- [Reverse Engineering](#reverse-engineering)
+  - [External Resource](#external-resource)
+  - [Book](#book)
+  - [VMs](#vms)
+  - [x86](#x86)
+    - [Registers (32 bits)](#registers-32-bits)
+    - [Pointers (32 bits)](#pointers-32-bits)
+  - [64 bits](#64-bits)
+    - [Registers (64 bits)](#registers-64-bits)
+    - [Pointers (64 bits)](#pointers-64-bits)
+  - [Assembly](#assembly)
+  - [Reversing Tools](#reversing-tools)
+    - [Tools](#tools)
+      - [file type/extension](#file-typeextension)
+      - [strings](#strings)
+      - [binwalk](#binwalk)
+    - [Debugers](#debugers)
+      - [OllyDBG](#ollydbg)
+      - [ImmunityDebugger](#immunitydebugger)
+      - [Mona](#mona)
+      - [WinnDbg](#winndbg)
+      - [GDB](#gdb)
+    - [Disassemblers](#disassemblers)
+      - [IDA](#ida)
+      - [GHIDRA](#ghidra)
+    - [Decompilers](#decompilers)
+      - [Hex-Rays](#hex-rays)
+      - [.Net Reflector](#net-reflector)
+      - [VB Decompiler](#vb-decompiler)
+    - [Hex Editors](#hex-editors)
+      - [Hex Workshop](#hex-workshop)
+      - [WinHex](#winhex)
+    - [Memory Dumpers / PE Editors](#memory-dumpers--pe-editors)
+      - [Explorer Suite](#explorer-suite)
+    - [Monitoring Tools](#monitoring-tools)
+      - [Process Heap Viewer](#process-heap-viewer)
+      - [Process Explorer](#process-explorer)
+    - [dnSpy](#dnspy)
+  - [Online Disassembler](#online-disassembler)
+  - [PEiD](#peid)
+  - [UPX](#upx)
+  - [SNDBOX](#sndbox)
+- [Chapter 8 - Reverse Engineering](#chapter-8---reverse-engineering)
 
 ---
 
 ## External Resource
 
+<https://forum.tuts4you.com/files/categories/>
+
 ---
 
 ## Book
 
-
----
-
-## Local IP
-
-- `http://ipinfo.io/ip`
+- [Practical Malware Analysis] - <https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901>
+- [0xOPOSEC-CrackMe-Up] - [link](0xOPOSEC-CrackMe-Up-0xACB.pdf)
 
 ---
 
 ## VMs
 
+- [flare-vm] - <https://www.mandiant.com/resources/flare-vm-update> - <https://github.com/mandiant/flare-vm>
+- [commando vm] - <https://github.com/mandiant/commando-vm>
 
+---
 
+## x86
 
+### Registers (32 bits)
 
+- EAX - Accumulator Register
+- EBX - Base Register
+- ECX - Counter Register
+- EDX - Data Register
+- ESI - Source Index
+- EDI - Destination Index
 
-flare-vm
+### Pointers (32 bits)
 
-https://www.mandiant.com/resources/flare-vm-update
+- ESP - Stack Pointer
+- EBP - Base Pointer
+- **EIP** - Index Pointer
 
-https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901
+---
 
-https://github.com/mandiant/flare-vm
+## 64 bits
 
-commando vm
+### Registers (64 bits)
 
+- RAX - Accumulator Register
+- RBX - Base Register
+- RCX - Counter Register
+- RDX - Data Register
+- RSI - Source Index
+- RDI - Destination Index
 
+### Pointers (64 bits)
 
+- RSP - Stack Pointer
+- RBP - Base Pointer
 
-## file
+---
 
-## binwalk
+## Assembly
 
-## strings
+- Memory address - e.g. [exa], [00487054]
+- Constant - e.g. 0x123456789
+- Move - `mov \<source>,\<dest>`  - copies data
+- Repeat - `rep/repe/repne/repz/repnz` - relies on ECX Register
+- Push Stack - `push \<val>`
+- Pop Stack - `pop \<val>`
+- Load Effective Address - `lea \<reg32>,\<mem>`
+- Integer Addition - `add \<val1>,\<val2>`
+- Increment/Decrement - `inc \<val>` or `dec \<val>`
+- Integer Multiplication - `imul \<val1>,\<val2>`
+- Integer Division - `idix \<val>`
+- Bitwise Logical And, Or Exclusve Or - `and \<val1>,\<val2>` or `or \<val1>,\<val2>` or `xor \<val1>,\<val2>`
+- Bitwise Logical Not - `not \<val>`
+- Negate - `neg \<val>`
+- Shift Left, Sift Right - `shl \<val>,\<shift>` or `shr \<val>,\<shift>`
+- Compare - `cmp \<val1>,\<val2>`
+- Test - `test \<val1>,\<val2>`
+- Jump - `jmp \<label>`
+- Conditional Jump - `j condition \<label>`
+- Call - `call \<label>`
+- Return - `ret`
 
+---
 
-## dnSpy
+## Reversing Tools
 
-https://github.com/0xd4d/dnSpy
+### Tools
 
+#### file type/extension
 
-## Online Disassembler
-https://onlinedisassembler.com/odaweb/
+- Identify File Type
+  - `file file`
+- can also check the magic bytes
+  - <https://en.wikipedia.org/wiki/List_of_file_signatures>
 
-## OllyDBG
+#### strings
 
-## Ghidra
+- `strings -n 15 file`
 
-## IDA
+#### binwalk
 
+- Show
+  - `binwalk file`
+- Extract
+  - `binwalk -e file`
 
-## PEiD
+---
 
+### Debugers
 
-## UPX
-The Ultimate Packer for eXecutables
-https://github.com/upx/upx
+#### OllyDBG
 
+#### ImmunityDebugger
 
-## GDB
-
-> ##### Commands
+> ##### Shortcuts
 
 ```
-disas - disassemble
-b - breakpoint
-c - continue
-r - run
-p - TODO
-st - step
-x - examine
+Breakpoint: F2
+Step: F7
+Exec till Return: Ctrl+F9
+Run: F9
+Pause: F12
+```
+
+#### Mona
+
+> ##### Arguments
+
+```
+pc [size] - generate cyclic pattern
+po [address] - find offset
+findmsp - find register overwritten with pattern
+bytearray -b [badchars] - generate bytes from 0x00 to 0xff excluding badchars
+jmp -r [register] - find a jump point
+-n - skip modules that start with 0x00
+-o - skip os modules
+-m - module
+-cm - module property
+-cpd - filter bad chars
 ```
 
 > ##### Examples
 
 ```
-gdb> disas main
-gdb> b 0xd34dc0d3
-gdb> x/200x $esp
+!mona config -set workingfolder path
+!mona pc 2400
+!mona po d34db33f
+!mona findmsp
+!mona find -s "\xff\xe4" -m comctl32.dll
+!mona jmp -r esp
+!mona seh -cm aslr=false
+!mona seh -cpb "\x00\x0a\x0d"
 ```
 
-## WinDBG
+---
+
+#### WinnDbg
 
 > ##### Commands
 
@@ -130,47 +237,119 @@ Restart: Ctrl+Shift+F5
 Break: Ctrl+Break
 ```
 
-## ImmunityDebugger
+---
 
-> ##### Shortcuts
+#### GDB
 
-```
-Breakpoint: F2
-Step: F7
-Exec till Return: Ctrl+F9
-Run: F9
-Pause: F12
-```
-
-## Mona
-
-> ##### Arguments
+> ##### Commands
 
 ```
-pc [size] - generate cyclic pattern
-po [address] - find offset
-findmsp - find register overwritten with pattern
-bytearray -b [badchars] - generate bytes from 0x00 to 0xff excluding badchars
-jmp -r [register] - find a jump point
--n - skip modules that start with 0x00
--o - skip os modules
--m - module
--cm - module property
--cpd - filter bad chars
+disas - disassemble
+b - breakpoint
+c - continue
+r - run
+p - TODO
+st - step
+x - examine
 ```
 
 > ##### Examples
 
 ```
-!mona config -set workingfolder path
-!mona pc 2400
-!mona po d34db33f
-!mona findmsp
-!mona find -s "\xff\xe4" -m comctl32.dll
-!mona jmp -r esp
-!mona seh -cm aslr=false
-!mona seh -cpb "\x00\x0a\x0d"
+gdb> disas main
+gdb> b 0xd34dc0d3
+gdb> x/200x $esp
 ```
+
+---
+
+### Disassemblers
+
+#### IDA
+
+#### GHIDRA
+
+
+---
+
+### Decompilers
+
+#### Hex-Rays
+
+#### .Net Reflector
+
+#### VB Decompiler
+
+
+---
+
+### Hex Editors
+
+#### Hex Workshop
+
+http://www.hexworkshop.com/
+
+#### WinHex
+
+http://www.winhex.com/winhex/hex-editor.html
+
+---
+
+### Memory Dumpers / PE Editors
+
+#### Explorer Suite
+
+- <https://ntcore.com/?page_id=388>
+
+---
+
+### Monitoring Tools
+
+#### Process Heap Viewer
+
+- [Process Heap Viewer] - <https://securityxploded.com/ProcHeapViewer.php>
+- [HeapMemView] - <https://www.nirsoft.net/utils/heap_memory_view.html>
+
+#### Process Explorer
+
+- [Process Hacker]  <https://processhacker.sourceforge.io/>
+- [Process Explorer] - <https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer>
+- [Process Monitor] - <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>
+
+---
+
+
+
+
+
+
+
+
+
+---
+
+### dnSpy
+
+https://github.com/0xd4d/dnSpy
+
+
+## Online Disassembler
+https://onlinedisassembler.com/odaweb/
+
+
+
+## PEiD
+
+
+## UPX
+The Ultimate Packer for eXecutables
+https://github.com/upx/upx
+
+
+
+
+
+
 
 
 ## SNDBOX
