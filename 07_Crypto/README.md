@@ -349,7 +349,6 @@ sudo python3 /opt/RSA-Common-Modulus-Attack/rsa-cm.py -c1 message1 -c2 message2 
 - <https://github.com/Ganapati/RsaCtfTool>
 - <https://github.com/HexPandaa/RSA-Common-Modulus-Attack>
 
-
 ### MD5
 
 - [MD5] - <https://www.md5online.org/md5-decrypt.html>
@@ -372,7 +371,7 @@ sudo python3 /opt/RSA-Common-Modulus-Attack/rsa-cm.py -c1 message1 -c2 message2 
 
 ### Barcode Reader
 
-- [Barcode Reader] - https://online-barcode-reader.inliteresearch.com/
+- [Barcode Reader] - <https://online-barcode-reader.inliteresearch.com/>
 
 ### Fernet
 
