@@ -56,11 +56,15 @@
 (78h)
 <https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
+---
+
 ## Burp Suite Certification
 
 [PortSwigger]
 
 <https://portswigger.net/web-security/certification>
+
+---
 
 ## Pentest+
 
@@ -68,9 +72,20 @@
 (34h)
 <localhost>
 
+---
+
 ## Penetration Testing Professional (eCPPTv2) 
 
 [INE] (50$ /month)
 (66h)
 <https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
+---
+
+
+| Certification | Value | Link |
+| :----- | :--: | :--: |
+| eJPT | 180€ | |
+| Pentest+ | 300€ | |
+| eCPPT | 350€ | |
+| PNPT | 350€ | |
