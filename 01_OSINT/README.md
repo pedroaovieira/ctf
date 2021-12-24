@@ -26,6 +26,9 @@
   - [Job Board Recon](#job-board-recon)
   - [Search Code](#search-code)
   - [Deep/Dark Web Recon](#deepdark-web-recon)
+    - [Access](#access)
+    - [Sites](#sites)
+    - [Onion sites](#onion-sites)
   - [Metadata Recon](#metadata-recon)
   - [Email Tracking](#email-tracking)
   - [Website Information](#website-information)
@@ -204,6 +207,8 @@
 - Phone numbers/ Dates / Schedules
 - Likes / Dislikes
 
+---
+
 ### Security questions
 
 - What was your childhood nickname?
@@ -214,14 +219,20 @@
 - What was the city you where born in?
 - What's the name of your oldest cousin?
 
+---
+
 ### Facebook
 
 - StalkFace - <https://stalkface.com/en/>
+
+---
 
 ### Twitter
 
 - Twint - <https://github.com/twintproject/twint>
 - Botometer - <https://botometer.osome.iu.edu/>
+
+---
 
 ### Instagram
 
@@ -271,19 +282,26 @@
       - <https://retroshare.cc/>
   - Privacy Networks
     - Tor
-&nbsp;&nbsp;
+
+### Access
+
 - Tor - <https://www.torproject.org/>
   - Check if Ip is Tor - ExoneraTor - <https://metrics.torproject.org/exonerator.html>
 - **Tails** - <https://tails.boum.org/>
 - Whonix - <https://www.whonix.org/>
 &nbsp;&nbsp;
+
+### Sites
+
+- <https://iaca-darkweb-tools.com/>
+- <https://onionsearchengine.com/>
+- <https://thehiddenwiki.org>
+
+### Onion sites
+
 - The Hidden Wiki - <http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page> is an onion site that works as a Wikipedia service of hidden websites
 - FakeID - <http://fakeidskhfik46ux.onion> is an onion site for creating fake passports
 - The Paypal Cent - <http://nare7pqnmnojs2pg.onion> is an onion site that sells PayPal accounts with good balances
-- <https://iaca-darkweb-tools.com/>
-- deepdtoweb.com
-- onionsearchengine
-- hiddenwiki.tor.com
 
 ---
 
