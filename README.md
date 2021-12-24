@@ -7,6 +7,7 @@
   - [Local](#local)
     - [Tools](#tools)
     - [CEH](#ceh)
+    - [Security](#security)
 
 ---
 
@@ -57,3 +58,9 @@
 ### CEH
 
 <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
+
+---
+
+### Security
+
+<https://app.gitbook.com/s/-MRtwLzc02Q_TTQkVe-s/>

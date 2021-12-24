@@ -1,8 +1,8 @@
 # Tranings and Certifications
 
 - [Tranings and Certifications](#tranings-and-certifications)
-  - [1. Practical Ethical Hacking (PNPT)](#1-practical-ethical-hacking-pnpt)
-  - [2. Intro to Bug Bounty](#2-intro-to-bug-bounty)
+  - [1. Practical Ethical Hacking (PNPT) (15%)](#1-practical-ethical-hacking-pnpt-15)
+  - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
   - [Code Red](#code-red)
@@ -13,7 +13,7 @@
 
 ---
 
-## 1. Practical Ethical Hacking (PNPT)
+## 1. Practical Ethical Hacking (PNPT) (15%)
 
 [TCM-Sec]
 (25h)
@@ -21,7 +21,7 @@
 
 ---
 
-## 2. Intro to Bug Bounty
+## 2. Intro to Bug Bounty (40%)
 
 [Nahamsec]
 (5h)
@@ -81,7 +81,6 @@
 <https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
 ---
-
 
 | Certification | Value | Link |
 | :----- | :--: | :--: |
