@@ -4,6 +4,7 @@
   - [External Resource](#external-resource)
   - [Book](#book)
   - [Chalenges](#chalenges)
+  - [Online Tools](#online-tools)
   - [Cryptogram solver](#cryptogram-solver)
   - [Cryptanalysis](#cryptanalysis)
   - [Transform](#transform)
@@ -98,6 +99,12 @@
 - <https://cryptohack.org/>
 
 ---
+
+## Online Tools
+
+- <https://www.dcode.fr/>
+- <https://gchq.github.io/CyberChef/>
+- Google: "crypto ctf tools"
 
 ## Cryptogram solver
 

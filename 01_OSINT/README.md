@@ -48,14 +48,13 @@
   - [Canary Tokens](#canary-tokens)
   - [Tools](#tools)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
-    - [Shodan](#shodan)
+    - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
   - [Website cloner](#website-cloner)
   - [Have I been Pwned](#have-i-been-pwned)
   - [Temporary Email](#temporary-email)
   - [VPN](#vpn)
   - [DNS Leak](#dns-leak)
-  - [Dial Tone](#dial-tone)
   - [Fake persona](#fake-persona)
   - [Scams](#scams)
 
@@ -198,6 +197,8 @@
 - Social Searcher - <https://www.social-searcher.com/>
 - UserRecon - <https://github.com/issamelferkh/userrecon>
   - `./userrecon.sh`
+
+---
 
 ### Social Media
 
@@ -499,7 +500,7 @@
 - [Censys] - <https://about.censys.io/>
 - [Thingfull] - <https://www.thingful.net/site/about>
 
-### Shodan
+### Shodan Guide
 
 [Shodan](shodan.md)
 
@@ -543,12 +544,6 @@
 ## DNS Leak
 
 - DNS Leak Test - <https://dnsleaktest.com/>
-
----
-
-## Dial Tone
-
-- [Detect DTMF Tones] - <http://dialabc.com/sound/detect/>
 
 ---
 

@@ -4,7 +4,6 @@
   - [External Resource](#external-resource)
   - [Book](#book)
   - [Chalenges](#chalenges)
-  - [Google: “filetype ctf tools”s](#google-filetype-ctf-toolss)
   - [Magic Bytes - Filetype signatures](#magic-bytes---filetype-signatures)
   - [Tools](#tools)
     - [Online](#online)
@@ -29,7 +28,7 @@
     - [QR Code](#qr-code)
     - [Barcode Reader](#barcode-reader)
     - [SMS](#sms)
-    - [Tone Detect](#tone-detect)
+    - [Dial Tone Detect / DTMF](#dial-tone-detect--dtmf)
     - [Cyrilic](#cyrilic)
     - [Broken Unicode](#broken-unicode)
     - [Braille](#braille)
@@ -60,10 +59,6 @@
 
 ---
 
-## Google: “filetype ctf tools”s
-
----
-
 ## Magic Bytes - Filetype signatures
 
 - <https://en.wikipedia.org/wiki/List_of_file_signatures>
@@ -74,8 +69,9 @@
 
 ### Online
 
-- https://www.dcode.fr/>
+- <https://www.dcode.fr/>
 - <https://gchq.github.io/CyberChef/>
+- Google: "stego ctf tools"
 
 ---
 
@@ -213,7 +209,7 @@ Foremost is a program that recovers files based on their headers.
 
 ### Barcode Reader
 
-- [Barcode Reader] - https://online-barcode-reader.inliteresearch.com/
+- [Barcode Reader] - <https://online-barcode-reader.inliteresearch.com/>
 
 ---
 
@@ -223,7 +219,7 @@ Foremost is a program that recovers files based on their headers.
 
 ---
 
-### Tone Detect
+### Dial Tone Detect / DTMF
 
 - [Tone Detect](http://dialabc.com/sound/detect/)
 
