@@ -5,20 +5,6 @@
   - [External Resource](#external-resource)
   - [Books](#books)
   - [Local](#local)
-    - [Bug Bounty](#bug-bounty)
-    - [OSINT (100%)](#osint-100)
-    - [SCAN](#scan)
-    - [Enumeration](#enumeration)
-    - [Web](#web)
-    - [PrivEsc](#privesc)
-    - [Wireless](#wireless)
-    - [Crypto (100%)](#crypto-100)
-    - [Stego (100%)](#stego-100)
-    - [Forensics](#forensics)
-    - [Reversing](#reversing)
-    - [Radio Frequency](#radio-frequency)
-    - [BOF / ROP](#bof--rop)
-    - [Hardware](#hardware)
     - [Tools](#tools)
     - [CEH](#ceh)
 
@@ -45,65 +31,28 @@
 
 ## Local
 
-### Bug Bounty
+- [Bug Bounty](00_BugBounty/README.md)
+- [OSINT (100%)](01_OSINT/README.md)
+- [SCAN](02_Scan/README.md)
+- [Enumeration](03_Enumeration/README.md)
+- [Web](04_Web/README.md)
+- [PrivEsc](05_PrivEsc/README.md)
+- [Wireless](06_Wireless/README.md)
+- [Crypto (100%)](07_Crypto/README.md)
+- [Stego (100%)](08_Stego/README.md)
+- [Forensics](09_Forensics/README.md)
+- [Reversing](10_Reversing/README.md)
+- [Radio Frequency](11_RF/README.md)
+- [BOF / ROP](12_BOF_ROP/README.md)
+- [Hardware](13_Hardware/README.md)
 
-- [link](00_BugBounty/README.md)
-
-### OSINT (100%)
-
-- [link](01_OSINT/README.md)
-
-### SCAN
-
-- [link](02_Scan/README.md)
-
-### Enumeration
-
-- [link](03_Enumeration/README.md)
-
-### Web
-
-- [link](04_Web/README.md)
-
-### PrivEsc
-
-- [link](05_PrivEsc/README.md)
-
-### Wireless
-
-- [link](06_Wireless/README.md)
-
-### Crypto (100%)
-
-- [link](07_Crypto/README.md)
-
-### Stego (100%)
-
-- [link](08_Stego/README.md)
-
-### Forensics
-
-- [link](09_Forensics/README.md)
-
-### Reversing
-
-- [link](10_Reversing/README.md)
-
-### Radio Frequency
-
-- [link](11_RF/README.md)
-
-### BOF / ROP
-
-- [link](12_BOF_ROP/README.md)
-
-### Hardware
-
-- [link](13_Hardware/README.md)
+---
 
 ### Tools
 
 - [link](99_Tools/README.md)
+
+---
 
 ### CEH
 
