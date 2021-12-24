@@ -1,7 +1,9 @@
 # Crypto
 
 - [Crypto](#crypto)
-  - [Sites](#sites)
+  - [External Resource](#external-resource)
+  - [Book](#book)
+  - [Chalenges](#chalenges)
   - [Cryptogram solver](#cryptogram-solver)
   - [Cryptanalysis](#cryptanalysis)
   - [Transform](#transform)
@@ -74,7 +76,7 @@
 
 ---
 
-## Sites
+## External Resource
 
 - <https://cryptii.com/>
 - <https://www.dcode.fr/>
@@ -83,6 +85,17 @@
 - <https://gchq.github.io/CyberChef/>
 - <https://www.cryptool.org/en/>
 - <http://rumkin.com/tools/cipher/>
+- <https://project-awesome.org/apsdehal/awesome-ctf>
+
+---
+
+## Book
+
+---
+
+## Chalenges
+
+- <https://cryptohack.org/>
 
 ---
 

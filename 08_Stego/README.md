@@ -1,65 +1,268 @@
 # Stego
 
-- [Tools](#Transform)
-file
-strings
-md5
-binwalk
-exiftool
-pngcheck
-hex editor
-steghide
-fcrackzip
-
-  - [Text to Binary](Text-to-Binary)
-- [Others](#Others)
-  - [RSA](#RSA)
-- [Sites](#Sites)
-  - [The CrypTool Portal](https://www.cryptool.org/en/cto/)
+- [Stego](#stego)
+  - [External Resource](#external-resource)
+  - [Book](#book)
+  - [Chalenges](#chalenges)
+  - [Google: “filetype ctf tools”s](#google-filetype-ctf-toolss)
+  - [Magic Bytes - Filetype signatures](#magic-bytes---filetype-signatures)
+  - [Tools](#tools)
+    - [Online](#online)
+    - [File type/extension](#file-typeextension)
+    - [Hexeditor](#hexeditor)
+    - [Strings](#strings)
+    - [Binwalk](#binwalk)
+    - [xxd](#xxd)
+    - [Foremost](#foremost)
+    - [Exiftool](#exiftool)
+    - [Exiv2](#exiv2)
+    - [Steghide](#steghide)
+    - [Steghide with dictionary](#steghide-with-dictionary)
+    - [Steghide Brute Force Tool](#steghide-brute-force-tool)
+    - [Stegsolve](#stegsolve)
+    - [Zsteg](#zsteg)
+    - [StegCracker](#stegcracker)
+    - [Stegseek](#stegseek)
+    - [Wavsteg](#wavsteg)
+    - [Sonic visualizer](#sonic-visualizer)
+  - [Snow](#snow)
+    - [QR Code](#qr-code)
+    - [Barcode Reader](#barcode-reader)
+    - [SMS](#sms)
+    - [Tone Detect](#tone-detect)
+    - [Cyrilic](#cyrilic)
+    - [Broken Unicode](#broken-unicode)
+    - [Braille](#braille)
+    - [Piet](#piet)
+    - [unicode](#unicode)
+    - [Fcrackzip](#fcrackzip)
 
 ---
 
-https://futureboy.us/stegano/
+## External Resource
 
-https://github.com/DominicBreuker/stego-toolkit
+- <https://0xrick.github.io/lists/stego/>
+- <https://github.com/DominicBreuker/stego-toolkit>
+- <https://project-awesome.org/apsdehal/awesome-ctf>
+- <https://pequalsnp-team.github.io/cheatsheet/steganography-101>
 
 ---
 
-## Transform
+## Book
 
-### Text to Binary
+---
 
-[cryptii - Text to Bytes](https://cryptii.com/pipes/text-to-binary)
+## Chalenges
 
-## Others
+- <https://www.hackthebox.eu/>
+- <https://www.root-me.org/>
+- <https://ringzer0ctf.com/challenges>
 
-[cryptii - Hexadecimal to Text](https://cryptii.com/pipes/hex-to-text)
+---
 
+## Google: “filetype ctf tools”s
 
+---
 
-- File: The file command determines the file type of a file. It reports the file type in human readable format (e.g. ‘ASCII text’) or MIME type (e.g. ‘text/plain; charset=us-ascii’). As filenames in UNIX can be entirely independent of file type file can be a useful command to determine how to view or work with a file.
+## Magic Bytes - Filetype signatures
 
+- <https://en.wikipedia.org/wiki/List_of_file_signatures>
 
-- Strings: finds and prints text strings embedded in all files strings filename
+---
 
-- binwalk: Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. Binwalk is a great tool for extracting hidden files from other files as well.
+## Tools
 
-- Hexeditor: A hex editor, also called a binary file editor or byteeditor, is a type of program that allows a user to view and edit the raw and exact contents of files, that is, at the byte level
+### Online
 
-- xxd: is a Linux command that creates a hex dump of a given file or standard input. It can also convert a hex dump back to its original binary form. Like uuencode(1) and uudecode(1) it allows the transmission of binary data in a “mail-safe” ASCII representation, but has the advantage of decoding to standard output.
+- https://www.dcode.fr/>
+- <https://gchq.github.io/CyberChef/>
 
-- stegsolv: A great GUI tool that covers a wide range of analysis, some of which is covered by the other tools mentioned above and a lot more including color profiles, planes, Color maps, strings.
+---
 
-https://github.com/zardus/ctf-tools/tree/master/stegsolve
+### File type/extension
 
-- Sonic visualizer: Sonic Visualizer is a great tool to find hidden messages in audio files and a great way to work with audio files in general. 
+- `file file` : identifies the filetype
 
+---
 
+### Hexeditor
 
-Google: “filetype ctf tools”
+- A hex editor is a type of program that allows a user to view and edit the raw and exact contents of files.
+- Bless
 
+---
 
-<https://pequalsnp-team.github.io/cheatsheet/steganography-101>
+### Strings
 
+- `strings file` : displays printable strings in the given file.
+- `strings -n 15 file` : Display strings with minimum lenght of 15 chars
 
-<http://jpinsoft.net/deepsound/overview.aspx>
+---
+
+### Binwalk
+
+- <https://github.com/ReFirmLabs/binwalk>
+- `binwalk file` : Displays the embedded data in the given file  
+- `binwalk -e file` : Displays and extracts the data from the given file
+
+---
+
+### xxd
+
+- is a Linux command that creates a hex dump of a given file or standard input. It can also convert a hex dump back to its original binary form.
+
+---
+
+### Foremost
+
+Foremost is a program that recovers files based on their headers.
+
+- <https://github.com/korczis/foremost>
+- `foremost -i file` : extracts data from the given file.
+
+---
+
+### Exiftool
+
+- <https://www.sno.phy.queensu.ca/~phil/exiftool/>
+- `exiftool file` : shows the metadata of the given file
+
+---
+
+### Exiv2
+
+- <https://github.com/Exiv2/exiv2>
+- `exiv2 file` : shows the metadata of the given file
+
+---
+
+### Steghide
+
+- <https://github.com/StefanoDeVuono/steghide>
+- `steghide info file` : displays info about a file whether it has embedded data or not.  
+- `steghide extract -sf file` : extracts embedded data from a file
+- `steghide extract -sf file -p password`
+
+### Steghide with dictionary
+
+- <https://raw.githubusercontent.com/felipesi/steghide-crack/master/steghide-crack.sh>
+
+---
+
+### Steghide Brute Force Tool
+
+- <https://github.com/Va5c0/Steghide-Brute-Force-Tool.git>
+
+---
+
+### Stegsolve
+
+- <https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve>
+- <https://github.com/zardus/ctf-tools/tree/master/stegsolve>
+
+---
+
+### Zsteg
+
+- <https://github.com/zed-0xff/zsteg>
+- `zsteg -a file` : Runs all the methods on the given file  
+- `zsteg -E file` : Extracts data from the given payload \(example : zsteg -E b4,bgr,msb,xy name.png\)
+
+---
+
+### StegCracker
+
+- <https://github.com/Paradoxis/StegCracker>
+
+---
+
+### Stegseek
+
+- <https://github.com/RickdeJager/stegseek>
+- `stegseek cute-alien.jpg /usr/share/wordlists/rockyou.txt`
+
+---
+
+### Wavsteg
+
+- <https://github.com/ragibson/Steganography#WavSteg>
+- `python3 WavSteg.py -r -s soundfile -o outputfile` : extracts data from a wav sound file and outputs the data into a new file
+
+---
+
+### Sonic visualizer
+
+- <https://www.sonicvisualiser.org/>
+
+---
+
+## Snow
+
+- stegsnow - <http://www.darkside.com.au/snow/>
+  - `stegsnow -C -p "password" -m "secret message" infile.txt outfile.txt`
+  - `snow -C -p "magic" readme2.txt`
+
+---
+
+### QR Code
+
+- [4qrcode - QR code](https://4qrcode.com/scan-qr-code.php)
+- [webqr] - <https://webqr.com/>
+
+---
+
+### Barcode Reader
+
+- [Barcode Reader] - https://online-barcode-reader.inliteresearch.com/
+
+---
+
+### SMS
+
+- [dcode - SMS](https://www.dcode.fr/code-multitap-abc)
+
+---
+
+### Tone Detect
+
+- [Tone Detect](http://dialabc.com/sound/detect/)
+
+---
+
+### Cyrilic
+
+- <https://2cyr.com/decode/>
+
+---
+
+### Broken Unicode
+
+- <https://ftfy.now.sh/>
+
+---
+
+### Braille
+
+- <https://www.branah.com/braille-translator>
+
+---
+
+### Piet
+
+- <https://www.bertnase.de/npiet/npiet-execute.php>
+- <http://www.dangermouse.net/esoteric/piet.html>
+
+---
+
+### unicode
+
+- <https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder>
+
+---
+
+### Fcrackzip
+
+- <https://github.com/hyc/fcrackzip>
+- `fcrackzip -u -D -p wordlist.txt file.zip` : bruteforces the given zip file with passwords from the given wordlist
+- `fcrackzip -D -u -p /usr/share/wordlists/rockyou.txt fsociety.zip`
+- `fcrackzip -v -l 4-4 -u BAND.zip`

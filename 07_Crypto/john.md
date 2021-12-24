@@ -13,7 +13,12 @@
 - `zip2john encrypted.zip > encrypted.hash`
 - `john --wordlist=/usr/share/wordlists/rockyou.txt encrypted.hash`
 
-- `fcrackzip -u -v -D -p passwords.txt file.zip`
+### Fcrackzip
+
+- <https://github.com/hyc/fcrackzip>
+- `fcrackzip -u -D -p wordlist.txt file.zip` : bruteforces the given zip file with passwords from the given wordlist
+- `fcrackzip -D -u -p /usr/share/wordlists/rockyou.txt fsociety.zip`
+- `fcrackzip -v -l 4-4 -u BAND.zip`
 
 ## MsOffice
 

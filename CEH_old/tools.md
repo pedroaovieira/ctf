@@ -76,6 +76,7 @@
 
 - find / -name filename 2>/dev/null
 - locate
+  - updatedb
 
 [THM find](https://tryhackme.com/room/thefindcommand)
 
