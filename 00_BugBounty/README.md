@@ -1,4 +1,7 @@
+# BugBounty
 
+- [BugBounty](#bugbounty)
+	- [JHADDIX](#jhaddix)
 
 ---
 

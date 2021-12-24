@@ -30,20 +30,8 @@
 
 ## Code Red
 
-[OSINT 1]
-(5h)
-
-[OSINT 2]
-(6h)
-
-[Reverse 1]
-(4h)
-
 [Reverse 2]
 (4h)
-
-[Ethical Hacking Essentials]
-(16h)
 
 ---
 
