@@ -1,18 +1,27 @@
 # Tranings and Certifications
 
-## Ignite Cheatsheet
-
--
-
-## Defending Can Bus
-
-[Ken Tindel]
-(40min)
-<https://www.youtube.com/playlist?list=PLUK9gNqk6nQxoNGavGxk1NdqCQmDqKPK2>
+- [Tranings and Certifications](#tranings-and-certifications)
+  - [1. Practical Ethical Hacking (PNPT)](#1-practical-ethical-hacking-pnpt)
+  - [2. Intro to Bug Bounty](#2-intro-to-bug-bounty)
+  - [Ignite Cheatsheet](#ignite-cheatsheet)
+  - [Defending Can Bus](#defending-can-bus)
+  - [Code Red](#code-red)
+  - [Penetration Testing Student (eJPT)](#penetration-testing-student-ejpt)
+  - [Burp Suite Certification](#burp-suite-certification)
+  - [Pentest+](#pentest)
+  - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
 
 ---
 
-## Intro to Bug Bounty
+## 1. Practical Ethical Hacking (PNPT)
+
+[TCM-Sec]
+(25h)
+<https://academy.tcm-sec.com/courses/enrolled/1152300>
+
+---
+
+## 2. Intro to Bug Bounty
 
 [Nahamsec]
 (5h)
@@ -20,11 +29,17 @@
 
 ---
 
-## Practical Ethical Hacking (PNPT)
+## Ignite Cheatsheet
 
-[TCM-Sec]
-(25h)
-<https://academy.tcm-sec.com/courses/enrolled/1152300>
+-
+
+---
+
+## Defending Can Bus
+
+[Ken Tindel]
+(40min)
+<https://www.youtube.com/playlist?list=PLUK9gNqk6nQxoNGavGxk1NdqCQmDqKPK2>
 
 ---
 
@@ -58,8 +73,4 @@
 [INE] (50$ /month)
 (66h)
 <https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
-
-
-
-
 
