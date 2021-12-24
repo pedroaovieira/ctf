@@ -57,6 +57,8 @@
       - [RSA Calculator](#rsa-calculator)
       - [rsa-encryption-decryption](#rsa-encryption-decryption)
       - [rsatool](#rsatool)
+      - [RSA CTF](#rsa-ctf)
+    - [MD5](#md5)
     - [Substitution](#substitution)
     - [Snow](#snow)
     - [QR Code](#qr-code)
@@ -87,6 +89,8 @@
 - <https://www.cryptool.org/en/>
 - <http://rumkin.com/tools/cipher/>
 - <https://project-awesome.org/apsdehal/awesome-ctf>
+- <https://pequalsnp-team.github.io/cheatsheet/crypto-101>
+- <https://www.braingle.com/brainteasers/codes/>
 
 ---
 
@@ -125,6 +129,8 @@
 ### Hexadecimal to Text
 
 - [cryptii - Hexadecimal to Text](https://cryptii.com/pipes/hex-to-text)
+
+- <https://cryptii.com/pipes/hex-decoder>
 
 ### Replace
 
@@ -176,10 +182,11 @@
 ### ROT13
 
 - [cryptii - ROT13](https://cryptii.com/)
+- <https://rot13.com/>
 
 - `alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"`
-
 - `echo 'hello world' | rot13`
+- `cat nothinghere.txt | tr '[a-z]' '[n-za-m]' | tr '[A-Z]' '[N-ZA-M]'`
 
 ### Affine cipher
 
@@ -327,6 +334,25 @@
 #### rsatool
 
 - [rsatool](https://github.com/ius/rsatool)
+
+#### RSA CTF
+
+- Two identical messages encrypted with same key
+
+```text
+sudo python3 /opt/RsaCtfTool/RsaCtfTool.py --publickey key1.pem --dumpkey
+sudo python3 /opt/RsaCtfTool/RsaCtfTool.py --publickey key2.pem --dumpkey
+
+sudo python3 /opt/RSA-Common-Modulus-Attack/rsa-cm.py -c1 message1 -c2 message2 -k1 key1.pem -k2 key2.pem
+```
+
+- <https://github.com/Ganapati/RsaCtfTool>
+- <https://github.com/HexPandaa/RSA-Common-Modulus-Attack>
+
+
+### MD5
+
+- [MD5] - <https://www.md5online.org/md5-decrypt.html>
 
 ### Substitution
 

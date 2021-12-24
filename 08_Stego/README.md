@@ -30,10 +30,10 @@
     - [SMS](#sms)
     - [Dial Tone Detect / DTMF](#dial-tone-detect--dtmf)
     - [Cyrilic](#cyrilic)
-    - [Broken Unicode](#broken-unicode)
     - [Braille](#braille)
     - [Piet](#piet)
     - [unicode](#unicode)
+    - [Broken Unicode](#broken-unicode)
     - [Fcrackzip](#fcrackzip)
 
 ---
@@ -44,6 +44,7 @@
 - <https://github.com/DominicBreuker/stego-toolkit>
 - <https://project-awesome.org/apsdehal/awesome-ctf>
 - <https://pequalsnp-team.github.io/cheatsheet/steganography-101>
+- <https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40>
 
 ---
 
@@ -56,6 +57,7 @@
 - <https://www.hackthebox.eu/>
 - <https://www.root-me.org/>
 - <https://ringzer0ctf.com/challenges>
+- <https://www.yeahhub.com/top-steganography-tools-ctf-challenges/>
 
 ---
 
@@ -231,12 +233,6 @@ Foremost is a program that recovers files based on their headers.
 
 ---
 
-### Broken Unicode
-
-- <https://ftfy.now.sh/>
-
----
-
 ### Braille
 
 - <https://www.branah.com/braille-translator>
@@ -253,6 +249,12 @@ Foremost is a program that recovers files based on their headers.
 ### unicode
 
 - <https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder>
+
+---
+
+### Broken Unicode
+
+- <https://ftfy.now.sh/>
 
 ---
 
