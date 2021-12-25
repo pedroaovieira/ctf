@@ -1,6 +1,7 @@
 # Tranings and Certifications
 
 - [Tranings and Certifications](#tranings-and-certifications)
+  - [THM Advent of Cyber](#thm-advent-of-cyber)
   - [1. Practical Ethical Hacking (PNPT) (15%)](#1-practical-ethical-hacking-pnpt-15)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
@@ -12,6 +13,24 @@
   - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
 
 ---
+
+## THM Advent of Cyber
+
+- <https://tryhackme.com/room/adventofcyber3>
+- <https://tryhackme.com/room/adventofcyber2>
+- <https://tryhackme.com/room/25daysofchristmas>
+
+
+
+
+- (100%) JR Penetration Tester
+- (100%) Pre Security
+- (30%) Cyber Defense
+- (83%) Complete Beginner
+- (28%) Offensive Pentesting
+- (76%) Comptia Pentes+
+- (90%) Web Fundamentals
+
 
 ## 1. Practical Ethical Hacking (PNPT) (15%)
 
