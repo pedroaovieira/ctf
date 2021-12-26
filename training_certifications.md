@@ -20,21 +20,13 @@
 - <https://tryhackme.com/room/adventofcyber2>
 - <https://tryhackme.com/room/25daysofchristmas>
 
-- https://samanthactf.medium.com/advent-of-cyber-2021-day-6-patch-management-is-hard-65bf76f05a4e
-- https://samanthactf.medium.com/advent-of-cyber-2021-day-7-migration-without-security-740923b51bf2
-- https://samanthactf.medium.com/advent-of-cyber-2021-day-8-santas-bag-of-toys-5e51aead0ec3
-- https://nburns.tech/docs/THM%20-%20Advent%20Of%20Cyber/Introduction
-- https://thefluffy007.com/category/owasp/
-
-
 - (100%) JR Penetration Tester
 - (100%) Pre Security
-- (30%) Cyber Defense
 - (83%) Complete Beginner
-- (28%) Offensive Pentesting
-- (76%) Comptia Pentes+
 - (90%) Web Fundamentals
-
+- (76%) Comptia Pentes+
+- (30%) Cyber Defense
+- (28%) Offensive Pentesting
 
 ## 1. Practical Ethical Hacking (PNPT) (15%)
 
