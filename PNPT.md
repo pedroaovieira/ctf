@@ -44,3 +44,30 @@ ip n
 ip r
 
 github pimpmykali
+
+############################
+
+#!/bin/bash
+if [ "$1" == "" ]
+then
+echo "You forgot an IP address!"
+echo "Syntax: ./ipsweep.sh 192.168.1"
+
+else
+for ip in `seq 1 254`; do
+ping -c 1 $1.$ip | grep "64 bytes" | cut -d " " -f 4 | tr -d ":" &
+done
+fi
+
+############################
+
+for ip in $(cat ips.txt); do nmap $ip; done
+
+for ip in $(cat ips.txt); do nmap $ip& done
+
+
+- Reconnaissance
+- Scanning & Enumeration
+- Exploitation - Gaining Access
+- Maintaining Access
+- Covering Tracks

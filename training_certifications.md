@@ -2,7 +2,7 @@
 
 - [Tranings and Certifications](#tranings-and-certifications)
   - [THM Advent of Cyber](#thm-advent-of-cyber)
-  - [1. Practical Ethical Hacking (PNPT) (15%)](#1-practical-ethical-hacking-pnpt-15)
+  - [1. Practical Ethical Hacking (PNPT) (30%)](#1-practical-ethical-hacking-pnpt-30)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
@@ -28,7 +28,7 @@
 - (30%) Cyber Defense
 - (28%) Offensive Pentesting
 
-## 1. Practical Ethical Hacking (PNPT) (15%)
+## 1. Practical Ethical Hacking (PNPT) (30%)
 
 [TCM-Sec]
 (25h)

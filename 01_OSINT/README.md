@@ -15,6 +15,8 @@
   - [Geolocation Recon](#geolocation-recon)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
+  - [PT](#pt)
+  - [Find people](#find-people)
   - [Social Networking Recon](#social-networking-recon)
     - [Social Media](#social-media)
     - [Security questions](#security-questions)
@@ -134,6 +136,8 @@
 - **info:** This operator finds information for the specified web page.
 - **location:** This operator finds information for a specific location.
 
+- 42 Advanced Operators - <https://ahrefs.com/blog/google-advanced-search-operators/>
+
 ---
 
 ## Dorks
@@ -183,6 +187,29 @@
 ## Google Alerts
 
 - Google Alerts - <https://www.google.com/alerts>
+
+---
+
+## PT
+
+- Contracts - <https://www.base.gov.pt>
+- Search DRE - <https://dre.tretas.org>
+- Penhorados - https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx
+- Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor - <https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController>
+- VIN Search - <https://www.lastvin.com/>
+- Predial - <https://www.predialonline.pt/>
+- DGES - <https://www.dges.gov.pt>
+
+---
+
+## Find people
+
+- Hunter - <https://hunter.io>
+- phonebook.cz - <https://phonebook.cz/>
+- voilanorbert - <https://www.voilanorbert.com/>
+- clearbit connect - <https://connect.clearbit.com/>
+- tools.verifyemailaddress.io - <https://tools.emailhippo.com/>
+- email-checker - <https://email-checker.net/>
 
 ---
 
@@ -335,10 +362,11 @@
 - robots.txt
 - sitemap.xml
 - viewsource
-- [Measure page quality](https://web.dev/measure/)
-- [seo-analyzer](https://neilpatel.com/seo-analyzer/)
-- [whatweb](https://morningstarsecurity.com/research/whatweb)
-- [wappalyzer](https://www.wappalyzer.com/)
+- [Measure page quality] -<https://web.dev/measure/>
+- [seo-analyzer] - <https://neilpatel.com/seo-analyzer/>
+- [whatweb] <https://morningstarsecurity.com/research/whatweb>
+- [wappalyzer] - <https://www.wappalyzer.com/>
+- [Builtwith] - <https://builtwith.com/>
 - [Website Informer] - <https://website.informer.com/>
 - [Web Data Extractor] - <http://www.webextractor.com/>
 
@@ -433,6 +461,10 @@
 - **Netcraft Search DNS** - <https://searchdns.netcraft.com/?host=*.eccouncil.org>
 - sublist3r - <https://github.com/aboul3la/Sublist3r>
   - `python3  ./sublist3r.py -d domain.com -o domain.com.txt`
+- httprobe - <https://github.com/tomnomnom/httprobe>
+- **Amass** - <https://github.com/OWASP/Amass>
+
+- crt.sh - <https://crt.sh/>
 - dnsdumpster - <https://dnsdumpster.com/>
 - Pentest Tools - <https://pentest-tools.com/>
 
@@ -525,6 +557,8 @@
 
 - [haveibeenpwned] - <https://haveibeenpwned.com/>
 - [dehashed] - <https://www.dehashed.com/>
+- [Breach-Parse] - <https://github.com/hmaverickadams/breach-parse>
+- [weleakinfo] - <https://weleakinfo.to/>
 
 ---
 
