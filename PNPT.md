@@ -71,3 +71,43 @@ for ip in $(cat ips.txt); do nmap $ip& done
 - Exploitation - Gaining Access
 - Maintaining Access
 - Covering Tracks
+
+
+## Kioptrix
+
+arp-scan -l
+
+netdiscover -r 192.168.10.0/24
+
+nmap -T4 -p- -A 192.168.10.22
+nmap -T4 -p -A  -sU 192.168.10.22
+nikto
+dirbuster
+dirb
+gobuster
+
+
+
+kioptrix
+root:TwoCows2
+
+blue
+user:Password321!
+administrator:Password456!
+
+academy
+root:tcm
+
+butler
+butler:JeNkIn5@44
+administrator: A%rc!BcA!
+
+
+systemctl list-timers
+
+pspy
+
+history
+
+dnsrecon -r 127.0.0.0/24 -n 192.168.138.130 -d domain
+
