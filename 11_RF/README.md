@@ -5,3 +5,4 @@
 - [raspberry-pi-image-pisdr](raspberry-pi-image-pisdr.md)
 - [rf-remote](rf-remote.md)
 - [RFShadowPlays](RFShadowPlays.pdf)
+- [Ham Hacks: Breaking Into Software-defined Radio] - <https://bishopfox.com/blog/breaking-into-software-defined-radio?utm_campaign=2021_Posts_Blog_Industry&utm_content=164264733&utm_medium=social&utm_source=twitter&hss_channel=tw-1376153113>

@@ -23,6 +23,7 @@
     - [Facebook](#facebook)
     - [Twitter](#twitter)
     - [Instagram](#instagram)
+  - [Username OSINT](#username-osint)
   - [Personal Information](#personal-information)
   - [Bitcoin](#bitcoin)
   - [Job Board Recon](#job-board-recon)
@@ -53,12 +54,14 @@
     - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
   - [Website cloner](#website-cloner)
-  - [Have I been Pwned](#have-i-been-pwned)
+  - [Password OSINT](#password-osint)
   - [Temporary Email](#temporary-email)
   - [VPN](#vpn)
   - [DNS Leak](#dns-leak)
-  - [Fake persona](#fake-persona)
+  - [Sock Puppets](#sock-puppets)
+    - [Sock Puppets Tutorials](#sock-puppets-tutorials)
   - [Scams](#scams)
+  - [Browser OSINT](#browser-osint)
 
 ---
 
@@ -70,6 +73,8 @@
 - <https://osintcurio.us/>
 - <https://github.com/jivoi/awesome-osint>
 - <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
+- <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
+- <https://www.youtube.com/watch?v=z6ghArAWwWc>
 
 ---
 
@@ -94,10 +99,11 @@
 
 ## VMs
 
-- [OSINT VM] - <https://www.tracelabs.org/initiatives/osint-vm>
-- [ThreatPursuit-VM] - <https://github.com/mandiant/ThreatPursuit-VM>
-- [REMnux] - <https://docs.remnux.org/install-distro/get-virtual-appliance>
-- [Genymotion] - <https://www.genymotion.com/download/>
+- Tracelabs OSINT VM - <https://www.tracelabs.org/initiatives/osint-vm>
+- TraceLabs OSINT VM Installation Guide - <https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf>
+- ThreatPursuit-VM - <https://github.com/mandiant/ThreatPursuit-VM>
+- REMnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
+- Genymotion - <https://www.genymotion.com/download/>
 
 ---
 
@@ -117,10 +123,11 @@
 
 ## Google Dorks
 
+- Google Advanced Search <https://www.google.com/advanced_search>
 - Google Hacking Database - <https://www.exploit-db.com/google-hacking-database>
 - gbhackers - <https://gbhackers.com/latest-google-dorks-list/>
 - google-dork-list - <https://www.boxpiper.com/posts/google-dork-list>
-- Google Guide - <http://www.googleguide.com/using_advanced_operators.html>
+- Google Guide - <http://www.googleguide.com/using_advanced_operators.html> - <http://www.googleguide.com/print/adv_op_ref.pdf>
 
 ### Operators
 
@@ -177,6 +184,7 @@
 - Google Maps - <https://www.google.com/maps>
 - Bing Maps - <https://www.bing.com/maps/>
 - Wikimapia - <https://wikimapia.org>
+- Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
 
 ### 3 word location
 
@@ -194,7 +202,7 @@
 
 - Contracts - <https://www.base.gov.pt>
 - Search DRE - <https://dre.tretas.org>
-- Penhorados - https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx
+- Penhorados - <https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx>
 - Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor - <https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController>
 - VIN Search - <https://www.lastvin.com/>
 - Predial - <https://www.predialonline.pt/>
@@ -205,11 +213,11 @@
 ## Find people
 
 - Hunter - <https://hunter.io>
-- phonebook.cz - <https://phonebook.cz/>
-- voilanorbert - <https://www.voilanorbert.com/>
-- clearbit connect - <https://connect.clearbit.com/>
-- tools.verifyemailaddress.io - <https://tools.emailhippo.com/>
-- email-checker - <https://email-checker.net/>
+- Phonebook.cz - <https://phonebook.cz/>
+- VoilaNorbert - <https://www.voilanorbert.com/>
+- Clearbit Connect - <https://connect.clearbit.com/>
+- Email Hippo - <https://tools.emailhippo.com/>
+- Email Checker - <https://email-checker.net/>
 
 ---
 
@@ -257,6 +265,7 @@
 
 ### Twitter
 
+- Twitter Advanced Search - <https://twitter.com/search-advanced>
 - Twint - <https://github.com/twintproject/twint>
 - Botometer - <https://botometer.osome.iu.edu/>
 
@@ -268,20 +277,28 @@
 
 ---
 
+## Username OSINT
+
+- NameChk - <https://namechk.com/>
+- WhatsMyName - <https://whatsmyname.app/>
+- NameCheckup - <https://namecheckup.com/>
+
 ## Personal Information
 
+- Social Bearing - <https://socialbearing.com/>
 - Peek You - <https://www.peekyou.com/>
 - Pipl - <https://pipl.com/>
 - KnowEM - <https://knowem.com/>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
+- True Caller - <https://www.truecaller.com/>
 
 ---
 
 ## Bitcoin
 
-- bitcoinwhoswho - <https://www.bitcoinwhoswho.com/>
-- bitref - <bitref.com>
+- Bitcoin Whos Who - <https://www.bitcoinwhoswho.com/>
+- Bit Ref - <https://bitref.com>
 
 ---
 
@@ -362,13 +379,13 @@
 - robots.txt
 - sitemap.xml
 - viewsource
-- [Measure page quality] -<https://web.dev/measure/>
-- [seo-analyzer] - <https://neilpatel.com/seo-analyzer/>
-- [whatweb] <https://morningstarsecurity.com/research/whatweb>
-- [wappalyzer] - <https://www.wappalyzer.com/>
-- [Builtwith] - <https://builtwith.com/>
-- [Website Informer] - <https://website.informer.com/>
-- [Web Data Extractor] - <http://www.webextractor.com/>
+- Measure page quality - <https://web.dev/measure/>
+- seo-analyzer - <https://neilpatel.com/seo-analyzer/>
+- whatweb - <https://morningstarsecurity.com/research/whatweb>
+- wappalyzer - <https://www.wappalyzer.com/>
+- Builtwith - <https://builtwith.com/>
+- Website Informer - <https://website.informer.com/>
+- Web Data Extractor - <http://www.webextractor.com/>
 
 ---
 
@@ -465,7 +482,9 @@
 - **Amass** - <https://github.com/OWASP/Amass>
 
 - crt.sh - <https://crt.sh/>
-- dnsdumpster - <https://dnsdumpster.com/>
+- **DNS Dumpster** - <https://dnsdumpster.com/>
+- **Hacker Target** - <https://hackertarget.com>
+- **ipinfo.io** - <https://ipinfo.io>
 - Pentest Tools - <https://pentest-tools.com/>
 
 **More Info** - <https://hover.blog/whats-a-domain-name-subdomain-top-level-domain/>
@@ -480,7 +499,7 @@
 
 ### Maltego
 
-- [Maltego] - <https://www.maltego.com/ce-registration/>
+- Maltego - <https://www.maltego.com/ce-registration/>
 
 ---
 
@@ -501,24 +520,24 @@
 
 ## Wifi
 
-[wigle.net](wigle.net)
+- wigle.net - <https://wigle.net>
 
 ---
 
 ## WaybackMachine
 
-[WaybackMachine](https://archive.org/web/)
-[Archive.is](http://archive.is/)
-[Cached Pages](http://www.cachedpages.com/)
-[Cached View](http://cachedview.com/)
-[OldWeb.Today](https://oldweb.today/)
-[Time Travel](http://timetravel.mementoweb.org/)
+- WaybackMachine - <https://archive.org/web/>
+- Archive.is - <http://archive.is/>
+- Cached Pages - <http://www.cachedpages.com/>
+- Cached View - <http://cachedview.com/>
+- OldWeb.Today - <https://oldweb.today/>
+- Time Travel - <http://timetravel.mementoweb.org/>
 
 ---
 
 ## Canary Tokens
 
-- [Canary Tokens] - <https://canarytokens.org/generate>
+- Canary Tokens - <https://canarytokens.org/generate>
 
 ---
 
@@ -528,9 +547,9 @@
 
 ## Shodan, Censys, and Thingful
 
-- [Shodan] - <https://help.shodan.io/the-basics/what-is-shodan>
-- [Censys] - <https://about.censys.io/>
-- [Thingfull] - <https://www.thingful.net/site/about>
+- Shodan - <https://help.shodan.io/the-basics/what-is-shodan>
+- Censys - <https://about.censys.io/>
+- Thingfull - <https://www.thingful.net/site/about>
 
 ### Shodan Guide
 
@@ -549,16 +568,19 @@
 
 - wget
   - `wget -mkEpnp site`
-- [HTTrack Website Copier] - <https://www.httrack.com/>
+- HTTrack Website Copier - <https://www.httrack.com/>
 
 ---
 
-## Have I been Pwned
+## Password OSINT
 
-- [haveibeenpwned] - <https://haveibeenpwned.com/>
-- [dehashed] - <https://www.dehashed.com/>
-- [Breach-Parse] - <https://github.com/hmaverickadams/breach-parse>
-- [weleakinfo] - <https://weleakinfo.to/>
+- HaveIBeenPwned - <https://haveibeenpwned.com/>
+- Breach-Parse - <https://github.com/hmaverickadams/breach-parse>
+- Dehashed - <https://dehashed.com/>
+- WeLeakInfo - <https://weleakinfo.to/v2/>
+- LeakCheck - <https://leakcheck.io/>
+- SnusBase - <https://snusbase.com/>
+- Scylla.sh - <https://scylla.sh/>
 
 ---
 
@@ -581,12 +603,25 @@
 
 ---
 
-## Fake persona
+## Sock Puppets
 
 - Fake Identity - <https://datafakegenerator.com/>
+- Fake Identity - <https://www.fakenamegenerator.com/>
 - Fake Photo - <https://thispersondoesnotexist.com/>
-- Geolocation extensions
+- Geolocation extensions - <https://chrome.google.com/webstore/category/extensions>
+- Privacy.com - <https://privacy.com/join/LADFC>
+
+### Sock Puppets Tutorials
+
+- Intro to Creating an Effective Sock Puppet (wayback archive): <https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/>
+- The Art Of The Sock - <https://www.secjuice.com/the-art-of-the-sock-osint-humint/>
+- My Process for Setting up Anonymous Sock Puppet Accounts - <https://garrettmickley.com/sockpuppet-account-creation/>
 
 ## Scams
 
 - Scam Digger -  <https://scamdigger.com>
+
+## Browser OSINT
+
+- <https://webbrowsertools.com/>
+- <https://browserleaks.com/>

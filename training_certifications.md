@@ -2,8 +2,9 @@
 
 - [Tranings and Certifications](#tranings-and-certifications)
   - [THM Advent of Cyber](#thm-advent-of-cyber)
-  - [1. Practical Ethical Hacking (PNPT) (40%)](#1-practical-ethical-hacking-pnpt-40)
+  - [1. Practical Ethical Hacking (PNPT) (48%)](#1-practical-ethical-hacking-pnpt-48)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
+  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (5%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-5)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
   - [Code Red](#code-red)
@@ -16,7 +17,7 @@
 
 ## THM Advent of Cyber
 
-- <https://tryhackme.com/room/adventofcyber3>
+- <https://tryhackme.com/room/adventofcyber3> day 7; 18;19
 - <https://tryhackme.com/room/adventofcyber2>
 - <https://tryhackme.com/room/25daysofchristmas>
 
@@ -28,7 +29,7 @@
 - (30%) Cyber Defense
 - (28%) Offensive Pentesting
 
-## 1. Practical Ethical Hacking (PNPT) (40%)
+## 1. Practical Ethical Hacking (PNPT) (48%)
 
 [TCM-Sec]
 (25h)
@@ -41,6 +42,14 @@
 [Nahamsec]
 (5h)
 <https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/learn/lecture/24998026#content>
+
+---
+
+## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (5%)
+
+[TCM-Sec]
+(4,5h)
+<https://www.youtube.com/watch?v=qwA6MmbeGNo>
 
 ---
 

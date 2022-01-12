@@ -108,6 +108,9 @@
   - `"Android Debug Bridge" "Device" port:5555`
 - Hiring
   - `"X-Recruiting:"`
+- Self Signed Certificates
+  - `ssl:"qnap"`
+
 
 ## CheatSheet
 

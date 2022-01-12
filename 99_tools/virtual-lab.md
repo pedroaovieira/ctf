@@ -46,7 +46,7 @@ Metasploitable 2
 
 OSINT
 
-{% embed url="https://www.tracelabs.org/initiatives/osint-vm" %}
+## {% embed url="https://www.tracelabs.org/initiatives/osint-vm" %}
 
 {% embed url="https://inteltechniques.com/buscador/" %}
 
