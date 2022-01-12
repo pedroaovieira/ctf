@@ -75,6 +75,7 @@
 - <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
 - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
 - <https://www.youtube.com/watch?v=z6ghArAWwWc>
+- IntelligenceX - <https://intelx.io/>
 
 ---
 
@@ -260,6 +261,8 @@
 ### Facebook
 
 - StalkFace - <https://stalkface.com/en/>
+- Sowdust Github - <https://www.sowsearch.info/>
+- IntelligenceX Facebook Search - <https://intelx.io/tools?tab=facebook>
 
 ---
 
@@ -580,7 +583,7 @@
 - WeLeakInfo - <https://weleakinfo.to/v2/>
 - LeakCheck - <https://leakcheck.io/>
 - SnusBase - <https://snusbase.com/>
-- Scylla.sh - <https://scylla.sh/>
+- Scylla.so - <https://scylla.so/>
 
 ---
 

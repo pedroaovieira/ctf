@@ -4,7 +4,7 @@
   - [THM Advent of Cyber](#thm-advent-of-cyber)
   - [1. Practical Ethical Hacking (PNPT) (48%)](#1-practical-ethical-hacking-pnpt-48)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
-  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (5%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-5)
+  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
   - [Code Red](#code-red)
@@ -45,7 +45,7 @@
 
 ---
 
-## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (5%)
+## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
 
 [TCM-Sec]
 (4,5h)
@@ -98,7 +98,7 @@
 
 ---
 
-## Penetration Testing Professional (eCPPTv2) 
+## Penetration Testing Professional (eCPPTv2)
 
 [INE] (50$ /month)
 (66h)
