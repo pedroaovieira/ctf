@@ -9,6 +9,10 @@
 - <https://www.immunityinc.com/products/debugger/>
 - <http://www.thegreycorner.com/p/vulnserver.html>
 
+https://www.youtube.com/watch?v=ncBblM920jw
+
+https://www.youtube.com/watch?v=2ZZPwwXOH08
+
 ---
 
 ## Book
