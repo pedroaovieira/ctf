@@ -109,6 +109,6 @@
 | Certification | Value | Link |
 | :----- | :--: | :--: |
 | eJPT | 180€ | |
-| Pentest+ | 300€ | |
-| eCPPT | 350€ | |
 | PNPT | 350€ | |
+| eCPPT | 350€ | |
+| Pentest+ | 300€ | maybe not - multiple question based|
