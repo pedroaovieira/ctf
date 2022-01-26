@@ -29,11 +29,34 @@
 - (30%) Cyber Defense
 - (28%) Offensive Pentesting
 
-## 1. Practical Ethical Hacking (PNPT) (48%)
+## 1. Practical Ethical Hacking (PNPT) (100%)
 
 [TCM-Sec]
 (25h)
 <https://academy.tcm-sec.com/courses/enrolled/1152300>
+
+---
+
+## [ITProTV]
+
+
+### CompTIA Security+ (SY0-601) (29h)
+- <https://app.itpro.tv/course/security-sy0601/>
+
+---
+
+### CompTIA CySA+ (CS0-002) (25h)
+- <https://app.itpro.tv/course/cysa-cs0002/>
+
+---
+
+### CompTIA Pentest+ (PT0-002) (18h)
+- <https://app.itpro.tv/course/comptia-pentest-pt0002/>
+
+
+### CompTIA CASP+ (CAS-003) (64h)
+- <https://app.itpro.tv/course/comptia-casp-cas003/>
+
 
 ---
 
@@ -110,5 +133,6 @@
 | :----- | :--: | :--: |
 | eJPT | 180€ | |
 | PNPT | 350€ | |
-| eCPPT | 350€ | |
+| eCPPTv2 | 350€ | |
+| eWPT | 350€ | |
 | Pentest+ | 300€ | maybe not - multiple question based|
