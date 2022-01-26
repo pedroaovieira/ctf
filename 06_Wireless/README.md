@@ -82,3 +82,4 @@ https://www.bettercap.org/
 
 https://en.kali.tools/?p=52
 
+https://executeatwill.com/2020/01/05/Wireless-Wifi-Penetration-Testing-Hacker-Notes/
