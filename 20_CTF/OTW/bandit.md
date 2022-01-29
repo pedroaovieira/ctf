@@ -1,9 +1,13 @@
 # Bandit
 
+
+
+
+
 ## Bandit0
 
-```text
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+```bash
+sshpass -p bandit0 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 bandit0@bandit:~$ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
@@ -23,18 +27,18 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 bandit2@bandit:~$ cat "spaces in this filename"  
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit3 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit3
+ 
   
 ssh bandit3@bandit.labs.overthewire.org -p 2220  
   
 bandit3@bandit:~/inhere$ cat .hidden  
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit4 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit4
+ 
   
 ssh bandit4@bandit.labs.overthewire.org -p 2220  
   
@@ -53,9 +57,9 @@ bandit4@bandit:~/inhere$ file ./\*
 bandit4@bandit:~/inhere$ cat ./-file07  
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit5 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit5
+ 
   
 ssh bandit5@bandit.labs.overthewire.org -p 2220  
   
@@ -64,9 +68,9 @@ inhere/maybehere07/.file2
 bandit5@bandit:~$ cat inhere/maybehere07/.file2  
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit6 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit6
+ 
   
 ssh bandit6@bandit.labs.overthewire.org -p 2220  
   
@@ -75,27 +79,27 @@ bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2&gt;/dev/null
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password  
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit7 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit7
+ 
   
 ssh bandit7@bandit.labs.overthewire.org -p 2220  
   
 bandit7@bandit:~$ grep millionth data.txt  
 millionth cvX2JJa4CFALtqS87jk27qwqGhBM9plV  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit8 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit8
+ 
   
 ssh bandit8@bandit.labs.overthewire.org -p 2220  
   
 bandit8@bandit:~$ sort data.txt \| uniq -c \|sort -r  
  1 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit9 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit9
+ 
   
 ssh bandit9@bandit.labs.overthewire.org -p 2220  
   
@@ -105,18 +109,18 @@ bandit9@bandit:~$ strings data.txt \|grep ==
 L========== isA  
 ========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit10 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit10
+ 
   
 ssh bandit10@bandit.labs.overthewire.org -p 2220  
   
 bandit10@bandit:~$ base64 -d data.txt  
 The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit11 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit11
+ 
   
 ssh bandit11@bandit.labs.overthewire.org -p 2220  
   
@@ -127,9 +131,9 @@ bandit11@bandit:~$ alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
 bandit11@bandit:~$ cat data.txt \| rot13  
 The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit12 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit12
+ 
   
 ssh bandit12@bandit.labs.overthewire.org -p 2220  
   
@@ -176,9 +180,9 @@ data8: ASCII text
 bandit12@bandit:/tmp/pvieira22$ cat data8  
 The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit13 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit13
+ 
   
 ssh bandit13@bandit.labs.overthewire.org -p 2220  
   
@@ -213,9 +217,9 @@ kAWpXbv5tbkkzbS0eaLPTKgLzavXtQoTtKwrjpolHKIHUz6Wu+n4abfAIRFubOdN
 /+aLoRQ0yBDRbdXMsZN/jvY44eM+xRLdRVyMmdPtP8belRi2E2aEzA==  
 -----END RSA PRIVATE KEY-----  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit14 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit14
+ 
   
 $ chmod 600 bandit/sshkey.private  
   
@@ -225,7 +229,7 @@ This is a OverTheWire game server. More information on [http://www.overthewire.o
 bandit14@bandit:~$ cat /etc/bandit\_pass/bandit14  
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
   
 bandit14@bandit:~$ nc localhost 30000  
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e  
@@ -237,9 +241,9 @@ BfMYroe26WYalil77FoDi9qh59eK5xNr
 echo 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e \| nc localhost 30000  
   
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit15 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit15
+ 
   
 bandit14@bandit:~$ openssl s\_client -ign\_eof -connect localhost:30001  
 CONNECTED\(00000003\)  
@@ -317,9 +321,9 @@ cluFn7wTiGryunymYOu4RcffSxQluehd
   
 closed  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit16 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit16
+ 
   
 bandit14@bandit:~$ openssl s\_client -ign\_eof -connect localhost:31790  
 CONNECTED\(00000003\)  
@@ -423,9 +427,9 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
   
 closed  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit17 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit17
+ 
   
 chmod 600 bandit/sshkey17.private  
   
@@ -437,9 +441,9 @@ bandit17@bandit:~$ diff passwords.new passwords.old
 ---  
 &gt;  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit18 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit18
+ 
   
 ssh bandit18@bandit.labs.overthewire.org -p 2220 /bin/sh  
 This is a OverTheWire game server. More information on [http://www.overthewire.org/wargames](http://www.overthewire.org/wargames)  
@@ -449,18 +453,18 @@ readme
 cat readme  
 IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit19 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit19
+ 
   
 ssh bandit19@bandit.labs.overthewire.org -p 2220  
   
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit\_pass/bandit20  
 GbKksEFF4yrVs6il55v6gwY5aVje5f0j  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit20 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit20
+ 
   
 ssh bandit20@bandit.labs.overthewire.org -p 2220  
   
@@ -476,9 +480,9 @@ Read: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 Password matches, sending next password  
   
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit21 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit21
+ 
   
 ssh bandit21@bandit.labs.overthewire.org -p 2220  
   
@@ -492,9 +496,9 @@ cat /etc/bandit\_pass/bandit22 &gt; /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 bandit21@bandit:/etc/cron.d$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv  
 Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit22 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit22
+ 
   
 ssh bandit22@bandit.labs.overthewire.org -p 2220  
   
@@ -512,9 +516,9 @@ bandit22@bandit:/usr/bin$ echo I am user bandit23 \| md5sum \| cut -d ' ' -f 1
 bandit22@bandit:/usr/bin$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349  
 jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit23 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit23
+ 
   
 ssh bandit23@bandit.labs.overthewire.org -p 2220  
   
@@ -537,9 +541,9 @@ bandit24.pass pv.sh
 bandit23@bandit:/tmp/pvieira24$ cat bandit24.pass  
 UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ  
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit24 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit24
+ 
   
 ssh bandit24@bandit.labs.overthewire.org -p 2220  
   
@@ -581,9 +585,9 @@ The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 Exiting.  
   
   
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\# Bandit25 \#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
+ 
+## Bandit25
+ 
   
 ssh bandit25@bandit.labs.overthewire.org -p 2220  
   

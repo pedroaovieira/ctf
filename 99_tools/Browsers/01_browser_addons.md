@@ -43,4 +43,3 @@
 ## Location Guard [link](https://mybrowseraddon.com/change-geolocation.html)
 
 - Change current geolocation
-- 

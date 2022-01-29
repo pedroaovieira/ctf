@@ -57,4 +57,4 @@ OSINT
 
 
 
-
+AMAZON AWS
