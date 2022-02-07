@@ -142,6 +142,12 @@
 
 ## MSFCONSOLE
 
+
+
+sudo /etc/init.d/postgresql start
+sudo msfdb init
+sudo msfconsole
+
 ```
 systemctl start postgresql
 msfdb init
