@@ -1,12 +1,17 @@
 # Tranings and Certifications
 
 - [Tranings and Certifications](#tranings-and-certifications)
+  - [IT Pro TV](#it-pro-tv)
+    - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
+    - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
+    - [Hands-on Hacking (14h) (31%)](#hands-on-hacking-14h-31)
+    - [Penetration Testing](#penetration-testing)
+    - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
   - [THM Advent of Cyber](#thm-advent-of-cyber)
   - [1. Practical Ethical Hacking (PNPT) (100%)](#1-practical-ethical-hacking-pnpt-100)
   - [[ITProTV]](#itprotv)
     - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
     - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
-    - [CompTIA Pentest+ (PT0-002) (18h) (10%)](#comptia-pentest-pt0-002-18h-10)
     - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
   - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
@@ -17,6 +22,37 @@
   - [Burp Suite Certification](#burp-suite-certification)
   - [Pentest+](#pentest)
   - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
+
+---
+
+## IT Pro TV
+
+### CompTIA Pentest+ (PT0-002) (18h) (20%)
+
+- <https://app.itpro.tv/course/comptia-pentest-pt0002/>
+
+---
+
+### Webapp Penetration Testing (10h) (6%)
+
+- <https://app.itpro.tv/course/webapp-penetration-testing/overview-0122>
+
+---
+
+### Hands-on Hacking (14h) (31%)
+
+- <https://app.itpro.tv/course/handsonhacking/overview-handshacking>
+
+---
+
+### Penetration Testing
+
+
+---
+
+### Practical Pentesting: featuring Brad Stine (7h)
+
+- <https://app.itpro.tv/course/practical-pentesting-featuring-brad-stine/overview-practical-pentesting-bran-stine>
 
 ---
 
@@ -45,6 +81,8 @@
 ## [ITProTV]
 
 
+
+
 ### CompTIA Security+ (SY0-601) (29h)
 - <https://app.itpro.tv/course/security-sy0601/>
 
@@ -55,8 +93,7 @@
 
 ---
 
-### CompTIA Pentest+ (PT0-002) (18h) (10%)
-- <https://app.itpro.tv/course/comptia-pentest-pt0002/>
+
 
 
 ### CompTIA CASP+ (CAS-003) (64h)
