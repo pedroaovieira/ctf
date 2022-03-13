@@ -4,7 +4,6 @@
   - [IT Pro TV](#it-pro-tv)
     - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
     - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
-    - [Hands-on Hacking (14h) (31%)](#hands-on-hacking-14h-31)
     - [Penetration Testing](#penetration-testing)
     - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
   - [THM Advent of Cyber](#thm-advent-of-cyber)
@@ -36,12 +35,6 @@
 ### Webapp Penetration Testing (10h) (6%)
 
 - <https://app.itpro.tv/course/webapp-penetration-testing/overview-0122>
-
----
-
-### Hands-on Hacking (14h) (31%)
-
-- <https://app.itpro.tv/course/handsonhacking/overview-handshacking>
 
 ---
 
