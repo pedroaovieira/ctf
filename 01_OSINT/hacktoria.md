@@ -7,6 +7,8 @@
       - [Geolocation-02](#geolocation-02)
       - [Geolocation-03](#geolocation-03)
       - [Geolocation-04](#geolocation-04)
+      - [Geolocation-05](#geolocation-05)
+      - [Geolocation-06](#geolocation-06)
 
 ## Practice
 
@@ -80,7 +82,50 @@ What is the name of the town this cannon is placed?
 
 - <https://hacktoria.com/practice/geolocation/geolocation-04/>
 
+What is the name of the city this building is found within?
+
 ![geolocation-04](hactoria_images/geolocation-04.jpg)
+
+> Check flags: USA and France?
+
+![geolocation-04](hactoria_images/geolocation-04_search.jpg)
+
+> Answer is : `Des Moines`
+
+---
+
+#### Geolocation-05
+
+- <https://hacktoria.com/practice/geolocation/geolocation-05/>
+
+What is the name of the city where this building is located?
+
+![geolocation-05](hactoria_images/geolocation-05.jpg)
+
+> Crop just the top of the building.
+
+![geolocation-05](hactoria_images/geolocation-05_croped.jpg)
+
+![geolocation-05](hactoria_images/geolocation-05_search.jpg)
+
+> Answer is : `Montevideo`
+
+---
+
+#### Geolocation-06
+
+- <https://hacktoria.com/practice/geolocation/geolocation-06/>
+
+What is the name of this stadium?
+
+![geolocation-06](hactoria_images/geolocation-06.jpg)
+
+> Baseball stadium ? from sign in wall
+> USA ? from flags
+
+![geolocation-06](hactoria_images/geolocation-05_croped.jpg)
+
+![geolocation-06](hactoria_images/geolocation-05_search.jpg)
 
 > Answer is : ``
 
