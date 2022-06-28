@@ -9,6 +9,14 @@
       - [Geolocation-04](#geolocation-04)
       - [Geolocation-05](#geolocation-05)
       - [Geolocation-06](#geolocation-06)
+      - [Geolocation-07](#geolocation-07)
+      - [Geolocation-08](#geolocation-08)
+      - [Geolocation-09](#geolocation-09)
+      - [Geolocation-10](#geolocation-10)
+      - [Geolocation-11](#geolocation-11)
+      - [Geolocation-24](#geolocation-24)
+      - [Geolocation-25](#geolocation-25)
+      - [Geolocation-25](#geolocation-25-1)
 
 ## Practice
 
@@ -123,10 +131,120 @@ What is the name of this stadium?
 > Baseball stadium ? from sign in wall
 > USA ? from flags
 
-![geolocation-06](hactoria_images/geolocation-05_croped.jpg)
+![geolocation-06](hactoria_images/geolocation-06_croped.jpg)
 
-![geolocation-06](hactoria_images/geolocation-05_search.jpg)
+![geolocation-06](hactoria_images/geolocation-06_croped2.jpg)
 
 > Answer is : ``
 
 ---
+
+#### Geolocation-07
+
+- <https://hacktoria.com/practice/geolocation/geolocation-07/>
+
+What is the name of the city where this photo was taken?
+
+![geolocation-07](hactoria_images/geolocation-07.jpg)
+
+> Google image search
+
+![geolocation-07](hactoria_images/geolocation-07_search.jpg)
+
+> Answer is : `Oslo`
+
+---
+
+#### Geolocation-08
+
+- <https://hacktoria.com/practice/geolocation/geolocation-08/>
+
+What is the name of the city where this photo was taken?
+
+![geolocation-08](hactoria_images/geolocation-08.jpg)
+
+> Google image search
+
+![geolocation-08](hactoria_images/geolocation-08_search.jpg)
+
+> Answer is : ``
+
+---
+
+#### Geolocation-09
+
+- <https://hacktoria.com/practice/geolocation/geolocation-09/>
+
+What is the name of the church in the picture?
+
+![geolocation-09](hactoria_images/geolocation-09.jpg)
+
+> Google image search
+
+![geolocation-09](hactoria_images/geolocation-09_search.jpg)
+
+> Answer is : `Saviors Church`
+
+---
+
+#### Geolocation-10
+
+- <https://hacktoria.com/practice/geolocation/geolocation-10/>
+
+What phone number would you call to be able to take this photo (do not include the country prefix in your answer).
+
+![geolocation-10](hactoria_images/geolocation-10.jpg)
+
+> Google image search
+
+![geolocation-10](hactoria_images/geolocation-10_search.jpg)
+
+![geolocation-10](hactoria_images/geolocation-10_search2.jpg)
+
+![geolocation-10](hactoria_images/geolocation-10_search3.jpg)
+
+> A photo of a speech of Jose Echegaray in the pavement of Huertas street. It is located in the touristic Barrio De Las Letras, or De Los Literatos or De Las Musas, in Madrid, Spain.
+
+![geolocation-10](hactoria_images/geolocation-10_search4.jpg)
+
+> Answer is : `914295526`
+
+---
+
+#### Geolocation-11
+
+- <https://hacktoria.com/practice/geolocation/geolocation-11/>
+
+Where was this picture taken? (Be more specific than a country or town, name the venue. Use English name, only words with spaces, no special characters)
+
+![geolocation-11](hactoria_images/geolocation-11.jpg)
+
+> Google image search
+
+> Answer is : ``
+
+---
+
+
+
+
+
+
+
+---
+
+#### Geolocation-24
+
+> Answer is : `Obidos`
+
+---
+
+#### Geolocation-25
+
+> Answer is : `Denver`
+
+---
+
+#### Geolocation-25
+
+> Answer is : `Denver`
