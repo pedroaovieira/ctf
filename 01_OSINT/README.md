@@ -12,7 +12,9 @@
   - [Dorks](#dorks)
   - [Video Search Engines](#video-search-engines)
   - [Image Search Engines](#image-search-engines)
+    - [Image Tools](#image-tools)
   - [Geolocation Recon](#geolocation-recon)
+    - [Satelite](#satelite)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [PT](#pt)
@@ -176,7 +178,11 @@
 - Image Reverse - TinEye - <https://tineye.com/>
 - Image Reverse - ezgif - <https://ezgif.com/reverse>
 - Pimeyes - <https://pimeyes.com/en>
+
+### Image Tools
+
 - Remove Background - <https://www.remove.bg/>
+- Cleanup Pictures - <https://cleanup.pictures>
 
 ---
 
@@ -186,6 +192,11 @@
 - Bing Maps - <https://www.bing.com/maps/>
 - Wikimapia - <https://wikimapia.org>
 - Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
+
+### Satelite
+
+- World Imagery - <https://livingatlas.arcgis.com/>
+- World Imagery Wayback - <https://livingatlas.arcgis.com/wayback/>
 
 ### 3 word location
 
