@@ -275,6 +275,7 @@ Answer format in English: *********
 ![geolocation-26](hactoria_images/geolocation-26.jpg)
 
 > Google image search
+
 > Answer is : ``
 
 ---
@@ -289,7 +290,9 @@ Answer format: *********
 ![geolocation-27](hactoria_images/geolocation-27.jpg)
 
 > Byferga - ferry
+
 > Google image search
+
 > Answer is : `Gamlebyen`
 
 ---
@@ -304,6 +307,7 @@ Answer format in English: *******
 ![geolocation-28](hactoria_images/geolocation-28.jpg)
 
 > Google image search
+
 > Answer is : ``
 
 ---
@@ -318,6 +322,7 @@ Answer format in English: ****
 ![geolocation-29](hactoria_images/geolocation-29.jpg)
 
 > Google image search
+
 > Answer is : ``
 
 ---
@@ -332,6 +337,7 @@ Answer format in English: ******
 ![geolocation-30](hactoria_images/geolocation-30.jpg)
 
 > Google image search
+
 > Answer is : ``
 
 ---
@@ -346,6 +352,11 @@ Answer format: *** ********
 ![geolocation-31](hactoria_images/geolocation-31.jpg)
 
 > Google image search
+
+![geolocation-31](hactoria_images/geolocation-31_croped.jpg)
+
+> Cuscatlan Stadium
+
 > Answer is : `San Salvador`
 
 ---
@@ -361,4 +372,5 @@ Answer format: *************
 ![geolocation-32](hactoria_images/geolocation-32.jpg)
 
 > Google image search
+
 > Answer is : ``
