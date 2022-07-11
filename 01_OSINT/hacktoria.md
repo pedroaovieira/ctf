@@ -16,7 +16,13 @@
       - [Geolocation-11](#geolocation-11)
       - [Geolocation-24](#geolocation-24)
       - [Geolocation-25](#geolocation-25)
-      - [Geolocation-25](#geolocation-25-1)
+      - [Geolocation-26](#geolocation-26)
+      - [Geolocation-27](#geolocation-27)
+      - [Geolocation-28](#geolocation-28)
+      - [Geolocation-29](#geolocation-29)
+      - [Geolocation-30](#geolocation-30)
+      - [Geolocation-31](#geolocation-31)
+      - [Geolocation-32](#geolocation-32)
 
 ## Practice
 
@@ -225,15 +231,18 @@ Where was this picture taken? (Be more specific than a country or town, name the
 
 ---
 
-
-
-
-
-
-
----
-
 #### Geolocation-24
+
+- <https://hacktoria.com/practice/geolocation/geolocation-24/>
+
+What is the name of the city where this event happened?
+Answer format in English: ******
+
+![geolocation-24](hactoria_images/geolocation-24.jpg)
+
+> Google search license plate <25-68-LP>
+
+![geolocation-24](hactoria_images/geolocation-24_search.jpg)
 
 > Answer is : `Obidos`
 
@@ -241,10 +250,115 @@ Where was this picture taken? (Be more specific than a country or town, name the
 
 #### Geolocation-25
 
+- <https://hacktoria.com/practice/geolocation/geolocation-25/>
+
+In which city is this hospital located?
+Answer format in English: ******
+
+![geolocation-25](hactoria_images/geolocation-25.jpg)
+
+> Google search
+
+![geolocation-25](hactoria_images/geolocation-25_search.jpg)
+
 > Answer is : `Denver`
 
 ---
 
-#### Geolocation-25
+#### Geolocation-26
 
-> Answer is : `Denver`
+- <https://hacktoria.com/practice/geolocation/geolocation-26/>
+
+In which city was this photo taken?
+Answer format in English: *********
+
+![geolocation-26](hactoria_images/geolocation-26.jpg)
+
+> Google image search
+> Answer is : ``
+
+---
+
+#### Geolocation-27
+
+- <https://hacktoria.com/practice/geolocation/geolocation-27/>
+
+What is the name of this small town?
+Answer format: *********
+
+![geolocation-27](hactoria_images/geolocation-27.jpg)
+
+> Byferga - ferry
+> Google image search
+> Answer is : `Gamlebyen`
+
+---
+
+#### Geolocation-28
+
+- <https://hacktoria.com/practice/geolocation/geolocation-28/>
+
+In which city was this photo taken?
+Answer format in English: *******
+
+![geolocation-28](hactoria_images/geolocation-28.jpg)
+
+> Google image search
+> Answer is : ``
+
+---
+
+#### Geolocation-29
+
+- <https://hacktoria.com/practice/geolocation/geolocation-29/>
+
+What is the name of this city?
+Answer format in English: ****
+
+![geolocation-29](hactoria_images/geolocation-29.jpg)
+
+> Google image search
+> Answer is : ``
+
+---
+
+#### Geolocation-30
+
+- <https://hacktoria.com/practice/geolocation/geolocation-30/>
+
+In which city was this photo taken?
+Answer format in English: ******
+
+![geolocation-30](hactoria_images/geolocation-30.jpg)
+
+> Google image search
+> Answer is : ``
+
+---
+
+#### Geolocation-31
+
+- <https://hacktoria.com/practice/geolocation/geolocation-31/>
+
+What is the name of this city?
+Answer format: *** ********
+
+![geolocation-31](hactoria_images/geolocation-31.jpg)
+
+> Google image search
+> Answer is : `San Salvador`
+
+---
+
+#### Geolocation-32
+
+- <https://hacktoria.com/practice/geolocation/geolocation-32/>
+
+What is the name of this city?
+
+Answer format: *************
+
+![geolocation-32](hactoria_images/geolocation-32.jpg)
+
+> Google image search
+> Answer is : ``
