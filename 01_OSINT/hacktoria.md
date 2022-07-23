@@ -88,6 +88,10 @@ What is the name of the town this cannon is placed?
 
 ![geolocation-03](hactoria_images/geolocation-03.jpg)
 
+> Crop image and Google image search.
+
+![geolocation-03](hactoria_images/geolocation-03_croped.jpg)
+
 > Answer is : ``
 
 ---
