@@ -5,15 +5,20 @@
     - [Geolocation](#geolocation)
       - [Geolocation-01](#geolocation-01)
       - [Geolocation-02](#geolocation-02)
-      - [Geolocation-03](#geolocation-03)
+      - [Geolocation-03 - Incomplete](#geolocation-03---incomplete)
       - [Geolocation-04](#geolocation-04)
       - [Geolocation-05](#geolocation-05)
-      - [Geolocation-06](#geolocation-06)
+      - [Geolocation-06 - Incomplete](#geolocation-06---incomplete)
       - [Geolocation-07](#geolocation-07)
-      - [Geolocation-08](#geolocation-08)
+      - [Geolocation-08 - Incomplete](#geolocation-08---incomplete)
       - [Geolocation-09](#geolocation-09)
       - [Geolocation-10](#geolocation-10)
-      - [Geolocation-11](#geolocation-11)
+      - [Geolocation-11 - Incomplete](#geolocation-11---incomplete)
+      - [Geolocation-12](#geolocation-12)
+      - [Geolocation-13](#geolocation-13)
+      - [Geolocation-14](#geolocation-14)
+      - [Geolocation-15](#geolocation-15)
+      - [Geolocation-16](#geolocation-16)
       - [Geolocation-24](#geolocation-24)
       - [Geolocation-25](#geolocation-25)
       - [Geolocation-26](#geolocation-26)
@@ -80,7 +85,7 @@ What is the name of the town this picture was taken in?
 
 ---
 
-#### Geolocation-03
+#### Geolocation-03 - Incomplete
 
 - <https://hacktoria.com/practice/geolocation/geolocation-03/>
 
@@ -130,7 +135,7 @@ What is the name of the city where this building is located?
 
 ---
 
-#### Geolocation-06
+#### Geolocation-06 - Incomplete
 
 - <https://hacktoria.com/practice/geolocation/geolocation-06/>
 
@@ -139,11 +144,18 @@ What is the name of this stadium?
 ![geolocation-06](hactoria_images/geolocation-06.jpg)
 
 > Baseball stadium ? from sign in wall
+> 
 > USA ? from flags
 
 ![geolocation-06](hactoria_images/geolocation-06_croped.jpg)
 
+Head
+
 ![geolocation-06](hactoria_images/geolocation-06_croped2.jpg)
+
+- Cleanup Pictures - <https://cleanup.pictures>
+
+![geolocation-06](hactoria_images/geolocation-06_original_cleanup.jpg)
 
 > Answer is : ``
 
@@ -165,7 +177,7 @@ What is the name of the city where this photo was taken?
 
 ---
 
-#### Geolocation-08
+#### Geolocation-08 - Incomplete
 
 - <https://hacktoria.com/practice/geolocation/geolocation-08/>
 
@@ -221,7 +233,7 @@ What phone number would you call to be able to take this photo (do not include t
 
 ---
 
-#### Geolocation-11
+#### Geolocation-11 - Incomplete
 
 - <https://hacktoria.com/practice/geolocation/geolocation-11/>
 
@@ -234,6 +246,66 @@ Where was this picture taken? (Be more specific than a country or town, name the
 > Answer is : ``
 
 ---
+
+#### Geolocation-12
+
+- <https://hacktoria.com/practice/geolocation/geolocation-12/>
+
+What is the name of the city this picture was taken in?
+
+![geolocation-12](hactoria_images/geolocation-12.jpg)
+
+
+---
+
+#### Geolocation-13
+
+- <https://hacktoria.com/practice/geolocation/geolocation-13/>
+
+What is the name of the city this picture was taken in?
+
+![geolocation-13](hactoria_images/geolocation-13.jpg)
+
+---
+
+#### Geolocation-14
+
+- <https://hacktoria.com/practice/geolocation/geolocation-14/>
+
+What is the name of the city this picture was taken in? Use the English name for the city.
+
+![geolocation-14](hactoria_images/geolocation-14.jpg)
+
+---
+
+#### Geolocation-15
+
+- <https://hacktoria.com/practice/geolocation/geolocation-15/>
+
+Where was this picture taken? Name the Country, City and Street name. Use the following format in English:
+
+Streetname, City, Country
+
+![geolocation-15](hactoria_images/geolocation-15.jpg)
+
+---
+
+#### Geolocation-16
+
+- <https://hacktoria.com/practice/geolocation/geolocation-16/>
+
+What is the name of the city this picture was taken in? Use the English name for the city.
+
+![geolocation-16](hactoria_images/geolocation-16.jpg)
+
+---
+
+
+
+
+
+
+
 
 #### Geolocation-24
 
