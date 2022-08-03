@@ -34,3 +34,5 @@ https://www.cryptic.red/post/sniffing-tpm-keys-on-the-spi-bus
 
 expliot multi purpose pcb
 
+
+https://github.com/V33RU/IoTSecurity101/blob/master/README.md
