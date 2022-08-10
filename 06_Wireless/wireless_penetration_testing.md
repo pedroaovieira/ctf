@@ -133,11 +133,12 @@
 
 ## Beating MAC filters
 
-airodumpng -c 11 -a --bssid <mac> mon0
+- `airodumpng -c 11 -a --bssid <mac> mon0`
 
-ifconfig wlan0 down
-macchanger –m <mac> wlan0
-ifconfig wlan0 up
+- `ifconfig wlan0 down`
+
+- `macchanger –m <mac> wlan0`
+- `ifconfig wlan0 up`
 
 ## bypassing Shared Authentication
 
