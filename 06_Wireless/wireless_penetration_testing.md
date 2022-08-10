@@ -20,6 +20,32 @@
 
 ### wireless adapter
 
+Ethernet:
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I219-LM
+   Physical Address. . . . . . . . . : A0-8C-FD-A9-4D-BD
+
+Wi-Fi:
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8260
+   Physical Address. . . . . . . . . : 44-85-00-B3-1D-52
+
+Alfa Grey:
+   802.11g
+   Model: AWUS036H
+   Description . . . . . . . . . . . : Realtek RTL8187 Wireless 802.11b/g 54Mbps USB 2.0 Network Adapter
+   Physical Address. . . . . . . . . : 00-C0-CA-42-2F-04
+
+Alfa Black:
+   Model: AC1200 - 802.11ac
+   Model: AWUS036ACH
+   Description . . . . . . . . . . . : Realtek 8812AU Wireless LAN 802.11ac USB NIC
+   Physical Address. . . . . . . . . : 00-C0-CA-AA-57-E3
+
+Bluetooth:
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 44-85-00-B3-1D-56
+
+
+
 ### Access point
 
 > TP-LINK TL-WR841N Wireless router
