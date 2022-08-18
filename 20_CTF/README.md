@@ -31,3 +31,7 @@ https://trailofbits.github.io/ctf
 https://github.com/zardus/ctf-tools
 
 https://resources.infosecinstitute.com/topic/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
+
+
+
+<https://github.com/addihorn/NahamCon_CTF_2022>

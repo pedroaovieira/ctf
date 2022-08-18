@@ -36,3 +36,6 @@ expliot multi purpose pcb
 
 
 https://github.com/V33RU/IoTSecurity101/blob/master/README.md
+
+
+https://n0wblog.blogspot.com/2017/04/dumping-flash-memory-over-spi.html

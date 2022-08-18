@@ -5,6 +5,8 @@
   - [2. Practical Malware Analysis & Triage (4%)](#2-practical-malware-analysis--triage-4)
   - [3. Linux 101 (0%)](#3-linux-101-0)
   - [4. The Definitive GRC Analyst Master Class (0%)](#4-the-definitive-grc-analyst-master-class-0)
+  - [Udemy](#udemy)
+    - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
   - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
   - [IT Pro TV](#it-pro-tv)
     - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
@@ -16,7 +18,6 @@
     - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
     - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
     - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
-  - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
   - [Code Red](#code-red)
@@ -222,3 +223,7 @@
 | eCPPTv2 | 350€ | |
 | eWPT | 350€ | |
 | Pentest+ | 300€ | maybe not - multiple question based|
+
+
+
+https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
