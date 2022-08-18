@@ -1,19 +1,22 @@
 # Tranings and Certifications
 
 - [Tranings and Certifications](#tranings-and-certifications)
+  - [1. Practical Ethical Hacking - The Complete Course (100%)](#1-practical-ethical-hacking---the-complete-course-100)
+  - [2. Practical Malware Analysis & Triage (4%)](#2-practical-malware-analysis--triage-4)
+  - [3. Linux 101 (0%)](#3-linux-101-0)
+  - [4. The Definitive GRC Analyst Master Class (0%)](#4-the-definitive-grc-analyst-master-class-0)
+  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
   - [IT Pro TV](#it-pro-tv)
     - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
     - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
     - [Penetration Testing](#penetration-testing)
     - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
   - [THM Advent of Cyber](#thm-advent-of-cyber)
-  - [1. Practical Ethical Hacking (PNPT) (100%)](#1-practical-ethical-hacking-pnpt-100)
   - [[ITProTV]](#itprotv)
     - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
     - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
     - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
   - [2. Intro to Bug Bounty (40%)](#2-intro-to-bug-bounty-40)
-  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
   - [Code Red](#code-red)
@@ -23,6 +26,69 @@
   - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
 
 ---
+
+## 1. Practical Ethical Hacking - The Complete Course (100%)
+
+[TCM-Sec]
+(25h)
+<https://academy.tcm-sec.com/courses/enrolled/1152300>
+
+---
+
+## 2. Practical Malware Analysis & Triage (4%)
+
+[TCM-Sec]
+(9h)
+<https://academy.tcm-sec.com/courses/enrolled/1547503>
+
+---
+
+## 3. Linux 101 (0%)
+
+[TCM-Sec]
+(5h)
+<https://academy.tcm-sec.com/courses/enrolled/1552914>
+
+---
+
+## 4. The Definitive GRC Analyst Master Class (0%)
+
+[Simply Cyber School]
+(6h)
+<https://simplycyber.teachable.com/courses/enrolled/1592799>
+
+
+---
+
+## Udemy
+
+[Simply Cyber School]
+
+### Intro to Bug Bounty (40%)
+
+[Nahamsec]
+(5h)
+<https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/learn/lecture/24998026#content>
+
+
+
+
+
+
+
+
+
+
+
+## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
+
+[TCM-Sec]
+(4,5h)
+<https://www.youtube.com/watch?v=qwA6MmbeGNo>
+
+
+
+
 
 ## IT Pro TV
 
@@ -63,11 +129,7 @@
 - (30%) Cyber Defense
 - (28%) Offensive Pentesting
 
-## 1. Practical Ethical Hacking (PNPT) (100%)
 
-[TCM-Sec]
-(25h)
-<https://academy.tcm-sec.com/courses/enrolled/1152300>
 
 ---
 
@@ -95,19 +157,8 @@
 
 ---
 
-## 2. Intro to Bug Bounty (40%)
 
-[Nahamsec]
-(5h)
-<https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/learn/lecture/24998026#content>
 
----
-
-## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
-
-[TCM-Sec]
-(4,5h)
-<https://www.youtube.com/watch?v=qwA6MmbeGNo>
 
 ---
 
