@@ -16,7 +16,7 @@
 
 ## VirtualBox + Extension Pack
 
-{% embed url="https://www.virtualbox.org/wiki/Downloads" %}
+VirtualBox + Extension Pack [link](https://www.virtualbox.org/wiki/Downloads)
 
 ## Kali
 
