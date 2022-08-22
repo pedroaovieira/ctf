@@ -16,11 +16,11 @@
 
 ## VirtualBox + Extension Pack
 
-VirtualBox + Extension Pack [link](https://www.virtualbox.org/wiki/Downloads)
+VirtualBox + Extension Pack <https://www.virtualbox.org/wiki/Downloads>
 
 ## Kali
 
-{% embed url="https://www.kali.org/get-kali/" %}
+Kali - <https://www.kali.org/get-kali/>
 
 ## Parrot OS
 
