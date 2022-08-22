@@ -15,21 +15,31 @@
   - [AMAZON AWS](#amazon-aws)
   - [Docker](#docker)
 
+---
+
 ## VirtualBox + Extension Pack
 
 VirtualBox + Extension Pack - <https://www.virtualbox.org/wiki/Downloads>
+
+---
 
 ## Kali
 
 Kali - <https://www.kali.org/get-kali/>
 
+---
+
 ## Parrot OS
 
 Parrot OS - <https://www.parrotsec.org/download/>
 
+---
+
 ## Windows 7 & 10
 
 Windows 7 & 10 - <https://developer.microsoft.com/pt-br/microsoft-edge/tools/vms/>
+
+---
 
 ## Windows 10 and Server
 
@@ -37,27 +47,39 @@ Windows 10 and Server - <https://www.microsoft.com/en-us/evalcenter/try>
 
 Windows 10 and Server - <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
 
+---
+
 ## Android
 
 Android - <https://www.osboxes.org/android-x86/>
+
+---
 
 ## OS Boxes
 
 OS Boxes - <https://www.osboxes.org/virtualbox-images/>
 
+---
+
 ## VulnHUB Boxes
 
 VulnHUB Boxes - <https://www.vulnhub.com/>
 
+---
+
 ## Metasploitable 2
 
 Metasploitable 2 - <https://github.com/brysonpayne/ethical-hacking>
+
+---
 
 ## Misc
 
 Flare-VM - <https://github.com/fireeye/flare-vm>
 
 Commando-vm - <https://github.com/fireeye/commando-vm>
+
+---
 
 ## OSINT
 
@@ -69,9 +91,14 @@ Remnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 
 Genymotion - <https://www.genymotion.com/download/>
 
+---
+
 ## AMAZON AWS
 
+Network Chuck - <https://www.youtube.com/watch?v=QWQ-LQL1owE>
+
+---
 
 ## Docker
 
-Docker - <docker.md>
+Docker - [docker.md](docker.md)
