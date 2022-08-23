@@ -3,7 +3,7 @@
 - [OSINT](#osint)
   - [External Resource](#external-resource)
   - [Book](#book)
-  - [Chalenges](#chalenges)
+  - [Challenges](#challenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
   - [Search Engines](#search-engines)
@@ -87,7 +87,7 @@
 
 ---
 
-## Chalenges
+## Challenges
 
 - <https://investigator.cybersoc.wales/>
 - <https://ctf.cybersoc.wales/>
