@@ -2,6 +2,8 @@
 
 - [Tranings and Certifications](#tranings-and-certifications)
   - [Certifications](#certifications)
+    - [Pluralsight](#pluralsight)
+      - [Hack Yourself First: How to go on the Cyber-Offense](#hack-yourself-first-how-to-go-on-the-cyber-offense)
     - [CEH](#ceh)
       - [Code Red](#code-red)
     - [TCM-SEC](#tcm-sec)
@@ -17,22 +19,20 @@
     - [IT Pro TV](#it-pro-tv)
       - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
       - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
-      - [Penetration Testing](#penetration-testing)
       - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
-    - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
-    - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
-    - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
-  - [4. The Definitive GRC Analyst Master Class (0%)](#4-the-definitive-grc-analyst-master-class-0)
-  - [Udemy](#udemy)
-    - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
-  - [THM Advent of Cyber](#thm-advent-of-cyber)
-  - [[ITProTV]](#itprotv)
-  - [Ignite Cheatsheet](#ignite-cheatsheet)
-  - [Defending Can Bus](#defending-can-bus)
-  - [Penetration Testing Student (eJPT)](#penetration-testing-student-ejpt)
-  - [Burp Suite Certification](#burp-suite-certification)
-  - [Pentest+](#pentest)
-  - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
+      - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
+      - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
+      - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
+    - [The Definitive GRC Analyst Master Class (0%)](#the-definitive-grc-analyst-master-class-0)
+    - [Udemy](#udemy)
+      - [Real-World Ethical Hacking: Hands-on Cybersecurity](#real-world-ethical-hacking-hands-on-cybersecurity)
+      - [CompTIA CySA+ (CS0-002) Complete Course & Practice Exam](#comptia-cysa-cs0-002-complete-course--practice-exam)
+      - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
+    - [THM Advent of Cyber](#thm-advent-of-cyber)
+    - [Ignite Cheatsheet](#ignite-cheatsheet)
+    - [Defending Can Bus](#defending-can-bus)
+    - [Penetration Testing Student (eJPT)](#penetration-testing-student-ejpt)
+    - [Burp Suite Certification](#burp-suite-certification)
 
 ---
 
@@ -51,6 +51,14 @@ GIAC - <https://www.giac.org/>
 COMPTIA - <https://www.comptia.org/>
 
 eLearnSecurity - <https://elearnsecurity.com/>
+
+---
+
+### Pluralsight
+
+#### Hack Yourself First: How to go on the Cyber-Offense
+
+{% embed url="https://www.pluralsight.com/courses/hack-yourself-first" %}
 
 ---
 
@@ -152,7 +160,6 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-
 ### IT Pro TV
 
 #### CompTIA Pentest+ (PT0-002) (18h) (20%)
@@ -167,46 +174,28 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-#### Penetration Testing
-
-
----
-
 #### Practical Pentesting: featuring Brad Stine (7h)
 
 - <https://app.itpro.tv/course/practical-pentesting-featuring-brad-stine/overview-practical-pentesting-bran-stine>
 
 ---
 
-
-
-### CompTIA Security+ (SY0-601) (29h)
+#### CompTIA Security+ (SY0-601) (29h)
 - <https://app.itpro.tv/course/security-sy0601/>
 
 ---
 
-### CompTIA CySA+ (CS0-002) (25h)
+#### CompTIA CySA+ (CS0-002) (25h)
 - <https://app.itpro.tv/course/cysa-cs0002/>
 
 ---
 
-
-
-
-### CompTIA CASP+ (CAS-003) (64h)
+#### CompTIA CASP+ (CAS-003) (64h)
 - <https://app.itpro.tv/course/comptia-casp-cas003/>
 
-
 ---
 
-
-
-
-
-
----
-
-## 4. The Definitive GRC Analyst Master Class (0%)
+### The Definitive GRC Analyst Master Class (0%)
 
 [Simply Cyber School]
 (6h)
@@ -215,34 +204,29 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-## Udemy
+### Udemy
 
-[Simply Cyber School]
+#### Real-World Ethical Hacking: Hands-on Cybersecurity
+(11h)
+<https://www.udemy.com/course/real-world-ethical-hacking/>
 
-### Intro to Bug Bounty (40%)
+---
+
+#### CompTIA CySA+ (CS0-002) Complete Course & Practice Exam
+(32.5h)
+<https://www.udemy.com/course/comptiacsaplus/>
+
+---
+
+#### Intro to Bug Bounty (40%)
 
 [Nahamsec]
 (5h)
 <https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/learn/lecture/24998026#content>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## THM Advent of Cyber
+### THM Advent of Cyber
 
 - <https://tryhackme.com/room/adventofcyber3> day 7; 18;19
 - <https://tryhackme.com/room/adventofcyber2>
@@ -256,28 +240,13 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 - (30%) Cyber Defense
 - (28%) Offensive Pentesting
 
+---
 
+### Ignite Cheatsheet
 
 ---
 
-## [ITProTV]
-
-
-
-
-
-
-
-
----
-
-## Ignite Cheatsheet
-
--
-
----
-
-## Defending Can Bus
+### Defending Can Bus
 
 [Ken Tindel]
 (40min)
@@ -285,9 +254,7 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-
-
-## Penetration Testing Student (eJPT)
+### Penetration Testing Student (eJPT)
 
 [INE]
 (78h)
@@ -295,27 +262,11 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-## Burp Suite Certification
+### Burp Suite Certification
 
 [PortSwigger]
 
 <https://portswigger.net/web-security/certification>
-
----
-
-## Pentest+
-
-[IT Pro TV]
-(34h)
-<localhost>
-
----
-
-## Penetration Testing Professional (eCPPTv2)
-
-[INE] (50$ /month)
-(66h)
-<https://my.ine.com/INE/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/ine-content>
 
 ---
 
@@ -326,7 +277,3 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 | eCPPTv2 | 350€ | |
 | eWPT | 350€ | |
 | Pentest+ | 300€ | maybe not - multiple question based|
-
-
-
-https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
