@@ -1,6 +1,7 @@
 # Tranings and Certifications
 
 - [Tranings and Certifications](#tranings-and-certifications)
+  - [Certifications](#certifications)
   - [1. Practical Ethical Hacking - The Complete Course (100%)](#1-practical-ethical-hacking---the-complete-course-100)
   - [2. Practical Malware Analysis & Triage (4%)](#2-practical-malware-analysis--triage-4)
   - [3. Linux 101 (0%)](#3-linux-101-0)
@@ -27,6 +28,24 @@
   - [Penetration Testing Professional (eCPPTv2)](#penetration-testing-professional-ecpptv2)
 
 ---
+
+## Certifications
+
+[CEH]<https://academy.tcm-sec.com/courses/enrolled/1152300>
+
+
+{% embed url="" %}
+
+{% embed url="https://certifications.tcm-sec.com/" %}
+
+{% embed url="https://www.offensive-security.com/pwk-oscp/" %}
+
+{% embed url="https://www.sans.org/emea/" %}
+
+{% embed url="https://www.giac.org/" %}
+
+
+
 
 ## 1. Practical Ethical Hacking - The Complete Course (100%)
 
