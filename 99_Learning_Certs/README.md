@@ -62,7 +62,18 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 #### Code Red
 
-[Reverse 2]
+<https://codered.eccouncil.org/>
+
+- OSINT - Open-source Intelligence
+(8h)
+
+- OSINT Level 2
+(7h)
+
+- Reverse Engineering - Part 1
+(4h)
+
+- [Reverse 2]
 (4h)
 
 ---
