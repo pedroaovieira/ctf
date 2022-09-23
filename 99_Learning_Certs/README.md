@@ -2,26 +2,33 @@
 
 - [Tranings and Certifications](#tranings-and-certifications)
   - [Certifications](#certifications)
-  - [1. Practical Ethical Hacking - The Complete Course (100%)](#1-practical-ethical-hacking---the-complete-course-100)
-  - [2. Practical Malware Analysis & Triage (4%)](#2-practical-malware-analysis--triage-4)
-  - [3. Linux 101 (0%)](#3-linux-101-0)
-  - [4. The Definitive GRC Analyst Master Class (0%)](#4-the-definitive-grc-analyst-master-class-0)
-  - [Udemy](#udemy)
-    - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
-  - [3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#3-open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
-  - [IT Pro TV](#it-pro-tv)
-    - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
-    - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
-    - [Penetration Testing](#penetration-testing)
-    - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
-  - [THM Advent of Cyber](#thm-advent-of-cyber)
-  - [[ITProTV]](#itprotv)
+    - [CEH](#ceh)
+      - [Code Red](#code-red)
+    - [TCM-SEC](#tcm-sec)
+      - [Practical Ethical Hacking - The Complete Course (100%)](#practical-ethical-hacking---the-complete-course-100)
+      - [Windows Privilege Escalation for Beginners](#windows-privilege-escalation-for-beginners)
+      - [Linux Privilege Escalation for Beginners](#linux-privilege-escalation-for-beginners)
+      - [Movement, Pivoting and Persistence](#movement-pivoting-and-persistence)
+      - [Linux 101 (21%)](#linux-101-21)
+      - [Mobile Application Penetration Testing](#mobile-application-penetration-testing)
+      - [Practical Web Application Security and Testing](#practical-web-application-security-and-testing)
+      - [Practical Malware Analysis & Triage (4%)](#practical-malware-analysis--triage-4)
+      - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
+    - [IT Pro TV](#it-pro-tv)
+      - [CompTIA Pentest+ (PT0-002) (18h) (20%)](#comptia-pentest-pt0-002-18h-20)
+      - [Webapp Penetration Testing (10h) (6%)](#webapp-penetration-testing-10h-6)
+      - [Penetration Testing](#penetration-testing)
+      - [Practical Pentesting: featuring Brad Stine (7h)](#practical-pentesting-featuring-brad-stine-7h)
     - [CompTIA Security+ (SY0-601) (29h)](#comptia-security-sy0-601-29h)
     - [CompTIA CySA+ (CS0-002) (25h)](#comptia-cysa-cs0-002-25h)
     - [CompTIA CASP+ (CAS-003) (64h)](#comptia-casp-cas-003-64h)
+  - [4. The Definitive GRC Analyst Master Class (0%)](#4-the-definitive-grc-analyst-master-class-0)
+  - [Udemy](#udemy)
+    - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
+  - [THM Advent of Cyber](#thm-advent-of-cyber)
+  - [[ITProTV]](#itprotv)
   - [Ignite Cheatsheet](#ignite-cheatsheet)
   - [Defending Can Bus](#defending-can-bus)
-  - [Code Red](#code-red)
   - [Penetration Testing Student (eJPT)](#penetration-testing-student-ejpt)
   - [Burp Suite Certification](#burp-suite-certification)
   - [Pentest+](#pentest)
@@ -31,23 +38,38 @@
 
 ## Certifications
 
-[CEH]<https://academy.tcm-sec.com/courses/enrolled/1152300>
+CEH - <https://aspen.eccouncil.org/>
 
+TCM-SEC - <https://certifications.tcm-sec.com/>
 
-{% embed url="" %}
+Offensive Security - <https://www.offensive-security.com/>
 
-{% embed url="https://certifications.tcm-sec.com/" %}
+SANS - <https://www.sans.org/emea/>
 
-{% embed url="https://www.offensive-security.com/pwk-oscp/" %}
+GIAC - <https://www.giac.org/>
 
-{% embed url="https://www.sans.org/emea/" %}
+COMPTIA - <https://www.comptia.org/>
 
-{% embed url="https://www.giac.org/" %}
+eLearnSecurity - <https://elearnsecurity.com/>
 
+---
 
+### CEH
 
+Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
-## 1. Practical Ethical Hacking - The Complete Course (100%)
+---
+
+#### Code Red
+
+[Reverse 2]
+(4h)
+
+---
+
+### TCM-SEC
+
+#### Practical Ethical Hacking - The Complete Course (100%)
 
 [TCM-Sec]
 (25h)
@@ -55,7 +77,55 @@
 
 ---
 
-## 2. Practical Malware Analysis & Triage (4%)
+#### Windows Privilege Escalation for Beginners
+
+[TCM-Sec]
+(7h)
+<https://academy.tcm-sec.com/courses/enrolled/1154361>
+
+---
+
+#### Linux Privilege Escalation for Beginners
+
+[TCM-Sec]
+(6.5h)
+<https://academy.tcm-sec.com/courses/enrolled/1154399>
+
+---
+
+#### Movement, Pivoting and Persistence
+
+[TCM-Sec]
+(5h)
+<https://academy.tcm-sec.com/courses/enrolled/1444641>
+
+---
+
+#### Linux 101 (21%)
+
+[TCM-Sec]
+(5.5h)
+<https://academy.tcm-sec.com/courses/enrolled/1552914>
+
+---
+
+#### Mobile Application Penetration Testing
+
+[TCM-Sec]
+(7h)
+<https://academy.tcm-sec.com/courses/enrolled/1557555>
+
+---
+
+#### Practical Web Application Security and Testing
+
+[TCM-Sec]
+(9h)
+<https://academy.tcm-sec.com/courses/enrolled/1792341>
+
+---
+
+#### Practical Malware Analysis & Triage (4%)
 
 [TCM-Sec]
 (9h)
@@ -63,11 +133,65 @@
 
 ---
 
-## 3. Linux 101 (0%)
+#### Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
 
 [TCM-Sec]
-(5h)
-<https://academy.tcm-sec.com/courses/enrolled/1552914>
+(4,5h)
+<https://www.youtube.com/watch?v=qwA6MmbeGNo>
+
+---
+
+
+### IT Pro TV
+
+#### CompTIA Pentest+ (PT0-002) (18h) (20%)
+
+- <https://app.itpro.tv/course/comptia-pentest-pt0002/>
+
+---
+
+#### Webapp Penetration Testing (10h) (6%)
+
+- <https://app.itpro.tv/course/webapp-penetration-testing/overview-0122>
+
+---
+
+#### Penetration Testing
+
+
+---
+
+#### Practical Pentesting: featuring Brad Stine (7h)
+
+- <https://app.itpro.tv/course/practical-pentesting-featuring-brad-stine/overview-practical-pentesting-bran-stine>
+
+---
+
+
+
+### CompTIA Security+ (SY0-601) (29h)
+- <https://app.itpro.tv/course/security-sy0601/>
+
+---
+
+### CompTIA CySA+ (CS0-002) (25h)
+- <https://app.itpro.tv/course/cysa-cs0002/>
+
+---
+
+
+
+
+### CompTIA CASP+ (CAS-003) (64h)
+- <https://app.itpro.tv/course/comptia-casp-cas003/>
+
+
+---
+
+
+
+
+
 
 ---
 
@@ -100,40 +224,12 @@
 
 
 
-## 3. Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
-
-[TCM-Sec]
-(4,5h)
-<https://www.youtube.com/watch?v=qwA6MmbeGNo>
 
 
 
 
 
-## IT Pro TV
 
-### CompTIA Pentest+ (PT0-002) (18h) (20%)
-
-- <https://app.itpro.tv/course/comptia-pentest-pt0002/>
-
----
-
-### Webapp Penetration Testing (10h) (6%)
-
-- <https://app.itpro.tv/course/webapp-penetration-testing/overview-0122>
-
----
-
-### Penetration Testing
-
-
----
-
-### Practical Pentesting: featuring Brad Stine (7h)
-
-- <https://app.itpro.tv/course/practical-pentesting-featuring-brad-stine/overview-practical-pentesting-bran-stine>
-
----
 
 ## THM Advent of Cyber
 
@@ -158,24 +254,6 @@
 
 
 
-### CompTIA Security+ (SY0-601) (29h)
-- <https://app.itpro.tv/course/security-sy0601/>
-
----
-
-### CompTIA CySA+ (CS0-002) (25h)
-- <https://app.itpro.tv/course/cysa-cs0002/>
-
----
-
-
-
-
-### CompTIA CASP+ (CAS-003) (64h)
-- <https://app.itpro.tv/course/comptia-casp-cas003/>
-
-
----
 
 
 
@@ -196,12 +274,7 @@
 
 ---
 
-## Code Red
 
-[Reverse 2]
-(4h)
-
----
 
 ## Penetration Testing Student (eJPT)
 
