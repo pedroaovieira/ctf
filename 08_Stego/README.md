@@ -52,7 +52,7 @@
 
 ---
 
-## Chalenges
+## Challenges
 
 - <https://www.hackthebox.eu/>
 - <https://www.root-me.org/>
