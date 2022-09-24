@@ -4,7 +4,6 @@
   - [External Resource](#external-resource)
   - [Book](#book)
   - [Challenges](#challenges)
-  - [<https://null-byte.wonderhowto.com/how-to/play-wi-fi-hacking-games-using-microcontrollers-practice-wi-fi-attacks-legally-0238563/>](#httpsnull-bytewonderhowtocomhow-toplay-wi-fi-hacking-games-using-microcontrollers-practice-wi-fi-attacks-legally-0238563)
   - [VMs](#vms)
   - [WiFi](#wifi)
   - [Wifite](#wifite)
@@ -20,15 +19,16 @@
 
 ## Book
 
-Kali Linux Wireless Penetration Testing Beginner's Guide - Packt
-Mastering Kali Linux Wireless Pentesting - Packt
+- Kali Linux Wireless Penetration Testing Beginner's Guide - Packt
+- Mastering Kali Linux Wireless Pentesting - Packt
 
 ---
 
 ## Challenges
 
-Wifi CTF Games - Null Byte <https://www.youtube.com/watch?v=IK0M5ISGevo>
-<https://null-byte.wonderhowto.com/how-to/play-wi-fi-hacking-games-using-microcontrollers-practice-wi-fi-attacks-legally-0238563/>
+- Wifi CTF Games - Null Byte <https://www.youtube.com/watch?v=IK0M5ISGevo>
+- <https://null-byte.wonderhowto.com/how-to/play-wi-fi-hacking-games-using-microcontrollers-practice-wi-fi-attacks-legally-0238563/>
+
 ---
 
 ## VMs
