@@ -85,7 +85,7 @@ Commando-vm - <https://github.com/fireeye/commando-vm>
 
 Tracelabs - https://www.tracelabs.org/initiatives/osint-vm>
 
-Buscardor - <https://inteltechniques.com/buscador/>
+Buscador - <https://inteltechniques.com/buscador/>
 
 Remnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 

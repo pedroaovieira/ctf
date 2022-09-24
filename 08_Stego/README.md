@@ -3,7 +3,8 @@
 - [Stego](#stego)
   - [External Resource](#external-resource)
   - [Book](#book)
-  - [Chalenges](#chalenges)
+  - [Challenges](#challenges)
+  - [Steps](#steps)
   - [Magic Bytes - Filetype signatures](#magic-bytes---filetype-signatures)
   - [Tools](#tools)
     - [Online](#online)
@@ -52,12 +53,31 @@
 
 ---
 
-## Chalenges
+## Challenges
 
 - <https://www.hackthebox.eu/>
 - <https://www.root-me.org/>
 - <https://ringzer0ctf.com/challenges>
 - <https://www.yeahhub.com/top-steganography-tools-ctf-challenges/>
+
+---
+
+## Steps
+
+- Check file extension
+- file
+- strings
+- strings -n 15 file
+- binwalk
+- binwalk file
+- binwalk -e file
+- exiftool
+- pngcheck
+- hex editor
+- magic bytes
+- steghide
+- steghide extract -sf file
+- stegsolve
 
 ---
 

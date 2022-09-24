@@ -35,3 +35,6 @@ https://resources.infosecinstitute.com/topic/tools-of-trade-and-resources-to-pre
 
 
 <https://github.com/addihorn/NahamCon_CTF_2022>
+
+
+CTF Field Guide - https://trailofbits.github.io/ctf/
