@@ -1,7 +1,7 @@
-# Hactoria - On the Wire
+# Hacktoria - On the Wire
 
 
-# Hactoria
+# Hacktoria
 
 Greetings Special Agent K. One of our field agents in Malaysia managed to physically breach the office of a corrupt politician. Doubling as a mole for a Chinese criminal enterprise, mostly smuggling endangered animals. In this case their evil business involves shark fin trade and other exotic food items.
 

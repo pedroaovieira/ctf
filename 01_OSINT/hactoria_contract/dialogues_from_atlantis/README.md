@@ -1,7 +1,7 @@
-# Hactoria - Dialogues from Atlantis
+# Hacktoria - Dialogues from Atlantis
 
 
-# Hactoria
+# Hacktoria
 
 Greetings, Special Agent K. One of our clients, a wealthy art collector from Monaco, is requesting we help her find a recorded dialogue between Critias, Hermocrates, Timaeus and Soscrates.
 

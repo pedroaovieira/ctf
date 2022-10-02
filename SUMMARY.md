@@ -5,15 +5,17 @@
   * [OSCP JoaoPauloF](00_CheatSheet/02_JoaoPauloF.md)
   * [0 day security](00_CheatSheet/03_0daysecurity.com.md)
   * [CEH temp](00_CheatSheet/04_CEH_TMP.md)
+
 * [Virtual Labs](00_Labs/README.md)
   * [Docker examples](00_Labs/docker.md)
+
 * [Tools](00_Tools/README.md)
 
 * [OSINT](01_OSINT/README.md)
   * [OSINT - Beware. Your data is out there.](01_OSINT/presentation/README.md)
   * [Shodan](01_OSINT/shodan/README.md)
-  * [Hactoria](01_OSINT/hactoria/README.md)
-  * [Hactoria - Contracts](01_OSINT/hactoria_contract/README.md)
+  * [Hacktoria](01_OSINT/hacktoria/README.md)
+  * [Hacktoria - Contracts](01_OSINT/hacktoria_contract/README.md)
 
 * [Scan](02_Scan/README.md)
 * [Enumeration](03_Enumeration/README.md)

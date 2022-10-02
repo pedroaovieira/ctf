@@ -1,4 +1,4 @@
-# Haactoria Contracts
+# Hacktoria Contracts
 
 
 - [Easy](#easy)

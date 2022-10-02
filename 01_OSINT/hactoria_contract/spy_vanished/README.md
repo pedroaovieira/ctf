@@ -1,7 +1,7 @@
-# Hactoria - The Spy who Vanished
+# Hacktoria - The Spy who Vanished
 
 
-# Hactoria
+# Hacktoria
 
 Greetings, Special Agent K. We have received information regarding the long lost spy from MI5, Deloris Frozenwood. She went missing in action a few years ago, never to be seen again. From what we understand, she went on to provide services to whoever the highest bidder might be.
 

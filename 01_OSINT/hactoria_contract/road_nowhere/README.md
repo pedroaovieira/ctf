@@ -1,7 +1,7 @@
-# Hactoria - Road to Nowhere
+# Hacktoria - Road to Nowhere
 
 
-# Hactoria
+# Hacktoria
 
 Special Agent K, we’ll be needing your assistance on a geolocation matter. One of our clients, a medium sized European goverment agency, has requested we find a needle in a haystack.
 

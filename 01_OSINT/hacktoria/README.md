@@ -43,19 +43,19 @@
 
 What is the name of the island this picture was taken on?
 
-![geolocation-01](hactoria_images/geolocation-01.jpg)
+![geolocation-01](hacktoria_images/geolocation-01.jpg)
 
 > Zoom on sign --> "LARUN KYMPPI"
 
 > Search on Google
 
-![geolocation-01](hactoria_images/geolocation-01_search.jpg)
+![geolocation-01](hacktoria_images/geolocation-01_search.jpg)
 
 It's a race. Also found a news mentioning the event and the location.
 
 - <https://www.lauttasaari.fi/larun-kymppi-juostaan-syyskuussa-42-kerran-mukana-uutuutena-larun-vitonen/>
 
-![geolocation-01](hactoria_images/geolocation-01_location.jpg)
+![geolocation-01](hacktoria_images/geolocation-01_location.jpg)
 
 > Answer is : `Lauttasaari`
 
@@ -67,19 +67,19 @@ It's a race. Also found a news mentioning the event and the location.
 
 What is the name of the town this picture was taken in?
 
-![geolocation-02](hactoria_images/geolocation-02.jpg)
+![geolocation-02](hacktoria_images/geolocation-02.jpg)
 
 > Zoom on building --> "PERRON"
 
 > Crop image and Google image search.
 
-![geolocation-02](hactoria_images/geolocation-02_croped.jpg)
+![geolocation-02](hacktoria_images/geolocation-02_croped.jpg)
 
 > Google image search and add word "Perron" to the search box.
 
-![geolocation-02](hactoria_images/geolocation-02_search.jpg)
+![geolocation-02](hacktoria_images/geolocation-02_search.jpg)
 
-![geolocation-02](hactoria_images/geolocation-02_result.jpg)
+![geolocation-02](hacktoria_images/geolocation-02_result.jpg)
 
 > Answer is : `Dronten`
 
@@ -91,11 +91,11 @@ What is the name of the town this picture was taken in?
 
 What is the name of the town this cannon is placed?
 
-![geolocation-03](hactoria_images/geolocation-03.jpg)
+![geolocation-03](hacktoria_images/geolocation-03.jpg)
 
 > Crop image and Google image search.
 
-![geolocation-03](hactoria_images/geolocation-03_croped.jpg)
+![geolocation-03](hacktoria_images/geolocation-03_croped.jpg)
 
 > Answer is : ``
 
@@ -107,11 +107,11 @@ What is the name of the town this cannon is placed?
 
 What is the name of the city this building is found within?
 
-![geolocation-04](hactoria_images/geolocation-04.jpg)
+![geolocation-04](hacktoria_images/geolocation-04.jpg)
 
 > Check flags: USA and France?
 
-![geolocation-04](hactoria_images/geolocation-04_search.jpg)
+![geolocation-04](hacktoria_images/geolocation-04_search.jpg)
 
 > Answer is : `Des Moines`
 
@@ -123,13 +123,13 @@ What is the name of the city this building is found within?
 
 What is the name of the city where this building is located?
 
-![geolocation-05](hactoria_images/geolocation-05.jpg)
+![geolocation-05](hacktoria_images/geolocation-05.jpg)
 
 > Crop just the top of the building.
 
-![geolocation-05](hactoria_images/geolocation-05_croped.jpg)
+![geolocation-05](hacktoria_images/geolocation-05_croped.jpg)
 
-![geolocation-05](hactoria_images/geolocation-05_search.jpg)
+![geolocation-05](hacktoria_images/geolocation-05_search.jpg)
 
 > Answer is : `Montevideo`
 
@@ -141,21 +141,21 @@ What is the name of the city where this building is located?
 
 What is the name of this stadium?
 
-![geolocation-06](hactoria_images/geolocation-06.jpg)
+![geolocation-06](hacktoria_images/geolocation-06.jpg)
 
 > Baseball stadium ? from sign in wall
 > 
 > USA ? from flags
 
-![geolocation-06](hactoria_images/geolocation-06_croped.jpg)
+![geolocation-06](hacktoria_images/geolocation-06_croped.jpg)
 
 Head
 
-![geolocation-06](hactoria_images/geolocation-06_croped2.jpg)
+![geolocation-06](hacktoria_images/geolocation-06_croped2.jpg)
 
 - Cleanup Pictures - <https://cleanup.pictures>
 
-![geolocation-06](hactoria_images/geolocation-06_original_cleanup.jpg)
+![geolocation-06](hacktoria_images/geolocation-06_original_cleanup.jpg)
 
 > Answer is : ``
 
@@ -167,11 +167,11 @@ Head
 
 What is the name of the city where this photo was taken?
 
-![geolocation-07](hactoria_images/geolocation-07.jpg)
+![geolocation-07](hacktoria_images/geolocation-07.jpg)
 
 > Google image search
 
-![geolocation-07](hactoria_images/geolocation-07_search.jpg)
+![geolocation-07](hacktoria_images/geolocation-07_search.jpg)
 
 > Answer is : `Oslo`
 
@@ -183,11 +183,11 @@ What is the name of the city where this photo was taken?
 
 What is the name of the city where this photo was taken?
 
-![geolocation-08](hactoria_images/geolocation-08.jpg)
+![geolocation-08](hacktoria_images/geolocation-08.jpg)
 
 > Google image search
 
-![geolocation-08](hactoria_images/geolocation-08_search.jpg)
+![geolocation-08](hacktoria_images/geolocation-08_search.jpg)
 
 > Answer is : ``
 
@@ -199,11 +199,11 @@ What is the name of the city where this photo was taken?
 
 What is the name of the church in the picture?
 
-![geolocation-09](hactoria_images/geolocation-09.jpg)
+![geolocation-09](hacktoria_images/geolocation-09.jpg)
 
 > Google image search
 
-![geolocation-09](hactoria_images/geolocation-09_search.jpg)
+![geolocation-09](hacktoria_images/geolocation-09_search.jpg)
 
 > Answer is : `Saviors Church`
 
@@ -215,19 +215,19 @@ What is the name of the church in the picture?
 
 What phone number would you call to be able to take this photo (do not include the country prefix in your answer).
 
-![geolocation-10](hactoria_images/geolocation-10.jpg)
+![geolocation-10](hacktoria_images/geolocation-10.jpg)
 
 > Google image search
 
-![geolocation-10](hactoria_images/geolocation-10_search.jpg)
+![geolocation-10](hacktoria_images/geolocation-10_search.jpg)
 
-![geolocation-10](hactoria_images/geolocation-10_search2.jpg)
+![geolocation-10](hacktoria_images/geolocation-10_search2.jpg)
 
-![geolocation-10](hactoria_images/geolocation-10_search3.jpg)
+![geolocation-10](hacktoria_images/geolocation-10_search3.jpg)
 
 > A photo of a speech of Jose Echegaray in the pavement of Huertas street. It is located in the touristic Barrio De Las Letras, or De Los Literatos or De Las Musas, in Madrid, Spain.
 
-![geolocation-10](hactoria_images/geolocation-10_search4.jpg)
+![geolocation-10](hacktoria_images/geolocation-10_search4.jpg)
 
 > Answer is : `914295526`
 
@@ -239,7 +239,7 @@ What phone number would you call to be able to take this photo (do not include t
 
 Where was this picture taken? (Be more specific than a country or town, name the venue. Use English name, only words with spaces, no special characters)
 
-![geolocation-11](hactoria_images/geolocation-11.jpg)
+![geolocation-11](hacktoria_images/geolocation-11.jpg)
 
 > Google image search
 
@@ -253,7 +253,7 @@ Where was this picture taken? (Be more specific than a country or town, name the
 
 What is the name of the city this picture was taken in?
 
-![geolocation-12](hactoria_images/geolocation-12.jpg)
+![geolocation-12](hacktoria_images/geolocation-12.jpg)
 
 
 ---
@@ -264,7 +264,7 @@ What is the name of the city this picture was taken in?
 
 What is the name of the city this picture was taken in?
 
-![geolocation-13](hactoria_images/geolocation-13.jpg)
+![geolocation-13](hacktoria_images/geolocation-13.jpg)
 
 ---
 
@@ -274,7 +274,7 @@ What is the name of the city this picture was taken in?
 
 What is the name of the city this picture was taken in? Use the English name for the city.
 
-![geolocation-14](hactoria_images/geolocation-14.jpg)
+![geolocation-14](hacktoria_images/geolocation-14.jpg)
 
 ---
 
@@ -286,7 +286,7 @@ Where was this picture taken? Name the Country, City and Street name. Use the fo
 
 Streetname, City, Country
 
-![geolocation-15](hactoria_images/geolocation-15.jpg)
+![geolocation-15](hacktoria_images/geolocation-15.jpg)
 
 ---
 
@@ -296,7 +296,7 @@ Streetname, City, Country
 
 What is the name of the city this picture was taken in? Use the English name for the city.
 
-![geolocation-16](hactoria_images/geolocation-16.jpg)
+![geolocation-16](hacktoria_images/geolocation-16.jpg)
 
 ---
 
@@ -314,11 +314,11 @@ What is the name of the city this picture was taken in? Use the English name for
 What is the name of the city where this event happened?
 Answer format in English: ******
 
-![geolocation-24](hactoria_images/geolocation-24.jpg)
+![geolocation-24](hacktoria_images/geolocation-24.jpg)
 
 > Google search license plate <25-68-LP>
 
-![geolocation-24](hactoria_images/geolocation-24_search.jpg)
+![geolocation-24](hacktoria_images/geolocation-24_search.jpg)
 
 > Answer is : `Obidos`
 
@@ -331,11 +331,11 @@ Answer format in English: ******
 In which city is this hospital located?
 Answer format in English: ******
 
-![geolocation-25](hactoria_images/geolocation-25.jpg)
+![geolocation-25](hacktoria_images/geolocation-25.jpg)
 
 > Google search
 
-![geolocation-25](hactoria_images/geolocation-25_search.jpg)
+![geolocation-25](hacktoria_images/geolocation-25_search.jpg)
 
 > Answer is : `Denver`
 
@@ -348,7 +348,7 @@ Answer format in English: ******
 In which city was this photo taken?
 Answer format in English: *********
 
-![geolocation-26](hactoria_images/geolocation-26.jpg)
+![geolocation-26](hacktoria_images/geolocation-26.jpg)
 
 > Google image search
 
@@ -363,7 +363,7 @@ Answer format in English: *********
 What is the name of this small town?
 Answer format: *********
 
-![geolocation-27](hactoria_images/geolocation-27.jpg)
+![geolocation-27](hacktoria_images/geolocation-27.jpg)
 
 > Byferga - ferry
 
@@ -380,7 +380,7 @@ Answer format: *********
 In which city was this photo taken?
 Answer format in English: *******
 
-![geolocation-28](hactoria_images/geolocation-28.jpg)
+![geolocation-28](hacktoria_images/geolocation-28.jpg)
 
 > Google image search
 
@@ -395,7 +395,7 @@ Answer format in English: *******
 What is the name of this city?
 Answer format in English: ****
 
-![geolocation-29](hactoria_images/geolocation-29.jpg)
+![geolocation-29](hacktoria_images/geolocation-29.jpg)
 
 > Google image search
 
@@ -410,7 +410,7 @@ Answer format in English: ****
 In which city was this photo taken?
 Answer format in English: ******
 
-![geolocation-30](hactoria_images/geolocation-30.jpg)
+![geolocation-30](hacktoria_images/geolocation-30.jpg)
 
 > Google image search
 
@@ -425,11 +425,11 @@ Answer format in English: ******
 What is the name of this city?
 Answer format: *** ********
 
-![geolocation-31](hactoria_images/geolocation-31.jpg)
+![geolocation-31](hacktoria_images/geolocation-31.jpg)
 
 > Google image search
 
-![geolocation-31](hactoria_images/geolocation-31_croped.jpg)
+![geolocation-31](hacktoria_images/geolocation-31_croped.jpg)
 
 > Cuscatlan Stadium
 
@@ -445,7 +445,7 @@ What is the name of this city?
 
 Answer format: *************
 
-![geolocation-32](hactoria_images/geolocation-32.jpg)
+![geolocation-32](hacktoria_images/geolocation-32.jpg)
 
 > Google image search
 

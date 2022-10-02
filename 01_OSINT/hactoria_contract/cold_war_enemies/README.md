@@ -1,7 +1,7 @@
-# Hactoria - Cold War Enemies
+# Hacktoria - Cold War Enemies
 
 
-# Hactoria
+# Hacktoria
 
 Greetings Special Agent K. Perhaps you remember our old friend Maksim Kotova? After his capture in Panama he was more than willing to cooporate for reduced sentences.
 

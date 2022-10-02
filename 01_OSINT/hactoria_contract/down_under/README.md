@@ -1,7 +1,7 @@
-# Hactoria - Lost Down Under
+# Hacktoria - Lost Down Under
 
 
-# Hactoria
+# Hacktoria
 
 Greetings Special Agent K. We need your assistance in an urgent matter. Our client, the Australian Secret Intelligence Agency, ASIS for short, has requested our help to uncover a terrorist organization.
 
