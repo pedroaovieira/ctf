@@ -1,14 +1,14 @@
 # Hacktoria Contracts
 
 - [Hacktoria Contracts](#hacktoria-contracts)
-  - [Easy](#easy)
+- [Easy](#easy)
 - [Medium](#medium)
 - [Hard](#hard)
 - [Insane](#insane)
 
 ---
 
-## Easy
+# Easy
 
 * [Cold War Enemies](cold_war_enemies/README.md)
 * [Dialogues from Atlantis](dialogues_from_atlantis/README.md)
