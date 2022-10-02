@@ -26,3 +26,39 @@ https://hacktoria.com/contracts/the-listeners/
 # 
 
 ![](images/the-listeners.jpg)
+
+Put image on Bing Images and focus on the traffice mirror.
+
+The first result <https://www.public-expo.fr/miroir-routier-p258829443.html>
+
+![](images/image001.png)
+
+And on the text says that it complies with the demands of the regulation for public streets.
+
+So the country is France.
+
+"luxurious lifestyles along the coastlines of Western and Southern Europe":
+
+![](images/image002.png)
+
+On the picture, between the buildings we can see the sea.
+
+Saint-Tropez? Cannes? Monaco ?
+
+
+![](images/image003.png)
+
+![](images/image004.png)
+
+![](images/image005.png)
+
+L'Ecole du Parc
+32 Bd de Belgique
+98000 Monaco 
+
+
+Monaco-98000-Boulevard-de-Belgique-32
+
+https://bit.ly/3qxVdsj
+
+![](images/contract.png)
