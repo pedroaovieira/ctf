@@ -26,6 +26,7 @@
 # Hard
 
 * [Lost Down Under](down_under/README.md)
+* [The Listeners](the_listeners/README.md)
 
 ---
 
