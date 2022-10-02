@@ -18,3 +18,4 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 https://hacktoria.com/contracts/road-to-nowhere/
 
 
+![](images/road-to-nowhere-challenge.jpg)

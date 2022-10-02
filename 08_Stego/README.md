@@ -4,6 +4,7 @@
   - [External Resource](#external-resource)
   - [Book](#book)
   - [Challenges](#challenges)
+  - ["Stego Solver"](#stego-solver)
   - [Steps](#steps)
   - [Magic Bytes - Filetype signatures](#magic-bytes---filetype-signatures)
   - [Tools](#tools)
@@ -62,7 +63,18 @@
 
 ---
 
+## "Stego Solver"
+
+Aperi'Solve is an online platform which performs layer analysis on image. The platform also uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis.
+
+- <https://www.aperisolve.com/>
+
+---
+
+
 ## Steps
+
+- <https://www.aperisolve.com/cheatsheet>
 
 - Check file extension
 - file

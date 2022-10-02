@@ -10,6 +10,7 @@
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
   - [Dorks](#dorks)
+  - [Image Solve](#image-solve)
   - [Video Search Engines](#video-search-engines)
   - [Image Search Engines](#image-search-engines)
     - [Image Tools](#image-tools)
@@ -69,6 +70,7 @@
 
 ## External Resource
 
+- <https://github.com/cipher387/osint_stuff_tool_collection>
 - <https://osintframework.com/>
 - <https://www.osintdojo.com/resources/>
 - <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
@@ -157,6 +159,12 @@
 - `inurl:admin site:pt`
 - `password`
 - `hackedby`
+
+---
+
+## Image Solve
+
+- Aperisolve - <https://www.aperisolve.com/>
 
 ---
 
