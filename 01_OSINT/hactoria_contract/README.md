@@ -1,7 +1,10 @@
 # Hacktoria Contracts
 
-
-- [Easy](#easy)
+- [Hacktoria Contracts](#hacktoria-contracts)
+  - [Easy](#easy)
+- [Medium](#medium)
+- [Hard](#hard)
+- [Insane](#insane)
 
 ---
 
