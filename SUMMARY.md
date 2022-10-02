@@ -10,7 +10,7 @@
 * [Tools](00_Tools/README.md)
 * [OSINT](01_OSINT/README.md)
   * [OSINT - Beware. Your data is out there.](01_OSINT/presentation/README.md)
-  * [Shodan](01_OSINT/shodan.md)
+  * [Shodan](01_OSINT/shodan/shodan.md)
   * [Hactoria](01_OSINT/hactoria_contract/hactoria/hacktoria.md)
   * [Hactoria - Cold War Enemies](01_OSINT/hactoria_contract/cold_war_enemies/README.md)
   * [Hactoria - Dialogues From Atlantis](01_OSINT/hactoria_contract/dialogues_from_atlantis/README.md)
