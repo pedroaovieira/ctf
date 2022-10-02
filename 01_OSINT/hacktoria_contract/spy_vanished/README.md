@@ -17,6 +17,8 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 https://hacktoria.com/contracts/the-spy-who-vanished/
 
+---
+
 # Social Media search
 
 https://whatsmyname.app/
@@ -25,13 +27,19 @@ For result on "DFrozenwood"
 
 ![](images/image001.png)
 
+---
+
 Result sends to archive twitter account. WaybackMachine site shows 2 captures.
 
 ![](images/image002.png)
 
+---
+
 One of the captures shows the archived twitter page.
 
 ![](images/image003.png)
+
+---
 
 On one post there is a text string: "gnf435ynFJEFN#&$*F*D(*FSJ$Fkdfshh5f"
 

@@ -17,15 +17,40 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 https://hacktoria.com/contracts/road-to-nowhere/
 
+---
 
 ![](images/road-to-nowhere-challenge.jpg)
 
+Tried to look for this region in Namibia / South Africa because of the clues "The Meercats" - Meerkat <https://en.wikipedia.org/wiki/Meerkat> with no luck.
 
+---
 
+Tried <https://www.aperisolve.com/> with password option enabled and password "1920"
 
+![](images/aperi001.png)
 
+The result show a file "location.txt" hidden inside the picture.
 
+![](images/aperi002.png)
 
-https://bit.ly/3eMaV0v
+---
+
+The content of the file is:
+
+20.899370,95.118041,16
+
+which seem to be coordinates 20.899370,95.118041
+
+on [Google Maps](https://www.google.com/maps/place/20%C2%B053'57.7%22N+95%C2%B007'05.0%22E/@20.899375,95.1158523,973m/data=!3m2!1e3!4b1!4m2!3m1!1s0x0:0x65daa2984911019)
+
+![](images/map001.png)
+
+Shows that this location is: Hnit Kyat Khwe, Myanmar (Burma)
+
+---
+
+Using "20.899370,95.118041,16" as password to unzip the file.
+
+Content of unziped file: https://bit.ly/3eMaV0v
 
 ![](images/contract_image.png)

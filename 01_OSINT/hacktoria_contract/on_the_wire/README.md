@@ -15,10 +15,15 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 https://hacktoria.com/contracts/on-the-wire/
 
+---
+
+Used wireshark to open the pcap file. Searched for string http.
 
 ![](images/wireshark.png)
 
 https://pastebin.com/raw/U7zb8Kyh
+
+---
 
 https://bit.ly/3qyrf7t
 
