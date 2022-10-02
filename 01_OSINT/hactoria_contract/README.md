@@ -1,29 +1,29 @@
-# Table of contents
+# Haactoria Contracts
 
-* [Cheatsheet](00_CheatSheet/README.md)
-  * [OSCP Human Guide](00_CheatSheet/01_oscp_human_guide.md)
-  * [OSCP JoaoPauloF](00_CheatSheet/02_JoaoPauloF.md)
-  * [0 day security](00_CheatSheet/03_0daysecurity.com.md)
-  * [CEH temp](00_CheatSheet/04_CEH_TMP.md)
-* [Virtual Labs](00_Labs/README.md)
-  * [Docker examples](00_Labs/docker.md)
-* [Tools](00_Tools/README.md)
-* [OSINT](01_OSINT/README.md)
-  * [OSINT - Beware. Your data is out there.](01_OSINT/presentation/README.md)
-  * [Shodan](01_OSINT/shodan/shodan.md)
-  * [Hactoria](01_OSINT/hactoria/README.md)
-  * [Hactoria - Cold War Enemies](01_OSINT/hactoria_contract/cold_war_enemies/README.md)
-  * [Hactoria - Dialogues From Atlantis](01_OSINT/hactoria_contract/dialogues_from_atlantis/README.md)
-  * [Hactoria - On The Wire](01_OSINT/hactoria_contract/on_the_wire/README.md)
-  * [Hactoria - Lost Down Under](01_OSINT/hactoria_contract/down_under/README.md)
-* [Scan](02_Scan/README.md)
-* [Enumeration](03_Enumeration/README.md)
-* [Web](04_Web/README.md)
-* [PrivEsc](05_PrivEsc/README.md)
-  * [PrivEsc Linux](05_PrivEsc/Linux/README.md)
-  * [PrivEsc Windows](05_PrivEsc/Windows/README.md)
-* [Wireless](06_Wireless/README.md)
-* [Crypto](07_Crypto/README.md)
-* [Stego](08_Stego/README.md)
-* [Certifications](99_Learning_Certs/README.md)
 
+- [Easy](#easy)
+
+---
+
+## Easy
+
+* [Cold War Enemies](cold_war_enemies/README.md)
+* [Dialogues from Atlantis](dialogues_from_atlantis/README.md)
+
+---
+
+# Medium
+
+* [On the Wire](on_the_wire/README.md)
+* [The Spy who Vanished](spy_vanished/README.md)
+* [Road to Nowhere](road_nowhere/README.md)
+
+---
+
+# Hard
+
+* [Lost Down Under](down_under/README.md)
+
+---
+
+# Insane
