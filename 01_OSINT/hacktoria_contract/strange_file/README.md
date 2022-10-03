@@ -27,11 +27,13 @@ italy-veneto-verona-045-hot-pasta-sauce-paper-mill
 
 https://hacktoria.com/contracts/a-strange-file/
 
-# Magic Bytes
+# Analyze file
 
 Looking at the file it is hex and starts with "FFD8FF" and is split inside. 2 files ?
 
 ![](images/image000.png)
+
+# Magic Bytes
 
 ![](images/image001.png)
 
@@ -51,7 +53,9 @@ Looking at the file it is hex and starts with "FFD8FF" and is split inside. 2 fi
 
 ![](images/file002.jpg)
 
-# Gas station
+# Clues
+
+Gas station
 
 From both images seems that we are standing in a car repair garage (parts laying arround) and looking at the back of a petrol/gas station.
 
