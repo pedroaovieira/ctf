@@ -33,3 +33,6 @@
 ---
 
 # Insane
+
+* [Far Away Outpost](far_away_outpost/README.md)
+* [A Strange File](strange_file/README.md)
