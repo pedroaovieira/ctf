@@ -33,3 +33,5 @@
 ---
 
 # Insane
+
+* [A Strange File](strange_file/README.md)

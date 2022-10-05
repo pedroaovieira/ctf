@@ -80,6 +80,7 @@
 - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
 - <https://www.youtube.com/watch?v=z6ghArAWwWc>
 - IntelligenceX - <https://intelx.io/>
+- <https://osint.link/>
 
 ---
 
