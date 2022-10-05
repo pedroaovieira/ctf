@@ -59,6 +59,8 @@ L'Ecole du Parc
 
 Monaco-98000-Boulevard-de-Belgique-32
 
+![](images/image006.png)
+
 https://bit.ly/3qxVdsj
 
 ![](images/contract.png)

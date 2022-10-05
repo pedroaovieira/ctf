@@ -25,3 +25,6 @@ https://hacktoria.com/contracts/far-away-outpost/
 
 # 
 
+![](images/far-away-outpost-1.jpg)
+
+![](images/far-away-outpost-2.jpg)
