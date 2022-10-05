@@ -35,6 +35,13 @@ transmission number 458964983 needs multiplication with the geolocation answer t
 
 ---
 
+## Thoughts
+
+Images have several power lines.
+
+
+---
+
 ## Image 01
 
 ![](images/ldo-location-1.jpg)
@@ -58,6 +65,8 @@ St Martin de Porres Parish School
 
 ![](images/ldo-location-3.jpg)
 
+Tried looking at all the Vinnies in Melbourne/Victoria.
+
 ---
 
 ## Image 04
@@ -67,6 +76,8 @@ St Martin de Porres Parish School
 "How the locals like it"
 IGA
 supermarket
+
+Tried looking for IGA central deposits
 
 ---
 
