@@ -18,6 +18,7 @@
     - [Satelite](#satelite)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
+  - [Brands](#brands)
   - [PT](#pt)
   - [Find people](#find-people)
   - [Social Networking Recon](#social-networking-recon)
@@ -218,6 +219,11 @@
 - Google Alerts - <https://www.google.com/alerts>
 
 ---
+
+## Brands
+
+- <https://branddb.wipo.int/branddb/en/>
+
 
 ## PT
 
