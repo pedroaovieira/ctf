@@ -23,7 +23,7 @@ GEYTMIBRGE2CAOJXEAYTCMBAGEYTKIBRGA4SAMJQGUQDCMJVEAYTCNJAGEYDKIBRGEYSAMJRGAQDGMRA
 
 Decoded by
 
-![](hacktoria_contract_images/down_under_0001.png)
+![](images/down_under_0001.png)
 
 Into 
 
@@ -32,24 +32,24 @@ transmission number 458964983 needs multiplication with the geolocation answer t
 
 ## Image 01
 
-![](hacktoria_contract_images/ldo-location-1.jpg)
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1663957383193!6m8!1m7!1srta80Q3k_XjstpK5P_DQWg!2m2!1d-37.75907047158152!2d144.8607350901623!3f74.76441429800181!4f-7.998091258469074!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-https://goo.gl/maps/ytz15uuXur72A36U8
+![](images/ldo-location-1.jpg)
 
 ## Image 02
 
-![](hacktoria_contract_images/ldo-location-2.jpg)
+![](images/ldo-location-2.jpg)
+
+https://goo.gl/maps/ytz15uuXur72A36U8
+
+158 State Route 39
+Avondale Heights, Victoria
 
 ## Image 03
 
-![](hacktoria_contract_images/ldo-location-3.jpg)
+![](images/ldo-location-3.jpg)
 
 ## Image 04
 
-![](hacktoria_contract_images/ldo-location-4.jpg)
+![](images/ldo-location-4.jpg)
 
 "How the locals like it"
 IGA
@@ -58,12 +58,12 @@ supermarket
 
 ## Image 05
 
-![](hacktoria_contract_images/ldo-location-5.jpg)
+![](images/ldo-location-5.jpg)
 
 ## Image 06
 
-![](hacktoria_contract_images/ldo-location-6.jpg)
+![](images/ldo-location-6.jpg)
 
 ## Image 07
 
-![](hacktoria_contract_images/ldo-location-7.jpg)
+![](images/ldo-location-7.jpg)
