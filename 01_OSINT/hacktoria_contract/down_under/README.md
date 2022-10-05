@@ -25,7 +25,7 @@ Decoded by
 
 ![](images/down_under_0001.png)
 
-Into 
+Into the following text:
 
 transmission number 458964983 needs multiplication with the geolocation answer to unlock the file. add the first three letters of all streetnames in order at the end of the numbers. we will start operation kangaroo once all bombs are in place.
 
@@ -40,8 +40,11 @@ transmission number 458964983 needs multiplication with the geolocation answer t
 
 https://goo.gl/maps/ytz15uuXur72A36U8
 
-158 State Route 39
-Avondale Heights, Victoria
+
+St Martin de Porres Parish School
+158 Military Rd, Avondale Heights VIC 3034, Victoria, Australia
+171 State Road
+
 
 ## Image 03
 
