@@ -15,6 +15,7 @@
   - [Image Search Engines](#image-search-engines)
     - [Image Tools](#image-tools)
   - [Geolocation Recon](#geolocation-recon)
+  - [Geolocation Recon tips and tricks](#geolocation-recon-tips-and-tricks)
     - [Satelite](#satelite)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
@@ -83,7 +84,12 @@
 - IntelligenceX - <https://intelx.io/>
 - <https://osint.link/>
 
+- <https://www.aware-online.com/>
+
 - [Photo OSINT links](https://start.me/p/0PgzqO/photo-osint?locale=de)
+
+OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations
+<https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
 
 ---
 
@@ -97,6 +103,7 @@
 
 - <https://investigator.cybersoc.wales/>
 - <https://ctf.cybersoc.wales/>
+- <https://www.geoguessr.com/>
 
 ---
 
@@ -204,8 +211,36 @@
 
 - Google Maps - <https://www.google.com/maps>
 - Bing Maps - <https://www.bing.com/maps/>
+- https://zoom.earth/
 - Wikimapia - <https://wikimapia.org>
+- Sentinel Hub - <https://www.sentinel-hub.com/explore/sentinelplayground/>
+
+Sentinel Hub Playground: https://apps.sentinel-hub.com/sentine...
+Sentinel Hub EO Browser: https://apps.sentinel-hub.com/eo-browser
+
+Suncalc.org
+
+Google Street View: https://www.google.com/maps
+Apple Maps: https://www.apple.com/maps  
+Mapillary: https://www.mapillary.com
+Yandex: https://www.yandex.com/maps
+Baidu: https://www.map.baidu.com
+KartaView: https://www.kartaview.org
+
+
+Mountains - https://peakvisor.com/
+
+
+
+
+---
+
+## Geolocation Recon tips and tricks
+
 - Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
+- Guide to using reverse image - <https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/>
+
+---
 
 ### Satelite
 
