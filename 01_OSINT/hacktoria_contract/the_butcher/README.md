@@ -49,3 +49,7 @@ Still not getting the right string to use as password on the contract file :-(
 Try slowing the speech on Audacity.
 
 ![](images/image004.png)
+
+
+q4n7m9d5f47g384o942jf
+
