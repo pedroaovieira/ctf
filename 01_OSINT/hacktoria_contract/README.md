@@ -12,6 +12,8 @@
 
 * [Cold War Enemies](cold_war_enemies/README.md)
 * [Dialogues from Atlantis](dialogues_from_atlantis/README.md)
+* [The Butcher](the_butcher/README.md)
+* [Nightmare Fuel](nightmare_fuel/README.md)
 
 ---
 
