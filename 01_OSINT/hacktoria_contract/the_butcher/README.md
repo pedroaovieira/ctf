@@ -45,3 +45,7 @@ It's a voice saying something like:
 - Q4N7M9D5F47G384O942JF
 
 Still not getting the right string to use as password on the contract file :-(
+
+Try slowing the speech on Audacity.
+
+![](images/image004.png)
