@@ -2,13 +2,16 @@
 
 - [OSINT](#osint)
   - [External Resource](#external-resource)
-    - [Tools](#tools)
+    - [Tools list](#tools-list)
     - [Resources](#resources)
     - [Videos](#videos)
+    - [Solved OSINT Challenges](#solved-osint-challenges)
+    - [](#)
   - [Book](#book)
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
+  - [Browser Plugin](#browser-plugin)
   - [Search Engines](#search-engines)
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
@@ -61,7 +64,7 @@
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
   - [Canary Tokens](#canary-tokens)
-  - [Tools](#tools-1)
+  - [Tools](#tools)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
@@ -79,13 +82,17 @@
 
 ## External Resource
 
-### Tools
+### Tools list
 
 - Intel Techniques - <https://inteltechniques.com/tools/>
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
 - Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
 - OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
 - Curated List - <https://github.com/jivoi/awesome-osint>
+- OSINT Link - <https://osint.link/>
+- Aware Online - <https://www.aware-online.com/en/osint-tools/>
+
+- Photo OSINT - <https://start.me/p/0PgzqO/photo-osint>
 
 ### Resources
 
@@ -106,23 +113,17 @@
 - Penn State - OSINT The Art of Finding Information on Anyone - <https://www.youtube.com/watch?v=SvL9bpsY-ZQ>
 - Benjamin Strick - Bendobrown - OSINT At Home - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
 
+---
 
+### Solved OSINT Challenges
+
+- 0x4rkØ - Solved OSINT Challenges - <https://www.youtube.com/playlist?list=PLc_hdO4HVYGCg21E7lSQY6UltFigzwbbw>
 
 ---
 
-
-
-
+### 
 
 - IntelligenceX - <https://intelx.io/>
-
-- <https://osint.link/>
-
-- <https://www.aware-online.com/>
-
-- [Photo OSINT links](https://start.me/p/0PgzqO/photo-osint?locale=de)
-
-
 
 ---
 
@@ -156,6 +157,20 @@
 - REMnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 - Genymotion - <https://www.genymotion.com/download/>
 - CSILinux - <https://csilinux.com/>
+
+---
+
+## Browser Plugin
+
+- InVID - <https://weverify.eu/verification-plugin/>
+- Google Translate
+- Map Switcher
+- RevEye
+- Vortimo OSINT-tool - <https://www.vortimo.com/>
+- Vortimo UI
+- EXIF Viewer Pro
+- Search by Image - <https://github.com/dessant/search-by-image>
+- TinEye Reverse Image Search - <https://tineye.com/>
 
 ---
 
