@@ -72,6 +72,9 @@
 
 ## External Resource
 
+- <https://start.me/p/L1rEYQ/osint4all>
+- <https://www.osinttechniques.com/osint-tools.html>
+- <https://inteltechniques.com/tools/>
 - <https://github.com/cipher387/osint_stuff_tool_collection>
 - <https://osintframework.com/>
 - <https://www.osintdojo.com/resources/>
@@ -104,6 +107,7 @@ OSINT At Home - Tutorials on Digital Research, Verification and Open Source Inve
 - <https://investigator.cybersoc.wales/>
 - <https://ctf.cybersoc.wales/>
 - <https://www.geoguessr.com/>
+- <https://hacktoria.com/>
 
 ---
 
@@ -120,6 +124,7 @@ OSINT At Home - Tutorials on Digital Research, Verification and Open Source Inve
 - ThreatPursuit-VM - <https://github.com/mandiant/ThreatPursuit-VM>
 - REMnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 - Genymotion - <https://www.genymotion.com/download/>
+- CSILinux - <https://csilinux.com/>
 
 ---
 
@@ -694,3 +699,4 @@ Mountains - https://peakvisor.com/
 
 - <https://webbrowsertools.com/>
 - <https://browserleaks.com/>
+
