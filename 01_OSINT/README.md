@@ -18,8 +18,12 @@
   - [Image Search Engines](#image-search-engines)
     - [Image Tools](#image-tools)
   - [Geolocation Recon](#geolocation-recon)
-  - [Geolocation Recon tips and tricks](#geolocation-recon-tips-and-tricks)
+    - [Maps](#maps)
+    - [Street View](#street-view)
     - [Satelite](#satelite)
+    - [Misc tools](#misc-tools)
+  - [Geolocation Recon tips and tricks](#geolocation-recon-tips-and-tricks)
+    - [Satelite](#satelite-1)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [Brands](#brands)
@@ -77,37 +81,38 @@
 
 ### Tools
 
-- Inteltechniques - <https://inteltechniques.com/tools/>
+- Intel Techniques - <https://inteltechniques.com/tools/>
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
 - Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
-
-- <https://start.me/p/L1rEYQ/osint4all>
-- <https://github.com/jivoi/awesome-osint>
+- OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
+- Curated List - <https://github.com/jivoi/awesome-osint>
 
 ### Resources
 
-- <https://osintframework.com/>
-- <https://www.osintdojo.com/resources/>
-- <https://osintcurio.us/>
-
-
+- TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
+- OSINT Framework - <https://osintframework.com/>
+- OSINT Dojo - <https://www.osintdojo.com/resources/>
+- OSINT CURIOUS - <https://osintcurio.us/>
 
 ### Videos
 
+- TCM - Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! - <https://www.youtube.com/watch?v=qwA6MmbeGNo>
 - OSINT Dojo - <https://www.youtube.com/c/OSINTDojo>
+- OSINT Curious - <https://www.youtube.com/c/TheOSINTCuriousProject>
+- Network Chuck - Instagram OSINT - <https://www.youtube.com/watch?v=NWyqSbnsvGU>
+- David Bombal - OSINT: You can't hide - <https://www.youtube.com/watch?v=ImWJgDQ-_ek>
+- STOK - 10+ Free OSINT tools (secure yourself today!) - <https://www.youtube.com/watch?v=z6ghArAWwWc>
+- Sumsub - How to Stalk People Effectively and Legally Through OSINT - <https://www.youtube.com/watch?v=lF3yQFtYRBY>
+- Penn State - OSINT The Art of Finding Information on Anyone - <https://www.youtube.com/watch?v=SvL9bpsY-ZQ>
+- Benjamin Strick - Bendobrown - OSINT At Home - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
 
 
-- <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
-- <https://www.youtube.com/watch?v=z6ghArAWwWc>
 
-- OSINT At Home - Bendobrown - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+---
 
 
 
 
-- 
-- <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
-- <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
 
 - IntelligenceX - <https://intelx.io/>
 
@@ -123,7 +128,8 @@
 
 ## Book
 
-- OSINT Handbook 2020 - [link](OSINT_Handbook_2020.pdf)
+- OSINT Handbook 2020 - [link](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+- OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
 
 ---
 
@@ -239,29 +245,34 @@
 
 ## Geolocation Recon
 
+### Maps
+
 - Google Maps - <https://www.google.com/maps>
 - Bing Maps - <https://www.bing.com/maps/>
-- https://zoom.earth/
+- Yandex: <https://www.yandex.com/maps>
+- Baidu: <https://www.map.baidu.com>
+- Zoom Earth - <https://zoom.earth/>
 - Wikimapia - <https://wikimapia.org>
+- Apple Maps: <https://www.apple.com/maps>
+- KartaView: <https://www.kartaview.org>
+
+### Street View
+
+- Google Street View: <https://www.google.com/maps>
+- Mapillary: <https://www.mapillary.com>
+
+### Satelite
+
+- Satelite Tracking - <https://www.n2yo.com/>
 - Sentinel Hub - <https://www.sentinel-hub.com/explore/sentinelplayground/>
+- Sentinel Hub Playground - <http://apps.sentinel-hub.com/sentinel-playground/>
+- Sentinel Hub EO Browser - <https://www.sentinel-hub.com/explore/eobrowser/>
 
-Sentinel Hub Playground: https://apps.sentinel-hub.com/sentine...
-Sentinel Hub EO Browser: https://apps.sentinel-hub.com/eo-browser
+### Misc tools
 
-Suncalc.org
-
-Google Street View: https://www.google.com/maps
-Apple Maps: https://www.apple.com/maps  
-Mapillary: https://www.mapillary.com
-Yandex: https://www.yandex.com/maps
-Baidu: https://www.map.baidu.com
-KartaView: https://www.kartaview.org
-
-
-Mountains - https://peakvisor.com/
-
-
-
+- Mountains - <https://peakvisor.com/>
+- Sun Calc - <https://suncalc.org>
+- Open Infrastructure Map - <https://openinframap.org/>
 
 ---
 
@@ -293,6 +304,7 @@ Mountains - https://peakvisor.com/
 
 - <https://branddb.wipo.int/branddb/en/>
 
+---
 
 ## Portugal
 
@@ -381,13 +393,15 @@ Mountains - https://peakvisor.com/
 - NameChk - <https://namechk.com/>
 - WhatsMyName - <https://whatsmyname.app/>
 - NameCheckup - <https://namecheckup.com/>
+- KnowEM - <https://knowem.com/>
+- My Life - <https://www.mylife.com/>
 
 ## Personal Information
 
 - Social Bearing - <https://socialbearing.com/>
 - Peek You - <https://www.peekyou.com/>
 - Pipl - <https://pipl.com/>
-- KnowEM - <https://knowem.com/>
+- That's Them - <https://thatsthem.com>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
 - True Caller - <https://www.truecaller.com/>
