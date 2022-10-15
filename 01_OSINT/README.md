@@ -2,6 +2,9 @@
 
 - [OSINT](#osint)
   - [External Resource](#external-resource)
+    - [Tools](#tools)
+    - [Resources](#resources)
+    - [Videos](#videos)
   - [Book](#book)
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
@@ -20,7 +23,7 @@
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [Brands](#brands)
-  - [PT](#pt)
+  - [Portugal](#portugal)
   - [Find people](#find-people)
   - [Social Networking Recon](#social-networking-recon)
     - [Social Media](#social-media)
@@ -54,7 +57,7 @@
   - [Wifi](#wifi)
   - [WaybackMachine](#waybackmachine)
   - [Canary Tokens](#canary-tokens)
-  - [Tools](#tools)
+  - [Tools](#tools-1)
   - [Shodan, Censys, and Thingful](#shodan-censys-and-thingful)
     - [Shodan Guide](#shodan-guide)
       - [Shodan Dorks](#shodan-dorks)
@@ -72,27 +75,49 @@
 
 ## External Resource
 
+### Tools
+
+- Inteltechniques - <https://inteltechniques.com/tools/>
+- OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
+- Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
+
 - <https://start.me/p/L1rEYQ/osint4all>
-- <https://www.osinttechniques.com/osint-tools.html>
-- <https://inteltechniques.com/tools/>
-- <https://github.com/cipher387/osint_stuff_tool_collection>
+- <https://github.com/jivoi/awesome-osint>
+
+### Resources
+
 - <https://osintframework.com/>
 - <https://www.osintdojo.com/resources/>
-- <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
 - <https://osintcurio.us/>
-- <https://github.com/jivoi/awesome-osint>
+
+
+
+### Videos
+
+- OSINT Dojo - <https://www.youtube.com/c/OSINTDojo>
+
+
+- <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
+- <https://www.youtube.com/watch?v=z6ghArAWwWc>
+
+- OSINT At Home - Bendobrown - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+
+
+
+
+- 
 - <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
 - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
-- <https://www.youtube.com/watch?v=z6ghArAWwWc>
+
 - IntelligenceX - <https://intelx.io/>
+
 - <https://osint.link/>
 
 - <https://www.aware-online.com/>
 
 - [Photo OSINT links](https://start.me/p/0PgzqO/photo-osint?locale=de)
 
-OSINT At Home - Tutorials on Digital Research, Verification and Open Source Investigations
-<https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+
 
 ---
 
@@ -269,7 +294,7 @@ Mountains - https://peakvisor.com/
 - <https://branddb.wipo.int/branddb/en/>
 
 
-## PT
+## Portugal
 
 - Contracts - <https://www.base.gov.pt>
 - Search DRE - <https://dre.tretas.org>
