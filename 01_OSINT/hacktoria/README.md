@@ -3,6 +3,7 @@
 - [Hacktoria](#hacktoria)
   - [Practice](#practice)
     - [Geolocation](#geolocation)
+      - [Walkthroughs](#walkthroughs)
       - [Geolocation-01](#geolocation-01)
       - [Geolocation-02](#geolocation-02)
       - [Geolocation-03 - Incomplete](#geolocation-03---incomplete)
@@ -34,6 +35,12 @@
 ---
 
 ### Geolocation
+
+---
+
+#### Walkthroughs
+
+https://gralhix.wordpress.com/category/walkthroughs/
 
 ---
 

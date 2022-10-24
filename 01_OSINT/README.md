@@ -1,12 +1,13 @@
 # OSINT
 
 - [OSINT](#osint)
+  - [](#)
   - [External Resource](#external-resource)
     - [Tools list](#tools-list)
     - [Resources](#resources)
     - [Videos](#videos)
     - [Solved OSINT Challenges](#solved-osint-challenges)
-    - [](#)
+    - [](#-1)
   - [Book](#book)
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
@@ -80,12 +81,20 @@
 
 ---
 
+## 
+
+- <https://yoga.osint.ninja/>
+- <https://www.maltego.com/>
+
+---
+
 ## External Resource
 
 ### Tools list
 
 - Intel Techniques - <https://inteltechniques.com/tools/>
 - OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
+- Tec - <https://technisette.com/p/tutorials>
 - Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
 - OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
 - Curated List - <https://github.com/jivoi/awesome-osint>
@@ -98,8 +107,12 @@
 
 - TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
 - OSINT Framework - <https://osintframework.com/>
+- OSINT Framework - <https://osintframework.de/>
+- Technisette - <https://technisette.com/>
 - OSINT Dojo - <https://www.osintdojo.com/resources/>
 - OSINT CURIOUS - <https://osintcurio.us/>
+
+- Yoga - <https://yoga.osint.ninja/>
 
 ### Videos
 
@@ -140,6 +153,7 @@
 - <https://ctf.cybersoc.wales/>
 - <https://www.geoguessr.com/>
 - <https://hacktoria.com/>
+- <https://sourcing.games/>
 
 ---
 
@@ -270,6 +284,7 @@
 - Wikimapia - <https://wikimapia.org>
 - Apple Maps: <https://www.apple.com/maps>
 - KartaView: <https://www.kartaview.org>
+- Dual Maps - <http://data.mashedworld.com/dualmaps/>
 
 ### Street View
 
@@ -409,6 +424,7 @@
 - WhatsMyName - <https://whatsmyname.app/>
 - NameCheckup - <https://namecheckup.com/>
 - KnowEM - <https://knowem.com/>
+- User search - <https://usersearch.org>
 - My Life - <https://www.mylife.com/>
 
 ## Personal Information
@@ -416,6 +432,7 @@
 - Social Bearing - <https://socialbearing.com/>
 - Peek You - <https://www.peekyou.com/>
 - Pipl - <https://pipl.com/>
+- Family Tree - <https://familytreenow.com>
 - That's Them - <https://thatsthem.com>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
