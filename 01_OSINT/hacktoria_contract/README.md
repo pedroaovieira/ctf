@@ -1,23 +1,24 @@
 # Hacktoria Contracts
 
 - [Hacktoria Contracts](#hacktoria-contracts)
-- [Easy](#easy)
-- [Medium](#medium)
-- [Hard](#hard)
-- [Insane](#insane)
+  - [Easy](#easy)
+  - [Medium](#medium)
+  - [Hard](#hard)
+  - [Insane](#insane)
 
 ---
 
-# Easy
+## Easy
 
 * [Cold War Enemies](cold_war_enemies/README.md)
 * [Dialogues from Atlantis](dialogues_from_atlantis/README.md)
 * [The Butcher](the_butcher/README.md)
 * [Nightmare Fuel](nightmare_fuel/README.md)
+* [Intergalactic Warfare](intergalactic_warfare/README.md) - wip
 
 ---
 
-# Medium
+## Medium
 
 * [On the Wire](on_the_wire/README.md)
 * [The Spy who Vanished](spy_vanished/README.md)
@@ -25,15 +26,14 @@
 
 ---
 
-# Hard
+## Hard
 
 * [Lost Down Under](down_under/README.md)
-* [The Listeners](the_listeners/README.md)
-* [Far Away Outpost](far_away_outpost/README.md)
-
+* [The Listeners](the_listeners/README.md) - wip
+* [Far Away Outpost](far_away_outpost/README.md) - wip
 
 ---
 
-# Insane
+## Insane
 
-* [A Strange File](strange_file/README.md)
+* [A Strange File](strange_file/README.md) - wip

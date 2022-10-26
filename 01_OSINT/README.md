@@ -1,11 +1,18 @@
 # OSINT
 
 - [OSINT](#osint)
+  - [](#)
   - [External Resource](#external-resource)
+    - [Tools list](#tools-list)
+    - [Resources](#resources)
+    - [Videos](#videos)
+    - [Solved OSINT Challenges](#solved-osint-challenges)
+    - [](#-1)
   - [Book](#book)
   - [Challenges](#challenges)
   - [Local IP](#local-ip)
   - [VMs](#vms)
+  - [Browser Plugin](#browser-plugin)
   - [Search Engines](#search-engines)
   - [Google Dorks](#google-dorks)
     - [Operators](#operators)
@@ -15,11 +22,16 @@
   - [Image Search Engines](#image-search-engines)
     - [Image Tools](#image-tools)
   - [Geolocation Recon](#geolocation-recon)
+    - [Maps](#maps)
+    - [Street View](#street-view)
     - [Satelite](#satelite)
+    - [Misc tools](#misc-tools)
+  - [Geolocation Recon tips and tricks](#geolocation-recon-tips-and-tricks)
+    - [Satelite](#satelite-1)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [Brands](#brands)
-  - [PT](#pt)
+  - [Portugal](#portugal)
   - [Find people](#find-people)
   - [Social Networking Recon](#social-networking-recon)
     - [Social Media](#social-media)
@@ -69,27 +81,69 @@
 
 ---
 
+## 
+
+- <https://yoga.osint.ninja/>
+- <https://www.maltego.com/>
+
+---
+
 ## External Resource
 
-- <https://github.com/cipher387/osint_stuff_tool_collection>
-- <https://osintframework.com/>
-- <https://www.osintdojo.com/resources/>
-- <https://www.youtube.com/channel/UChbp7r-Lezl1CBNQWBDYGeQ>
-- <https://osintcurio.us/>
-- <https://github.com/jivoi/awesome-osint>
-- <https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf>
-- <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
-- <https://www.youtube.com/watch?v=z6ghArAWwWc>
-- IntelligenceX - <https://intelx.io/>
-- <https://osint.link/>
+### Tools list
 
-- [Photo OSINT links](https://start.me/p/0PgzqO/photo-osint?locale=de)
+- Intel Techniques - <https://inteltechniques.com/tools/>
+- OSINT Techniques - <https://www.osinttechniques.com/osint-tools.html>
+- Tec - <https://technisette.com/p/tutorials>
+- Cyber Detective - <https://github.com/cipher387/osint_stuff_tool_collection>
+- OSINT4ALL - <https://start.me/p/L1rEYQ/osint4all>
+- Curated List - <https://github.com/jivoi/awesome-osint>
+- OSINT Link - <https://osint.link/>
+- Aware Online - <https://www.aware-online.com/en/osint-tools/>
+
+- Photo OSINT - <https://start.me/p/0PgzqO/photo-osint>
+
+### Resources
+
+- TCM - <https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources>
+- OSINT Framework - <https://osintframework.com/>
+- OSINT Framework - <https://osintframework.de/>
+- Technisette - <https://technisette.com/>
+- OSINT Dojo - <https://www.osintdojo.com/resources/>
+- OSINT CURIOUS - <https://osintcurio.us/>
+
+- Yoga - <https://yoga.osint.ninja/>
+
+### Videos
+
+- TCM - Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! - <https://www.youtube.com/watch?v=qwA6MmbeGNo>
+- OSINT Dojo - <https://www.youtube.com/c/OSINTDojo>
+- OSINT Curious - <https://www.youtube.com/c/TheOSINTCuriousProject>
+- Network Chuck - Instagram OSINT - <https://www.youtube.com/watch?v=NWyqSbnsvGU>
+- David Bombal - OSINT: You can't hide - <https://www.youtube.com/watch?v=ImWJgDQ-_ek>
+- STOK - 10+ Free OSINT tools (secure yourself today!) - <https://www.youtube.com/watch?v=z6ghArAWwWc>
+- Sumsub - How to Stalk People Effectively and Legally Through OSINT - <https://www.youtube.com/watch?v=lF3yQFtYRBY>
+- Penn State - OSINT The Art of Finding Information on Anyone - <https://www.youtube.com/watch?v=SvL9bpsY-ZQ>
+- Benjamin Strick - Bendobrown - OSINT At Home - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+
+---
+
+### Solved OSINT Challenges
+
+- 0x4rkØ - Solved OSINT Challenges - <https://www.youtube.com/playlist?list=PLc_hdO4HVYGCg21E7lSQY6UltFigzwbbw>
+
+---
+
+### 
+
+- IntelligenceX - <https://intelx.io/>
 
 ---
 
 ## Book
 
-- OSINT Handbook 2020 - [link](OSINT_Handbook_2020.pdf)
+- OSINT Handbook 2020 - [link](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
+- OSINT Handbook 2020 (local) - [link](OSINT_Handbook_2020.pdf)
 
 ---
 
@@ -97,6 +151,9 @@
 
 - <https://investigator.cybersoc.wales/>
 - <https://ctf.cybersoc.wales/>
+- <https://www.geoguessr.com/>
+- <https://hacktoria.com/>
+- <https://sourcing.games/>
 
 ---
 
@@ -113,6 +170,21 @@
 - ThreatPursuit-VM - <https://github.com/mandiant/ThreatPursuit-VM>
 - REMnux - <https://docs.remnux.org/install-distro/get-virtual-appliance>
 - Genymotion - <https://www.genymotion.com/download/>
+- CSILinux - <https://csilinux.com/>
+
+---
+
+## Browser Plugin
+
+- InVID - <https://weverify.eu/verification-plugin/>
+- Google Translate
+- Map Switcher
+- RevEye
+- Vortimo OSINT-tool - <https://www.vortimo.com/>
+- Vortimo UI
+- EXIF Viewer Pro
+- Search by Image - <https://github.com/dessant/search-by-image>
+- TinEye Reverse Image Search - <https://tineye.com/>
 
 ---
 
@@ -202,10 +274,44 @@
 
 ## Geolocation Recon
 
+### Maps
+
 - Google Maps - <https://www.google.com/maps>
 - Bing Maps - <https://www.bing.com/maps/>
+- Yandex: <https://www.yandex.com/maps>
+- Baidu: <https://www.map.baidu.com>
+- Zoom Earth - <https://zoom.earth/>
 - Wikimapia - <https://wikimapia.org>
+- Apple Maps: <https://www.apple.com/maps>
+- KartaView: <https://www.kartaview.org>
+- Dual Maps - <http://data.mashedworld.com/dualmaps/>
+
+### Street View
+
+- Google Street View: <https://www.google.com/maps>
+- Mapillary: <https://www.mapillary.com>
+
+### Satelite
+
+- Satelite Tracking - <https://www.n2yo.com/>
+- Sentinel Hub - <https://www.sentinel-hub.com/explore/sentinelplayground/>
+- Sentinel Hub Playground - <http://apps.sentinel-hub.com/sentinel-playground/>
+- Sentinel Hub EO Browser - <https://www.sentinel-hub.com/explore/eobrowser/>
+
+### Misc tools
+
+- Mountains - <https://peakvisor.com/>
+- Sun Calc - <https://suncalc.org>
+- Open Infrastructure Map - <https://openinframap.org/>
+
+---
+
+## Geolocation Recon tips and tricks
+
 - Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
+- Guide to using reverse image - <https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/>
+
+---
 
 ### Satelite
 
@@ -228,8 +334,9 @@
 
 - <https://branddb.wipo.int/branddb/en/>
 
+---
 
-## PT
+## Portugal
 
 - Contracts - <https://www.base.gov.pt>
 - Search DRE - <https://dre.tretas.org>
@@ -316,13 +423,17 @@
 - NameChk - <https://namechk.com/>
 - WhatsMyName - <https://whatsmyname.app/>
 - NameCheckup - <https://namecheckup.com/>
+- KnowEM - <https://knowem.com/>
+- User search - <https://usersearch.org>
+- My Life - <https://www.mylife.com/>
 
 ## Personal Information
 
 - Social Bearing - <https://socialbearing.com/>
 - Peek You - <https://www.peekyou.com/>
 - Pipl - <https://pipl.com/>
-- KnowEM - <https://knowem.com/>
+- Family Tree - <https://familytreenow.com>
+- That's Them - <https://thatsthem.com>
 - Intelius - <https://www.intelius.com/>
 - Sync me - <https://sync.me/>
 - True Caller - <https://www.truecaller.com/>
@@ -659,3 +770,4 @@
 
 - <https://webbrowsertools.com/>
 - <https://browserleaks.com/>
+

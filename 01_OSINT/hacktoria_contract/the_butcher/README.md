@@ -36,20 +36,9 @@ Listening to the file in Audacity
 
 ![](images/image003.png)
 
-It's a voice saying something like: 
-- q4n7m95f47ge384o942jf
-- q4n7m9d5f47ge384o942jf
-- q4n7m9d5f47ge3840942jf
-- Q4N7M9D5F47GE384O942JF
-- q4n7m95f47g384o942jf
-- Q4N7M9D5F47G384O942JF
+It's a voice saying: 
+- fgjkaergnadrmgkhngadrgle
 
-Still not getting the right string to use as password on the contract file :-(
+https://bit.ly/3EyudkI
 
-Try slowing the speech on Audacity.
-
-![](images/image004.png)
-
-
-q4n7m9d5f47g384o942jf
-
+![](images/contract.png)
