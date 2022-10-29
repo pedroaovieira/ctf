@@ -743,6 +743,8 @@
 - PrivadoVPN - <https://privadovpn.com/>
 - Windscribe - <https://windscribe.com>
 
+Always check everything is working correctly by confirming - <https://mylocation.org/>
+
 ---
 
 ## DNS Leak
