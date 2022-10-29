@@ -740,6 +740,8 @@
 ## VPN
 
 - ProtonVPN - <https://protonvpn.com/>
+- PrivadoVPN - <https://privadovpn.com/>
+- Windscribe - <https://windscribe.com>
 
 ---
 
