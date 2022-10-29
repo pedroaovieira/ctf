@@ -339,6 +339,7 @@
 ## Portugal
 
 - Contracts - <https://www.base.gov.pt>
+- Publicações Min. Justiça <https://publicacoes.mj.pt/Pesquisa.aspx>
 - Search DRE - <https://dre.tretas.org>
 - Penhorados - <https://www.pesquisabenspenhorados.com/leiloes-vendas-financas/default.aspx>
 - Automovel - Pedido da Certidão Permanente do Registo Automóvel dos Registos em Vigor - <https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController>
