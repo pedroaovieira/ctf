@@ -16,3 +16,18 @@
 - [Fireshot] - <https://chrome.google.com/webstore/category/extensions>
 - [Video Download Helper] - <https://chrome.google.com/webstore/category/extensions>
 - [Change Geolocation] - <https://chrome.google.com/webstore/category/extensions>
+
+invid verify
+vortimo osint-tool
+reveye
+tineye
+map switcher
+exif viewer pro
+google translate
+vortimo browser extension
+data miner scraper https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/
+hunter.io
+vlc video downloader
+
+
+https://www.osintcombine.com/osint-bookmarks
