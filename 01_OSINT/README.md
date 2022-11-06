@@ -78,6 +78,10 @@
     - [Sock Puppets Tutorials](#sock-puppets-tutorials)
   - [Scams](#scams)
   - [Browser OSINT](#browser-osint)
+  - [Browser Add-ons](#browser-add-ons)
+  - [Location Guard link](#location-guard-link)
+  - [Firefox](#firefox)
+  - [Chrome](#chrome)
 
 ---
 
@@ -767,12 +771,64 @@ Always check everything is working correctly by confirming - <https://mylocation
 - The Art Of The Sock - <https://www.secjuice.com/the-art-of-the-sock-osint-humint/>
 - My Process for Setting up Anonymous Sock Puppet Accounts - <https://garrettmickley.com/sockpuppet-account-creation/>
 
+---
+
 ## Scams
 
 - Scam Digger -  <https://scamdigger.com>
+
+---
 
 ## Browser OSINT
 
 - <https://webbrowsertools.com/>
 - <https://browserleaks.com/>
 
+---
+
+## Browser Add-ons
+
+## Location Guard [link](https://mybrowseraddon.com/change-geolocation.html)
+
+- Change current geolocation
+
+
+
+
+## Firefox
+
+- [uBlock Origin] - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/>
+- [Multi-Account Containers] - <https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/>
+- [Wayback Machine] - <https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/>
+- [Fireshot] - <https://addons.mozilla.org/en-US/firefox/addon/fireshot/>
+- [Translate] - <https://addons.mozilla.org/en-US/firefox/addon/simple-translate/>
+- [Video Download Helper] - <https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/>
+- [Netcraft] - <https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/>
+- [IP Address and Domain] - <https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/>
+- [Shodan] - <https://addons.mozilla.org/en-US/firefox/addon/shodan-addon/>
+- [Firefox Relay] - <https://addons.mozilla.org/en-US/firefox/addon/private-relay/>
+
+
+## Chrome
+
+- [Google Translate] - <https://chrome.google.com/webstore/category/extensions>
+- [User-Agent Swircher for Chrome] - <https://chrome.google.com/webstore/category/extensions>
+- [Wayback Machine] - <https://chrome.google.com/webstore/category/extensions>
+- [Fireshot] - <https://chrome.google.com/webstore/category/extensions>
+- [Video Download Helper] - <https://chrome.google.com/webstore/category/extensions>
+- [Change Geolocation] - <https://chrome.google.com/webstore/category/extensions>
+
+invid verify
+vortimo osint-tool
+reveye
+tineye
+map switcher
+exif viewer pro
+google translate
+vortimo browser extension
+data miner scraper https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/
+hunter.io
+vlc video downloader
+Full Page Screen Capture: https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en-GB
+
+https://www.osintcombine.com/osint-bookmarks

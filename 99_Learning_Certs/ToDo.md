@@ -2,20 +2,9 @@
 
 - [Tranings and Certifications](#tranings-and-certifications)
   - [Certifications](#certifications)
-    - [Pluralsight](#pluralsight)
-      - [Hack Yourself First: How to go on the Cyber-Offense](#hack-yourself-first-how-to-go-on-the-cyber-offense)
-    - [CEH](#ceh)
-      - [Code Red](#code-red)
-    - [TCM-SEC](#tcm-sec)
-      - [Practical Ethical Hacking - The Complete Course (100%)](#practical-ethical-hacking---the-complete-course-100)
-      - [Windows Privilege Escalation for Beginners](#windows-privilege-escalation-for-beginners)
-      - [Linux Privilege Escalation for Beginners](#linux-privilege-escalation-for-beginners)
-      - [Movement, Pivoting and Persistence](#movement-pivoting-and-persistence)
-      - [Linux 101 (21%)](#linux-101-21)
-      - [Mobile Application Penetration Testing](#mobile-application-penetration-testing)
-      - [Practical Web Application Security and Testing](#practical-web-application-security-and-testing)
-      - [Practical Malware Analysis & Triage (4%)](#practical-malware-analysis--triage-4)
-      - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)](#open-source-intelligence-osint-in-5-hours---full-course---learn-osint-100)
+      - [OSINT (Review)](#osint-review)
+      - [OSINT - Open-source Intelligence (8h)](#osint---open-source-intelligence-8h)
+      - [OSINT Level 2 (8h)](#osint-level-2-8h)
     - [IT Pro TV](#it-pro-tv)
       - [Hands-on Hacking (100%) (14h)](#hands-on-hacking-100-14h)
       - [Certified Ethical Hacker (CEH) v11](#certified-ethical-hacker-ceh-v11)
@@ -32,10 +21,8 @@
     - [Udemy](#udemy)
       - [Real-World Ethical Hacking: Hands-on Cybersecurity](#real-world-ethical-hacking-hands-on-cybersecurity)
       - [CompTIA CySA+ (CS0-002) Complete Course & Practice Exam](#comptia-cysa-cs0-002-complete-course--practice-exam)
-      - [Intro to Bug Bounty (40%)](#intro-to-bug-bounty-40)
     - [THM Advent of Cyber](#thm-advent-of-cyber)
     - [Ignite Cheatsheet](#ignite-cheatsheet)
-    - [Defending Can Bus](#defending-can-bus)
     - [Penetration Testing Student (eJPT)](#penetration-testing-student-ejpt)
     - [Burp Suite Certification](#burp-suite-certification)
 
@@ -43,125 +30,25 @@
 
 ## Certifications
 
-CEH - <https://aspen.eccouncil.org/>
+eLearnSecurity - <https://elearnsecurity.com/>
 
 TCM-SEC - <https://certifications.tcm-sec.com/>
 
-Offensive Security - <https://www.offensive-security.com/>
-
-SANS - <https://www.sans.org/emea/>
-
-GIAC - <https://www.giac.org/>
-
-COMPTIA - <https://www.comptia.org/>
-
-eLearnSecurity - <https://elearnsecurity.com/>
+AWS - 
 
 ---
 
-### Pluralsight
-
-#### Hack Yourself First: How to go on the Cyber-Offense
-
-{% embed url="https://www.pluralsight.com/courses/hack-yourself-first" %}
-
 ---
 
-### CEH
+#### OSINT (Review)
 
-Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
+#### OSINT - Open-source Intelligence (8h)
 
----
+- <https://codered.eccouncil.org/course/osint-open-source-intelligence>
 
-#### Code Red
+#### OSINT Level 2 (8h)
 
-<https://codered.eccouncil.org/>
-
-- OSINT - Open-source Intelligence
-(8h)
-
-- OSINT Level 2
-(7h)
-
-- Reverse Engineering - Part 1
-(4h)
-
-- [Reverse 2]
-(4h)
-
----
-
-### TCM-SEC
-
-#### Practical Ethical Hacking - The Complete Course (100%)
-
-[TCM-Sec]
-(25h)
-<https://academy.tcm-sec.com/courses/enrolled/1152300>
-
----
-
-#### Windows Privilege Escalation for Beginners
-
-[TCM-Sec]
-(7h)
-<https://academy.tcm-sec.com/courses/enrolled/1154361>
-
----
-
-#### Linux Privilege Escalation for Beginners
-
-[TCM-Sec]
-(6.5h)
-<https://academy.tcm-sec.com/courses/enrolled/1154399>
-
----
-
-#### Movement, Pivoting and Persistence
-
-[TCM-Sec]
-(5h)
-<https://academy.tcm-sec.com/courses/enrolled/1444641>
-
----
-
-#### Linux 101 (21%)
-
-[TCM-Sec]
-(5.5h)
-<https://academy.tcm-sec.com/courses/enrolled/1552914>
-
----
-
-#### Mobile Application Penetration Testing
-
-[TCM-Sec]
-(7h)
-<https://academy.tcm-sec.com/courses/enrolled/1557555>
-
----
-
-#### Practical Web Application Security and Testing
-
-[TCM-Sec]
-(9h)
-<https://academy.tcm-sec.com/courses/enrolled/1792341>
-
----
-
-#### Practical Malware Analysis & Triage (4%)
-
-[TCM-Sec]
-(9h)
-<https://academy.tcm-sec.com/courses/enrolled/1547503>
-
----
-
-#### Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT! (100%)
-
-[TCM-Sec]
-(4,5h)
-<https://www.youtube.com/watch?v=qwA6MmbeGNo>
+- <https://codered.eccouncil.org/course/osint-level-2>
 
 ---
 
@@ -254,14 +141,6 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 
 ---
 
-#### Intro to Bug Bounty (40%)
-
-[Nahamsec]
-(5h)
-<https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/learn/lecture/24998026#content>
-
----
-
 ### THM Advent of Cyber
 
 - <https://tryhackme.com/room/adventofcyber3> day 7; 18;19
@@ -279,14 +158,6 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 ---
 
 ### Ignite Cheatsheet
-
----
-
-### Defending Can Bus
-
-[Ken Tindel]
-(40min)
-<https://www.youtube.com/playlist?list=PLUK9gNqk6nQxoNGavGxk1NdqCQmDqKPK2>
 
 ---
 
