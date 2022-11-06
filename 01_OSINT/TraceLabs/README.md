@@ -5,7 +5,16 @@
   - [Date and time](#date-and-time)
   - [Communications](#communications)
   - [Event Schedule (In UTC Time)](#event-schedule-in-utc-time)
-
+  - [How to Prepare for the Event](#how-to-prepare-for-the-event)
+    - [1. Review the Trace Labs OSINT Search Party Training Video Series](#1-review-the-trace-labs-osint-search-party-training-video-series)
+    - [2. Recommended to check out the OSINT Combine Trace Labs Foundation OSINT Course](#2-recommended-to-check-out-the-osint-combine-trace-labs-foundation-osint-course)
+    - [3. Recommended to check out Joe Gray's TheOSINTion's LIVE "Introduction to People OSINT/Missing Persons OSINT" course](#3-recommended-to-check-out-joe-grays-theosintions-live-introduction-to-people-osintmissing-persons-osint-course)
+    - [4. Have a personal pc/laptop ready to use](#4-have-a-personal-pclaptop-ready-to-use)
+    - [5. Get on boarded to the OSINT Search Party CTF platform](#5-get-on-boarded-to-the-osint-search-party-ctf-platform)
+    - [6. Follow us on Twitter and Linkedin to stay up to date with other event related communications](#6-follow-us-on-twitter-and-linkedin-to-stay-up-to-date-with-other-event-related-communications)
+    - [7. Prepare Your "Work Environment" ahead of time to help you stay anonymous when gathering OSINT on the missing persons at the event](#7-prepare-your-work-environment-ahead-of-time-to-help-you-stay-anonymous-when-gathering-osint-on-the-missing-persons-at-the-event)
+    - [8. Write-Ups](#8-write-ups)
+    - [9. Guide](#9-guide)
 ---
 
 ## About this event
@@ -85,8 +94,14 @@ This series covers:
     NOTE: We strongly advise against being logged into your own personal social media account when viewing profiles of missing persons
 
 
-
+### 8. Write-Ups
 
 [Write-Ups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
 
-<https://youtu.be/3KPO58wkw7M>
+- <https://aaroncti.com/trace-labs-august-2020/>
+
+### 9. Guide
+
+[Hactoria Guide](guide.md)
+
+![Michael Bazzell’s OSINT Flowcharts](images/guide.png)

@@ -8,6 +8,8 @@
       - [Trace Labs OISNT Foundations Course](#trace-labs-oisnt-foundations-course)
     - [TCM-SEC](#tcm-sec)
       - [PNPT](#pnpt)
+    - [Joe Gray](#joe-gray)
+      - [Workshop: 2 Hour People OSINT Walkthrough](#workshop-2-hour-people-osint-walkthrough)
 
 ---
 
@@ -37,10 +39,14 @@
 
 - <https://academy.tcm-sec.com/courses/pnpt-live/lectures/41822678>
 
+---
 
+### Joe Gray 
 
+#### Workshop: 2 Hour People OSINT Walkthrough
 
+- Free 2 hr condensed version of course from conINT 2020 can be viewed here: <https://www.youtube.com/watch?v=EePeB9A2ZAk>
 
+- Course Details: <https://www.theosintion.com/courses/osint-investigations-people/>
 
-    Free 2 hr condensed version of course from conINT 2020 can be viewed here: <https://www.youtube.com/watch?v=EePeB9A2ZAk>
-    Course Details: <https://www.theosintion.com/courses/osint-investigations-people/>
+---
