@@ -1,4 +1,4 @@
-# Hacktoria - The Butcher
+# Hacktoria - Nightmare Fuel
 
 # Hacktoria
 
@@ -22,8 +22,9 @@ https://hacktoria.com/contracts/nightmare-fuel/
 
 [Video](images/bodycam-officer-1.mp4)
 
-# Metadata on the video
+---
 
+# Metadata on the video
 
 ![](images/image001.png)
 
