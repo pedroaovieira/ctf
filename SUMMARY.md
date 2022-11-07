@@ -18,7 +18,7 @@
   * [OSINT Combine](01_OSINT/OSINT_Combine/README.md)
   * [Shodan](01_OSINT/shodan/README.md)
   * [Hacktoria](01_OSINT/hacktoria/README.md)
-  * [Hacktoria - Contracts](01_OSINT/hacktoria_contract/README.md)
+  * [Hacktoria - Contracts](01_OSINT/hacktoria/hacktoria_contract/README.md)
 
 * [Scan](02_Scan/README.md)
 * [Enumeration](03_Enumeration/README.md)
