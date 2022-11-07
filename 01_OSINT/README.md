@@ -1,7 +1,9 @@
 # OSINT
 
 - [OSINT](#osint)
+  - [Starting point](#starting-point)
   - [OSINT Bookmarks](#osint-bookmarks)
+  - [Too see](#too-see)
   - [External Resource](#external-resource)
     - [Tools list](#tools-list)
     - [Resources](#resources)
@@ -83,13 +85,20 @@
 
 ---
 
+## Starting point
+
+- [Training](01_training.md)
+- [OSINT Guide](02_guide.md)
+
+---
+
 ## OSINT Bookmarks
 
 - OSINT Combine - <https://www.osintcombine.com/osint-bookmarks>
 
 ---
 
-##
+## Too see
 
 - <https://yoga.osint.ninja/>
 - <https://www.maltego.com/>

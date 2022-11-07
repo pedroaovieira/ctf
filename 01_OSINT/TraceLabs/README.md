@@ -93,7 +93,6 @@ This series covers:
 
     NOTE: We strongly advise against being logged into your own personal social media account when viewing profiles of missing persons
 
-
 ### 8. Write-Ups
 
 [Write-Ups](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)
@@ -101,7 +100,5 @@ This series covers:
 - <https://aaroncti.com/trace-labs-august-2020/>
 
 ### 9. Guide
-
-[Hactoria Guide](guide.md)
 
 ![Michael Bazzell’s OSINT Flowcharts](images/guide.png)
