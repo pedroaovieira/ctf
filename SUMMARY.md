@@ -12,7 +12,7 @@
 * [Tools](00_Tools/README.md)
 
 * [OSINT](01_OSINT/README.md)
-  * [Trainning[(01_OSINT/trainning.md)
+  * [Trainning](01_OSINT/01_trainning.md)
   * [OSINT - Beware. Your data is out there.](01_OSINT/presentation/README.md)
   * [Trace Labs](01_OSINT/TraceLabs/README.md)
   * [OSINT Combine](01_OSINT/OSINT_Combine/README.md)
