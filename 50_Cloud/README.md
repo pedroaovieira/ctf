@@ -50,6 +50,11 @@
 - <https://n0j.github.io/2017/10/02/aws-s3-ctf.html>
 - <https://world.hey.com/alois/aws-capture-the-flag-write-up-e64fa089>
 
+- <https://github.com/mzet-/ctf-writeups/blob/master/flaws.cloud/flaws.cloud.md>
+- <https://micrictor.github.io/flAWS/>
+- <https://blog.welcomethrill.house/2021/03/flawscloud-experience-and-write-up.html>
+- <https://blog.pwne.rs/post/flaws/>
+
 ---
 
 ## VMs
