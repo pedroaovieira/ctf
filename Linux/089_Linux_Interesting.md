@@ -28,4 +28,4 @@
 
 -**/var/log/httpd/access.log** - Apache access log file typical path.
 
--**/etc/fstab** - File system mounts. 
+-**/etc/fstab** - File system mounts.

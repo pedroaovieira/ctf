@@ -28,7 +28,6 @@
     - [Satelite](#satelite)
     - [Misc tools](#misc-tools)
   - [Geolocation Recon tips and tricks](#geolocation-recon-tips-and-tricks)
-    - [Satelite](#satelite-1)
     - [3 word location](#3-word-location)
   - [Google Alerts](#google-alerts)
   - [Brands](#brands)
@@ -81,7 +80,7 @@
   - [Browser OSINT](#browser-osint)
   - [Firefox](#firefox)
   - [Chrome](#chrome)
-  - [Search Engines](#search-engines-1)
+  - [Search Engines List](#search-engines-list)
 
 ---
 
@@ -318,6 +317,9 @@
 - Sentinel Hub Playground - <http://apps.sentinel-hub.com/sentinel-playground/>
 - Sentinel Hub EO Browser - <https://www.sentinel-hub.com/explore/eobrowser/>
 
+- World Imagery - <https://livingatlas.arcgis.com/>
+- World Imagery Wayback - <https://livingatlas.arcgis.com/wayback/>
+
 ### Misc tools
 
 - Mountains - <https://peakvisor.com/>
@@ -330,13 +332,6 @@
 
 - Tips, Tricks and Techniques - <https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/>
 - Guide to using reverse image - <https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/>
-
----
-
-### Satelite
-
-- World Imagery - <https://livingatlas.arcgis.com/>
-- World Imagery Wayback - <https://livingatlas.arcgis.com/wayback/>
 
 ### 3 word location
 
@@ -826,24 +821,22 @@ Always check everything is working correctly by confirming - <https://mylocation
 - [Video Download Helper] - <https://chrome.google.com/webstore/category/extensions>
 - [Change Geolocation] - <https://chrome.google.com/webstore/category/extensions>
 
-invid verify
-vortimo osint-tool
-reveye
-tineye
-map switcher
-exif viewer pro
-google translate
-vortimo browser extension
-data miner scraper https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/
-hunter.io
-vlc video downloader
-Full Page Screen Capture: https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en-GB
-
-
+- invid verify
+- vortimo osint-tool
+- reveye
+- tineye
+- map switcher
+- exif viewer pro
+- google translate
+- vortimo browser extension
+- data miner scraper <https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/>
+- hunter.io
+- vlc video downloader
+- Full Page Screen Capture: <https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en-GB>
 
 ---
 
-## Search Engines
+## Search Engines List
 
 1. Dehashed—View leaked credentials.
 2. SecurityTrails—Extensive DNS data.
@@ -875,4 +868,3 @@ Full Page Screen Capture: https://chrome.google.com/webstore/detail/gofullpage-f
 28. IntelligenceX—Search Tor, I2P, data leaks, domains, and emails.
 29. Packet Storm Security—Browse latest vulnerabilities and exploits.
 30. SearchCode—Search 75 billion lines of code from 40 million projects.
-
