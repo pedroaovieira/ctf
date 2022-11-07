@@ -102,6 +102,7 @@
 
 - <https://yoga.osint.ninja/>
 - <https://www.maltego.com/>
+- <https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc>
 - IntelligenceX - <https://intelx.io/>
 
 ---
@@ -143,6 +144,7 @@
 - Sumsub - How to Stalk People Effectively and Legally Through OSINT - <https://www.youtube.com/watch?v=lF3yQFtYRBY>
 - Penn State - OSINT The Art of Finding Information on Anyone - <https://www.youtube.com/watch?v=SvL9bpsY-ZQ>
 - Benjamin Strick - Bendobrown - OSINT At Home - <https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy>
+- conINT - <https://www.youtube.com/c/conINT_io>
 
 ---
 

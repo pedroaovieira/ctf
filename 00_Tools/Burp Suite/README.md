@@ -2,7 +2,8 @@
 
 - [Burp Suite](#burp-suite)
   - [External Resource](#external-resource)
-    - [Install certificate](#install-certificate)
+  - [Install certificate](#install-certificate)
+  - [Videos](#videos)
 
 ---
 
@@ -12,8 +13,12 @@
 
 ---
 
-### Install certificate
+## Install certificate
 
 - Installing Burp's CA certificate - <https://portswigger.net/burp/documentation/desktop/external-browser-config/certificate>
 
 ---
+
+## Videos
+
+- <https://www.youtube.com/c/RanaKhalil101>
