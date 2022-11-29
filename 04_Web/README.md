@@ -1,5 +1,7 @@
 # Web <https://tryhackme.com/module/intro-to-web-hacking>
 
+https://github.com/OWASP/wstg/tree/master/document
+
 ## Walking An Application
 
 ## Content Discovery
