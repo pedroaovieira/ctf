@@ -1,1 +1,1 @@
-[Moved](https://github.com/pedroaovieira/osint)
+[Moved to https://github.com/pedroaovieira/osint](https://github.com/pedroaovieira/osint)
