@@ -1,6 +1,6 @@
-# AWS
+# IoT
 
-- [AWS](#aws)
+- [IoT](#iot)
   - [Starting point](#starting-point)
   - [External Resource](#external-resource)
     - [Tools list](#tools-list)
