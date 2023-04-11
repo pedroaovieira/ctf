@@ -13,7 +13,7 @@
 
 ## Certifications
 
-- [link](training_certifications.md)
+- [link](https://github.com/pedroaovieira/ctf/blob/main/99_Learning_Certs/README.md)
 
 ---
 
