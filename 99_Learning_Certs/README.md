@@ -131,6 +131,8 @@ Notes - <https://app.gitbook.com/s/-MO2nS1JusVF7PXAjY3d/>
 (5.5h)
 <https://academy.tcm-sec.com/courses/enrolled/1552914>
 
+<https://github.com/beskridge/Linux101-Resources>
+
 ---
 
 #### Mobile Application Penetration Testing
