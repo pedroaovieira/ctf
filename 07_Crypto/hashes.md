@@ -12,6 +12,8 @@
 
 [hash-analyzer] - <https://www.tunnelsup.com/hash-analyzer/>
 
+[Name-That-Hash] - <https://github.com/HashPals/Name-That-Hash>
+
 ## Hash type identifier
 
 <https://pypi.org/project/hashID/>
