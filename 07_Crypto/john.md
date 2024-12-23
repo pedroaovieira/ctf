@@ -1,5 +1,7 @@
 # John
 
+john --rules=single --wordlist=wordlist.txt hash.pdf.txt
+
 ## Shadow file
 
 - `sudo /usr/sbin/unshadow /etc/passwd /etc/shadow > passwords.txt`
